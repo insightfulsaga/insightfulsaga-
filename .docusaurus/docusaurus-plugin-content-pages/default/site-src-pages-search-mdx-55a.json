@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/search",
+  "source": "@site/src/pages/search.mdx",
+  "title": "Search our site",
+  "frontMatter": {},
+  "unlisted": false
+}

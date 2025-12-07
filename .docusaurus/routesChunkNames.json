@@ -1,1206 +1,1256 @@
 {
-  "/about/-fdd": {
-    "__comp": "1f391b9e",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "content": "f22fea79"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/about/-fdd": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-a-74-c06"
+    },
+    "content": "content---about-f-22-13e"
   },
   "/contact-b83": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "bb9046c3"
+    "content": "content---contactbb-9-b35"
   },
   "/cookie-policy-358": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "2d420e6d"
+    "content": "content---cookie-policy-2-d-4-012"
   },
   "/disclaimer-76d": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "6c8bebe0"
+    "content": "content---disclaimer-6-c-8-c41"
   },
   "/faq-0a0": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "1fd605f7"
+    "content": "content---faq-1-fd-509"
   },
   "/markdown-page-3d7": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "393be207"
+    "content": "content---markdown-page-393-028"
   },
   "/privacy-policy-524": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "bdd2e702"
+    "content": "content---privacy-policybdd-a68"
   },
   "/purpose/-c6e": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "a3b4bc78"
+    "content": "content---purpose-a-3-b-b63"
   },
   "/resume-templates-131": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "efd3f8b9"
+    "content": "content---resume-templatesefd-88a"
   },
   "/resume-templates/data-engineer-senior-2ba": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "0e39590e"
+    "content": "content---resume-templates-data-engineer-senior-0-e-3-f80"
   },
   "/roadmap-610": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "b4e94af8"
+    "content": "content---roadmapb-4-e-354"
+  },
+  "/search-40e": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---about-a-74-c06"
+    },
+    "content": "content---search-55-a-03f"
   },
   "/search-044": {
-    "__comp": "1a4e3797",
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "136aa404"
+      "plugin": "plugin---search-136-801"
     }
   },
   "/terms-of-use-f42": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "content": "c0818032"
+    "content": "content---terms-of-usec-08-cf2"
   },
   "/databricks-7f2": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "be687e62"
+      "plugin": "plugin---databricksbe-6-521"
     }
   },
   "/databricks-6f3": {
-    "__comp": "a7bd4aaa",
-    "__props": "7188739b"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---databricks-718-635"
   },
   "/databricks/tags-a6b": {
-    "__comp": "3720c009",
-    "__props": "ae1afb22"
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---databricks-tagsae-1-3f9"
   },
   "/databricks/tags/ai-analytics-b7c": {
-    "__comp": "df203c0f",
-    "__props": "1554edac"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---databricks-tags-ai-analytics-155-b4a"
   },
   "/databricks/tags/dashboards-724": {
-    "__comp": "df203c0f",
-    "__props": "6ad3c63d"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---databricks-tags-dashboards-6-ad-94d"
   },
   "/databricks/tags/databricks-420": {
-    "__comp": "df203c0f",
-    "__props": "adeaa9fb"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---databricks-tags-databricksade-f64"
   },
   "/databricks/tags/m-lflow-7e3": {
-    "__comp": "df203c0f",
-    "__props": "924c6bc5"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---databricks-tags-m-lflow-924-a8b"
   },
   "/databricks/tags/machine-learning-1df": {
-    "__comp": "df203c0f",
-    "__props": "874afc6b"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---databricks-tags-machine-learning-874-a71"
   },
   "/databricks-809": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/databricks/auditing-monitoring-logs-events-access-monitoring-7c1": {
-    "__comp": "17896441",
-    "content": "f57cf6ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-auditing-monitoring-logs-events-access-monitoringf-57-db4"
   },
   "/databricks/autoloader-cloudfiles-ingestion-0fb": {
-    "__comp": "17896441",
-    "content": "f840cc47"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-autoloader-cloudfiles-ingestionf-84-153"
   },
   "/databricks/cluster-vs-sql-warehouse-0f1": {
-    "__comp": "17896441",
-    "content": "22c804a6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-cluster-vs-sql-warehouse-22-c-c0c"
   },
   "/databricks/databricks-alerts-email-slack-504": {
-    "__comp": "17896441",
-    "content": "916d7996"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-alerts-email-slack-916-4e1"
   },
   "/databricks/databricks-architecture-585": {
-    "__comp": "17896441",
-    "content": "2e7a0f15"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-architecture-2-e-7-1ab"
   },
   "/databricks/databricks-caching-best-practices-144": {
-    "__comp": "17896441",
-    "content": "3b6ca5ec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-caching-best-practices-3-b-6-ea4"
   },
   "/databricks/databricks-catalog-schema-table-permissions-rbac-228": {
-    "__comp": "17896441",
-    "content": "b3bf60a6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-catalog-schema-table-permissions-rbacb-3-b-f3c"
   },
   "/databricks/databricks-cluster-policies-657": {
-    "__comp": "17896441",
-    "content": "261b1fd3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-cluster-policies-261-19e"
   },
   "/databricks/databricks-cluster-sizing-2ee": {
-    "__comp": "17896441",
-    "content": "ac4045ed"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-cluster-sizingac-4-617"
   },
   "/databricks/databricks-dataflow-d94": {
-    "__comp": "17896441",
-    "content": "1e92a7bd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-dataflow-1-e-9-136"
   },
   "/databricks/databricks-dbfs-4bd": {
-    "__comp": "17896441",
-    "content": "90e5faff"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-dbfs-90-e-0c6"
   },
   "/databricks/databricks-editions-8a4": {
-    "__comp": "17896441",
-    "content": "6546fa0a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-editions-654-ddc"
   },
   "/databricks/databricks-end-to-end-demo-51b": {
-    "__comp": "17896441",
-    "content": "01988429"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-end-to-end-demo-019-4dc"
   },
   "/databricks/databricks-file-compaction-823": {
-    "__comp": "17896441",
-    "content": "27203d4a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-file-compaction-272-fa0"
   },
   "/databricks/databricks-governance-tags-classifications-policies-1c2": {
-    "__comp": "17896441",
-    "content": "aa194ef8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-governance-tags-classifications-policiesaa-1-3c0"
   },
   "/databricks/databricks-interview-part1-58c": {
-    "__comp": "17896441",
-    "content": "0f67fb80"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-interview-part-10-f-6-2f4"
   },
   "/databricks/databricks-interview-part2-66d": {
-    "__comp": "17896441",
-    "content": "a09c316d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-interview-part-2-a-09-c1c"
   },
   "/databricks/databricks-interview-part3-ecb": {
-    "__comp": "17896441",
-    "content": "7f300730"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-interview-part-37-f-3-1b8"
   },
   "/databricks/databricks-interview-part4-f95": {
-    "__comp": "17896441",
-    "content": "c8409947"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-interview-part-4-c-84-b5c"
   },
   "/databricks/databricks-interview-part5-c02": {
-    "__comp": "17896441",
-    "content": "7f19d7d5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-interview-part-57-f-1-64b"
   },
   "/databricks/databricks-intro-7f8": {
-    "__comp": "17896441",
-    "content": "e339a9ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-introe-33-618"
   },
   "/databricks/databricks-jobs-scheduling-batch-processing-707": {
-    "__comp": "17896441",
-    "content": "372045d7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-jobs-scheduling-batch-processing-372-d91"
   },
   "/databricks/databricks-login-guide-b57": {
-    "__comp": "17896441",
-    "content": "4285ecde"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-login-guide-428-353"
   },
   "/databricks/databricks-managed-vs-external-tables-f42": {
-    "__comp": "17896441",
-    "content": "b2201415"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-managed-vs-external-tablesb-22-75b"
   },
   "/databricks/databricks-materialized-views-63a": {
-    "__comp": "17896441",
-    "content": "2c5e3d92"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-materialized-views-2-c-5-e83"
   },
   "/databricks/databricks-ml-ai-dashboards-cbe": {
-    "__comp": "17896441",
-    "content": "7d464dde"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-ml-ai-dashboards-7-d-4-cbd"
   },
   "/databricks/databricks-monitoring-dashboard-7b4": {
-    "__comp": "17896441",
-    "content": "cf5fc44b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-monitoring-dashboardcf-5-034"
   },
   "/databricks/databricks-multi-task-job-workflows-ff3": {
-    "__comp": "17896441",
-    "content": "d284c633"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-multi-task-job-workflowsd-28-1fb"
   },
   "/databricks/databricks-notebooks-basics-86e": {
-    "__comp": "17896441",
-    "content": "6bd55ff3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-notebooks-basics-6-bd-2cb"
   },
   "/databricks/databricks-optimize-zorder-c1c": {
-    "__comp": "17896441",
-    "content": "bac17149"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-optimize-zorderbac-71a"
   },
   "/databricks/databricks-photon-engine-38c": {
-    "__comp": "17896441",
-    "content": "1df85c9e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-photon-engine-1-df-d56"
   },
   "/databricks/databricks-pricing-8be": {
-    "__comp": "17896441",
-    "content": "af47b28b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-pricingaf-4-b1d"
   },
   "/databricks/databricks-real-world-project-9a7": {
-    "__comp": "17896441",
-    "content": "8011bfd0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-real-world-project-801-e5e"
   },
   "/databricks/databricks-repos-ci-cd-753": {
-    "__comp": "17896441",
-    "content": "44c6eb3f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-repos-ci-cd-44-c-11f"
   },
   "/databricks/databricks-security-basics-244": {
-    "__comp": "17896441",
-    "content": "f477857c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-security-basicsf-47-4be"
   },
   "/databricks/databricks-sql-endpoint-tuning-764": {
-    "__comp": "17896441",
-    "content": "b4c18d4d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-sql-endpoint-tuningb-4-c-a8a"
   },
   "/databricks/databricks-sql-n-dashboards-532": {
-    "__comp": "17896441",
-    "content": "f6c24ea2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-sql-n-dashboardsf-6-c-597"
   },
   "/databricks/databricks-workflows-production-orchestration-5ed": {
-    "__comp": "17896441",
-    "content": "2c46e496"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-workflows-production-orchestration-2-c-4-bfb"
   },
   "/databricks/databricks-workspace-ui-tour-cdc": {
-    "__comp": "17896441",
-    "content": "13102188"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-databricks-workspace-ui-tour-131-6a6"
   },
   "/databricks/dbsql-dashboards-and-alerts-add": {
-    "__comp": "17896441",
-    "content": "d5fafa9f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-dbsql-dashboards-and-alertsd-5-f-017"
   },
   "/databricks/delta-lake-core-ebf": {
-    "__comp": "17896441",
-    "content": "f2d17c64"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-delta-lake-coref-2-d-1dd"
   },
   "/databricks/delta-lake-overview-bac": {
-    "__comp": "17896441",
-    "content": "b3947d9b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-delta-lake-overviewb-39-2ee"
   },
   "/databricks/delta-live-tables-dlt-pipelines-cc3": {
-    "__comp": "17896441",
-    "content": "ec4f890e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-delta-live-tables-dlt-pipelinesec-4-374"
   },
   "/databricks/improving-lakehouse-performance-389": {
-    "__comp": "17896441",
-    "content": "1785c4a7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-improving-lakehouse-performance-178-4e0"
   },
   "/databricks/lakehouse-concept-f05": {
-    "__comp": "17896441",
-    "content": "f59711c7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-lakehouse-conceptf-59-21b"
   },
   "/databricks/lakehouse-federation-query-external-cloud-databases-c04": {
-    "__comp": "17896441",
-    "content": "233fcb0c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-lakehouse-federation-query-external-cloud-databases-233-5f8"
   },
   "/databricks/lakehouse-medallion-model-4a6": {
-    "__comp": "17896441",
-    "content": "6a97b1b8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-lakehouse-medallion-model-6-a-9-b1e"
   },
   "/databricks/mounting-cloud-storage-cfd": {
-    "__comp": "17896441",
-    "content": "8e57d29b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-mounting-cloud-storage-8-e-5-5b5"
   },
   "/databricks/organize-projects-databricks-eec": {
-    "__comp": "17896441",
-    "content": "4ab4cc5c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-organize-projects-databricks-4-ab-c1a"
   },
   "/databricks/performance-optimization-e4c": {
-    "__comp": "17896441",
-    "content": "c406d12f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-performance-optimizationc-40-b47"
   },
   "/databricks/performance-optimization1-9f7": {
-    "__comp": "17896441",
-    "content": "0ddf40c4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-performance-optimization-10-dd-c0e"
   },
   "/databricks/secret-scopes-secure-credential-management-05e": {
-    "__comp": "17896441",
-    "content": "11904416"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-secret-scopes-secure-credential-management-119-893"
   },
   "/databricks/service-principals-machine-identity-for-automation-d7f": {
-    "__comp": "17896441",
-    "content": "6d67fa76"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-service-principals-machine-identity-for-automation-6-d-6-5c6"
   },
   "/databricks/table-column-lineage-data-tracking-573": {
-    "__comp": "17896441",
-    "content": "50e610d2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-table-column-lineage-data-tracking-50-e-774"
   },
   "/databricks/unity-catalog-central-governance-039": {
-    "__comp": "17896441",
-    "content": "7e93f00d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-unity-catalog-central-governance-7-e-9-fb6"
   },
   "/databricks/unity-catalog-data-quality-d9f": {
-    "__comp": "17896441",
-    "content": "41ad986d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---databricks-unity-catalog-data-quality-41-a-022"
   },
   "/pyspark-885": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "e94afc60"
+      "plugin": "plugin---pysparke-94-702"
     }
   },
   "/pyspark-0a9": {
-    "__comp": "a7bd4aaa",
-    "__props": "10323e5f"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---pyspark-103-551"
   },
   "/pyspark/tags-43a": {
-    "__comp": "3720c009",
-    "__props": "a4df0e6c"
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---pyspark-tagsa-4-d-ac6"
   },
   "/pyspark/tags/aggregations-494": {
-    "__comp": "df203c0f",
-    "__props": "76326aa7"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-aggregations-763-6c4"
   },
   "/pyspark/tags/apache-spark-1b1": {
-    "__comp": "df203c0f",
-    "__props": "4089b04b"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-apache-spark-408-ca8"
   },
   "/pyspark/tags/arrays-516": {
-    "__comp": "df203c0f",
-    "__props": "3e24a586"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-arrays-3-e-2-ffc"
   },
   "/pyspark/tags/avro-0cd": {
-    "__comp": "df203c0f",
-    "__props": "a57a387e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-avroa-57-024"
   },
   "/pyspark/tags/aws-emr-c55": {
-    "__comp": "df203c0f",
-    "__props": "3bfc24ce"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-aws-emr-3-bf-757"
   },
   "/pyspark/tags/azure-synapse-0e2": {
-    "__comp": "df203c0f",
-    "__props": "b4564368"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-azure-synapseb-45-bc2"
   },
   "/pyspark/tags/beginner-a2a": {
-    "__comp": "df203c0f",
-    "__props": "0aa9c735"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-beginner-0-aa-219"
   },
   "/pyspark/tags/big-data-426": {
-    "__comp": "df203c0f",
-    "__props": "2aa17e60"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-big-data-2-aa-83e"
   },
   "/pyspark/tags/broadcast-join-e43": {
-    "__comp": "df203c0f",
-    "__props": "b0e3096b"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-broadcast-joinb-0-e-211"
   },
   "/pyspark/tags/bucketing-84b": {
-    "__comp": "df203c0f",
-    "__props": "4ba5d8d8"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-bucketing-4-ba-149"
   },
   "/pyspark/tags/catalyst-optimizer-cf2": {
-    "__comp": "df203c0f",
-    "__props": "b97ff270"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-catalyst-optimizerb-97-1cf"
   },
   "/pyspark/tags/checkpoints-a6d": {
-    "__comp": "df203c0f",
-    "__props": "5e1348aa"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-checkpoints-5-e-1-728"
   },
   "/pyspark/tags/classification-10e": {
-    "__comp": "df203c0f",
-    "__props": "e67ea1d1"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-classificatione-67-091"
   },
   "/pyspark/tags/cluster-computing-566": {
-    "__comp": "df203c0f",
-    "__props": "074d3b6b"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-cluster-computing-074-3d1"
   },
   "/pyspark/tags/cluster-manager-574": {
-    "__comp": "df203c0f",
-    "__props": "f67545fa"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-cluster-managerf-67-e02"
   },
   "/pyspark/tags/clustering-12b": {
-    "__comp": "df203c0f",
-    "__props": "6774d5de"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-clustering-677-26e"
   },
   "/pyspark/tags/coalesce-730": {
-    "__comp": "df203c0f",
-    "__props": "b35f9eda"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-coalesceb-35-71a"
   },
   "/pyspark/tags/column-operations-f85": {
-    "__comp": "df203c0f",
-    "__props": "6774a1ca"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-column-operations-677-0c7"
   },
   "/pyspark/tags/complex-data-types-d7f": {
-    "__comp": "df203c0f",
-    "__props": "d4255cd4"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-complex-data-typesd-42-417"
   },
   "/pyspark/tags/configuration-2d5": {
-    "__comp": "df203c0f",
-    "__props": "0948b233"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-configuration-094-322"
   },
   "/pyspark/tags/csv-582": {
-    "__comp": "df203c0f",
-    "__props": "a04d9931"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-csva-04-522"
   },
   "/pyspark/tags/data-frame-345": {
-    "__comp": "df203c0f",
-    "__props": "ddc7fb3b"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-data-frameddc-db4"
   },
   "/pyspark/tags/data-frame-api-7b6": {
-    "__comp": "df203c0f",
-    "__props": "f06351b6"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-data-frame-apif-06-41d"
   },
   "/pyspark/tags/data-frame-joins-aee": {
-    "__comp": "df203c0f",
-    "__props": "58d96613"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-data-frame-joins-58-d-7c4"
   },
   "/pyspark/tags/data-frames-fa0": {
-    "__comp": "df203c0f",
-    "__props": "d7e279bc"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-data-framesd-7-e-14f"
   },
   "/pyspark/tags/data-i-o-c15": {
-    "__comp": "df203c0f",
-    "__props": "e47cb045"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-data-i-oe-47-42b"
   },
   "/pyspark/tags/data-pipelines-143": {
-    "__comp": "df203c0f",
-    "__props": "167261a3"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-data-pipelines-167-626"
   },
   "/pyspark/tags/data-processing-451": {
-    "__comp": "df203c0f",
-    "__props": "3e9894d4"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-data-processing-3-e-9-1ac"
   },
   "/pyspark/tags/data-quality-0e6": {
-    "__comp": "df203c0f",
-    "__props": "8aae3f6e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-data-quality-8-aa-183"
   },
   "/pyspark/tags/databricks-807": {
-    "__comp": "df203c0f",
-    "__props": "7db24cc3"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-databricks-7-db-d67"
   },
   "/pyspark/tags/delta-lake-ea8": {
-    "__comp": "df203c0f",
-    "__props": "ea9d67f7"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-delta-lakeea-9-775"
   },
   "/pyspark/tags/driver-program-d44": {
-    "__comp": "df203c0f",
-    "__props": "e7202f2e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-driver-programe-72-24d"
   },
   "/pyspark/tags/etl-bde": {
-    "__comp": "df203c0f",
-    "__props": "6aff01dd"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-etl-6-af-5e8"
   },
   "/pyspark/tags/executors-aaf": {
-    "__comp": "df203c0f",
-    "__props": "4a464c6c"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-executors-4-a-4-f36"
   },
   "/pyspark/tags/explode-65b": {
-    "__comp": "df203c0f",
-    "__props": "6792ff2f"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-explode-679-00d"
   },
   "/pyspark/tags/feature-engineering-5ab": {
-    "__comp": "df203c0f",
-    "__props": "8b28c2bd"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-feature-engineering-8-b-2-012"
   },
   "/pyspark/tags/filtering-071": {
-    "__comp": "df203c0f",
-    "__props": "299b5878"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-filtering-299-b43"
   },
   "/pyspark/tags/functions-692": {
-    "__comp": "df203c0f",
-    "__props": "a8764c80"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-functionsa-87-455"
   },
   "/pyspark/tags/gcp-dataproc-dfe": {
-    "__comp": "df203c0f",
-    "__props": "d9f56ca8"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-gcp-dataprocd-9-f-944"
   },
   "/pyspark/tags/group-by-a88": {
-    "__comp": "df203c0f",
-    "__props": "82332621"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-group-by-823-b54"
   },
   "/pyspark/tags/hive-e64": {
-    "__comp": "df203c0f",
-    "__props": "1a739690"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-hive-1-a-7-d45"
   },
   "/pyspark/tags/house-price-linear-regression-458": {
-    "__comp": "df203c0f",
-    "__props": "9c3f337f"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-house-price-linear-regression-9-c-3-dc1"
   },
   "/pyspark/tags/join-optimization-590": {
-    "__comp": "df203c0f",
-    "__props": "ab483cd9"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-join-optimizationab-4-3c7"
   },
   "/pyspark/tags/json-b72": {
-    "__comp": "df203c0f",
-    "__props": "af7b6e55"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-jsonaf-7-59e"
   },
   "/pyspark/tags/kafka-b02": {
-    "__comp": "df203c0f",
-    "__props": "11bb5431"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-kafka-11-b-63c"
   },
   "/pyspark/tags/key-value-rdd-d75": {
-    "__comp": "df203c0f",
-    "__props": "446f5c4e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-key-value-rdd-446-900"
   },
   "/pyspark/tags/linear-regression-math-d52": {
-    "__comp": "df203c0f",
-    "__props": "740be603"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-linear-regression-math-740-239"
   },
   "/pyspark/tags/linear-regression-model-6d5": {
-    "__comp": "df203c0f",
-    "__props": "601cbd21"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-linear-regression-model-601-059"
   },
   "/pyspark/tags/logistic-regression-mini-project-cfb": {
-    "__comp": "df203c0f",
-    "__props": "563b3c4d"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-logistic-regression-mini-project-563-28e"
   },
   "/pyspark/tags/logistic-regression-model-b9e": {
-    "__comp": "df203c0f",
-    "__props": "ba988d57"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-logistic-regression-modelba-9-47c"
   },
   "/pyspark/tags/logistic-regression-query-191": {
-    "__comp": "df203c0f",
-    "__props": "c3b9db73"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-logistic-regression-queryc-3-b-b71"
   },
   "/pyspark/tags/m-llib-51d": {
-    "__comp": "df203c0f",
-    "__props": "bb567fbd"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-m-llibbb-5-1ce"
   },
   "/pyspark/tags/machine-learning-cb2": {
-    "__comp": "df203c0f",
-    "__props": "5c1d7870"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-machine-learning-5-c-1-a53"
   },
   "/pyspark/tags/memory-management-9da": {
-    "__comp": "df203c0f",
-    "__props": "ab4775b7"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-memory-managementab-4-a81"
   },
   "/pyspark/tags/missing-data-handling-64e": {
-    "__comp": "df203c0f",
-    "__props": "092ed0e8"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-missing-data-handling-092-157"
   },
   "/pyspark/tags/narrow-vs-wide-transformations-9ba": {
-    "__comp": "df203c0f",
-    "__props": "316d2e65"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-narrow-vs-wide-transformations-316-1eb"
   },
   "/pyspark/tags/pandas-ud-fs-2da": {
-    "__comp": "df203c0f",
-    "__props": "0ddee87b"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pandas-ud-fs-0-dd-268"
   },
   "/pyspark/tags/parquet-3f8": {
-    "__comp": "df203c0f",
-    "__props": "9da82f1a"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-parquet-9-da-7e3"
   },
   "/pyspark/tags/partitioning-3c8": {
-    "__comp": "df203c0f",
-    "__props": "fdfc0e8b"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-partitioningfdf-05c"
   },
   "/pyspark/tags/performance-tuning-7e5": {
-    "__comp": "df203c0f",
-    "__props": "8156d695"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-performance-tuning-815-c8f"
   },
   "/pyspark/tags/pivot-15b": {
-    "__comp": "df203c0f",
-    "__props": "81bc1e99"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pivot-81-b-c39"
   },
   "/pyspark/tags/production-pipelines-fd1": {
-    "__comp": "df203c0f",
-    "__props": "97a012f7"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-production-pipelines-97-a-86b"
   },
   "/pyspark/tags/py-spark-b1c": {
-    "__comp": "df203c0f",
-    "__props": "714f0df5"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-py-spark-714-075"
   },
   "/pyspark/tags/py-spark-interview-questions-8e4": {
-    "__comp": "df203c0f",
-    "__props": "ee051856"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-py-spark-interview-questionsee-0-3ca"
   },
   "/pyspark/tags/pyspark-aggregation-90d": {
-    "__comp": "df203c0f",
-    "__props": "c8068d44"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-aggregationc-80-243"
   },
   "/pyspark/tags/pyspark-dataframe-basics-cc5": {
-    "__comp": "df203c0f",
-    "__props": "8bc27440"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-dataframe-basics-8-bc-943"
   },
   "/pyspark/tags/pyspark-dataframe-basics-2-da7": {
-    "__comp": "df203c0f",
-    "__props": "316400fd"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-dataframe-basics-2316-902"
   },
   "/pyspark/tags/pyspark-dates-620": {
-    "__comp": "df203c0f",
-    "__props": "4f46c6ed"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-dates-4-f-4-2b1"
   },
   "/pyspark/tags/pyspark-filtering-00f": {
-    "__comp": "df203c0f",
-    "__props": "298d0515"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-filtering-298-20b"
   },
   "/pyspark/tags/pyspark-interview-questions-part-1-eec": {
-    "__comp": "df203c0f",
-    "__props": "fbb628fa"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-interview-questions-part-1-fbb-733"
   },
   "/pyspark/tags/pyspark-interview-questions-part-2-40d": {
-    "__comp": "df203c0f",
-    "__props": "6fea28d0"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-interview-questions-part-26-fe-f88"
   },
   "/pyspark/tags/pyspark-interview-questions-part-3-f7a": {
-    "__comp": "df203c0f",
-    "__props": "39122d6c"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-interview-questions-part-3391-7b9"
   },
   "/pyspark/tags/pyspark-interview-questions-part-4-558": {
-    "__comp": "df203c0f",
-    "__props": "4075c53e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-interview-questions-part-4407-59c"
   },
   "/pyspark/tags/pyspark-interview-questions-part-5-b0a": {
-    "__comp": "df203c0f",
-    "__props": "daedc0bc"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-interview-questions-part-5-dae-f99"
   },
   "/pyspark/tags/pyspark-intro-d14": {
-    "__comp": "df203c0f",
-    "__props": "19d2733e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-intro-19-d-3e1"
   },
   "/pyspark/tags/pyspark-joins-bfe": {
-    "__comp": "df203c0f",
-    "__props": "92601f38"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-joins-926-bb7"
   },
   "/pyspark/tags/pyspark-missing-01c": {
-    "__comp": "df203c0f",
-    "__props": "ee6f1fd6"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-missingee-6-325"
   },
   "/pyspark/tags/pyspark-one-liners-19c": {
-    "__comp": "df203c0f",
-    "__props": "01c8efe9"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-pyspark-one-liners-01-c-1eb"
   },
   "/pyspark/tags/rdd-b05": {
-    "__comp": "df203c0f",
-    "__props": "90f5f2f6"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-rdd-90-f-dae"
   },
   "/pyspark/tags/rdd-actions-aa8": {
-    "__comp": "df203c0f",
-    "__props": "359a2a1f"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-rdd-actions-359-3d9"
   },
   "/pyspark/tags/rdd-caching-642": {
-    "__comp": "df203c0f",
-    "__props": "b30e2aef"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-rdd-cachingb-30-e8e"
   },
   "/pyspark/tags/rdd-transformations-40b": {
-    "__comp": "df203c0f",
-    "__props": "ceb6d527"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-rdd-transformationsceb-d2b"
   },
   "/pyspark/tags/real-time-data-a53": {
-    "__comp": "df203c0f",
-    "__props": "5ceffba7"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-real-time-data-5-ce-013"
   },
   "/pyspark/tags/recommendation-systems-a3c": {
-    "__comp": "df203c0f",
-    "__props": "88b70801"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-recommendation-systems-88-b-a5e"
   },
   "/pyspark/tags/regression-b87": {
-    "__comp": "df203c0f",
-    "__props": "319dd332"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-regression-319-769"
   },
   "/pyspark/tags/repartition-5d0": {
-    "__comp": "df203c0f",
-    "__props": "9480ae26"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-repartition-948-f91"
   },
   "/pyspark/tags/sampling-422": {
-    "__comp": "df203c0f",
-    "__props": "8928cf52"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-sampling-892-c4b"
   },
   "/pyspark/tags/semi-structured-data-c44": {
-    "__comp": "df203c0f",
-    "__props": "7e40f7f9"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-semi-structured-data-7-e-4-67c"
   },
   "/pyspark/tags/setup-41e": {
-    "__comp": "df203c0f",
-    "__props": "33a71ada"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-setup-33-a-f70"
   },
   "/pyspark/tags/shuffle-e9d": {
-    "__comp": "df203c0f",
-    "__props": "de8c06f5"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-shufflede-8-324"
   },
   "/pyspark/tags/snowflake-1c2": {
-    "__comp": "df203c0f",
-    "__props": "c09169f7"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-snowflakec-09-526"
   },
   "/pyspark/tags/sorting-3f4": {
-    "__comp": "df203c0f",
-    "__props": "9552a4d4"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-sorting-955-747"
   },
   "/pyspark/tags/spark-architecture-605": {
-    "__comp": "df203c0f",
-    "__props": "6d0180f2"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-spark-architecture-6-d-0-632"
   },
   "/pyspark/tags/spark-basics-237": {
-    "__comp": "df203c0f",
-    "__props": "fab4c850"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-spark-basicsfab-e7d"
   },
   "/pyspark/tags/spark-context-4da": {
-    "__comp": "df203c0f",
-    "__props": "6c5eab41"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-spark-context-6-c-5-b66"
   },
   "/pyspark/tags/spark-session-5bc": {
-    "__comp": "df203c0f",
-    "__props": "0751a7e8"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-spark-session-075-bd4"
   },
   "/pyspark/tags/spark-sql-ea6": {
-    "__comp": "df203c0f",
-    "__props": "9043f30d"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-spark-sql-904-f2a"
   },
   "/pyspark/tags/spark-sql-functions-3ab": {
-    "__comp": "df203c0f",
-    "__props": "5d5ec8f0"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-spark-sql-functions-5-d-5-835"
   },
   "/pyspark/tags/spark-ui-e8b": {
-    "__comp": "df203c0f",
-    "__props": "204e6b5c"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-spark-ui-204-e4c"
   },
   "/pyspark/tags/sql-351": {
-    "__comp": "df203c0f",
-    "__props": "865267bb"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-sql-865-453"
   },
   "/pyspark/tags/streaming-e6e": {
-    "__comp": "df203c0f",
-    "__props": "58c570dd"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-streaming-58-c-f88"
   },
   "/pyspark/tags/streaming-sinks-075": {
-    "__comp": "df203c0f",
-    "__props": "8ffb0426"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-streaming-sinks-8-ff-f04"
   },
   "/pyspark/tags/struct-type-003": {
-    "__comp": "df203c0f",
-    "__props": "7aa11b0b"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-struct-type-7-aa-2b3"
   },
   "/pyspark/tags/structured-streaming-8a6": {
-    "__comp": "df203c0f",
-    "__props": "12eb5bb3"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-structured-streaming-12-e-14c"
   },
   "/pyspark/tags/temp-views-bf1": {
-    "__comp": "df203c0f",
-    "__props": "4f2ad9fa"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-temp-views-4-f-2-eed"
   },
   "/pyspark/tags/tungsten-8b7": {
-    "__comp": "df203c0f",
-    "__props": "73b16c43"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-tungsten-73-b-565"
   },
   "/pyspark/tags/ud-fs-dad": {
-    "__comp": "df203c0f",
-    "__props": "09486320"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-ud-fs-094-a2a"
   },
   "/pyspark/tags/udaf-ce4": {
-    "__comp": "df203c0f",
-    "__props": "1f6e90af"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-udaf-1-f-6-190"
   },
   "/pyspark/tags/udf-5f1": {
-    "__comp": "df203c0f",
-    "__props": "bb3c27f3"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-udfbb-3-6c9"
   },
   "/pyspark/tags/unpivot-d7f": {
-    "__comp": "df203c0f",
-    "__props": "5818f73e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-unpivot-581-b59"
   },
   "/pyspark/tags/use-cases-bd1": {
-    "__comp": "df203c0f",
-    "__props": "cb03cc74"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-use-casescb-0-90a"
   },
   "/pyspark/tags/watermarking-4df": {
-    "__comp": "df203c0f",
-    "__props": "b0544d9e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-watermarkingb-05-66d"
   },
   "/pyspark/tags/window-functions-234": {
-    "__comp": "df203c0f",
-    "__props": "2a1c9eaf"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-window-functions-2-a-1-f36"
   },
   "/pyspark/tags/workflow-automation-30b": {
-    "__comp": "df203c0f",
-    "__props": "ebb7bff9"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---pyspark-tags-workflow-automationebb-bd2"
   },
   "/pyspark-5b8": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/pyspark/complex-sql-e12": {
-    "__comp": "17896441",
-    "content": "c264e19f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-complex-sqlc-26-f49"
   },
   "/pyspark/df-aggregations-ab7": {
-    "__comp": "17896441",
-    "content": "e16c73e6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-df-aggregationse-16-29a"
   },
   "/pyspark/df-api-b8a": {
-    "__comp": "17896441",
-    "content": "1bc7c009"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-df-api-1-bc-106"
   },
   "/pyspark/df-create-csv-c94": {
-    "__comp": "17896441",
-    "content": "8b00cc08"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-df-create-csv-8-b-0-bd6"
   },
   "/pyspark/df-missing-data-fa5": {
-    "__comp": "17896441",
-    "content": "01abca27"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-df-missing-data-01-a-9f4"
   },
   "/pyspark/df-vs-spark-sql-d9e": {
-    "__comp": "17896441",
-    "content": "dd68aced"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-df-vs-spark-sqldd-6-090"
   },
   "/pyspark/df-window-functions-141": {
-    "__comp": "17896441",
-    "content": "bbcfeeb4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-df-window-functionsbbc-56e"
   },
   "/pyspark/house-price-linear-regression-3a0": {
-    "__comp": "17896441",
-    "content": "2ef18fc1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-house-price-linear-regression-2-ef-602"
   },
   "/pyspark/linear-regression-math-520": {
-    "__comp": "17896441",
-    "content": "a549a160"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-linear-regression-matha-54-8a4"
   },
   "/pyspark/linear-regression-model-38d": {
-    "__comp": "17896441",
-    "content": "ee554285"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-linear-regression-modelee-5-92b"
   },
   "/pyspark/logistic-regression-mini-project-49d": {
-    "__comp": "17896441",
-    "content": "a223a851"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-logistic-regression-mini-projecta-22-358"
   },
   "/pyspark/logistic-regression-model-d69": {
-    "__comp": "17896441",
-    "content": "9c9eb015"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-logistic-regression-model-9-c-9-0c2"
   },
   "/pyspark/logistic-regression-query-a63": {
-    "__comp": "17896441",
-    "content": "cbfdcd80"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-logistic-regression-querycbf-441"
   },
   "/pyspark/pyspark-architecture-f2e": {
-    "__comp": "17896441",
-    "content": "633eeff3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-architecture-633-778"
   },
   "/pyspark/pyspark-first-job-8e6": {
-    "__comp": "17896441",
-    "content": "686dde1e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-first-job-686-ff6"
   },
   "/pyspark/pyspark-installation-e0f": {
-    "__comp": "17896441",
-    "content": "8592cc44"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-installation-859-cc1"
   },
   "/pyspark/pyspark-interview-questions-part1-4e8": {
-    "__comp": "17896441",
-    "content": "37b75a1c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-interview-questions-part-137-b-d0b"
   },
   "/pyspark/pyspark-interview-questions-part2-393": {
-    "__comp": "17896441",
-    "content": "e87528c8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-interview-questions-part-2-e-87-3a2"
   },
   "/pyspark/pyspark-interview-questions-part3-fe5": {
-    "__comp": "17896441",
-    "content": "eaf3018c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-interview-questions-part-3-eaf-e39"
   },
   "/pyspark/pyspark-interview-questions-part4-45f": {
-    "__comp": "17896441",
-    "content": "193105f2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-interview-questions-part-4193-e53"
   },
   "/pyspark/pyspark-interview-questions-part5-a3a": {
-    "__comp": "17896441",
-    "content": "1b0ffeb8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-interview-questions-part-51-b-0-59c"
   },
   "/pyspark/pyspark-interview-questions-part6-853": {
-    "__comp": "17896441",
-    "content": "e565cd6a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-interview-questions-part-6-e-56-338"
   },
   "/pyspark/pyspark-intro-831": {
-    "__comp": "17896441",
-    "content": "b7d7a06a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-introb-7-d-5a2"
   },
   "/pyspark/pyspark-mllib-overview-87a": {
-    "__comp": "17896441",
-    "content": "8c5bfbc2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-mllib-overview-8-c-5-545"
   },
   "/pyspark/pyspark-one-liners-fed": {
-    "__comp": "17896441",
-    "content": "dd4966b4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-one-linersdd-4-996"
   },
   "/pyspark/pyspark-rdd-vs-dataframe-fe2": {
-    "__comp": "17896441",
-    "content": "4ae9121c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-rdd-vs-dataframe-4-ae-435"
   },
   "/pyspark/pyspark-spark-session-context-841": {
-    "__comp": "17896441",
-    "content": "c649b2b9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-spark-session-contextc-64-a88"
   },
   "/pyspark/pyspark-streaming-intro-bb4": {
-    "__comp": "17896441",
-    "content": "ccff5377"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-streaming-introccf-a46"
   },
   "/pyspark/pyspark-streaming-kafka-b96": {
-    "__comp": "17896441",
-    "content": "c8224289"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-streaming-kafkac-82-0a1"
   },
   "/pyspark/pyspark/aggregation-36e": {
-    "__comp": "17896441",
-    "content": "093dfabb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-aggregation-093-4f7"
   },
   "/pyspark/pyspark/data-io-7dc": {
-    "__comp": "17896441",
-    "content": "584fff6b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-data-io-584-860"
   },
   "/pyspark/pyspark/dataframe-basics-68e": {
-    "__comp": "17896441",
-    "content": "4efb5e54"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-dataframe-basics-4-ef-5ad"
   },
   "/pyspark/pyspark/dataframe-basics-2-9da": {
-    "__comp": "17896441",
-    "content": "8cec6258"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-dataframe-basics-28-ce-fde"
   },
   "/pyspark/pyspark/dates-and-timestamps-64d": {
-    "__comp": "17896441",
-    "content": "683f68b8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-dates-and-timestamps-683-d95"
   },
   "/pyspark/pyspark/filtering-714": {
-    "__comp": "17896441",
-    "content": "1f395113"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-filtering-1-f-3-4d2"
   },
   "/pyspark/pyspark/functions-udfs-ef5": {
-    "__comp": "17896441",
-    "content": "6fe7eb33"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-functions-udfs-6-fe-151"
   },
   "/pyspark/pyspark/joins-5a0": {
-    "__comp": "17896441",
-    "content": "bb556ffb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-joinsbb-5-ae5"
   },
   "/pyspark/pyspark/missing-data-73b": {
-    "__comp": "17896441",
-    "content": "1aef2fdb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-missing-data-1-ae-ef7"
   },
   "/pyspark/pyspark/setup-configuration-021": {
-    "__comp": "17896441",
-    "content": "97ad7662"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-pyspark-setup-configuration-97-a-fcc"
   },
   "/pyspark/rdd-basics-975": {
-    "__comp": "17896441",
-    "content": "7a2b9b72"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-rdd-basics-7-a-2-ee0"
   },
   "/pyspark/rdd-key-value-46d": {
-    "__comp": "17896441",
-    "content": "173fd38e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-rdd-key-value-173-30d"
   },
   "/pyspark/rdd-map-flatmap-filter-1fb": {
-    "__comp": "17896441",
-    "content": "847e1744"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-rdd-map-flatmap-filter-847-ec0"
   },
   "/pyspark/rdd-persistence-caching-b94": {
-    "__comp": "17896441",
-    "content": "6f64dcda"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-rdd-persistence-caching-6-f-6-9b5"
   },
   "/pyspark/spark-sql-7a9": {
-    "__comp": "17896441",
-    "content": "ee5db37e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-spark-sqlee-5-704"
   },
   "/pyspark/structured-streaming-intro-63f": {
-    "__comp": "17896441",
-    "content": "8bab72ce"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-structured-streaming-intro-8-ba-13d"
   },
   "/pyspark/udfs-udafs-3a0": {
-    "__comp": "17896441",
-    "content": "4185afec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---pyspark-udfs-udafs-418-a63"
   },
   "/snowflake-95e": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "1542dda4"
+      "plugin": "plugin---snowflake-154-dad"
     }
   },
   "/snowflake-fd2": {
-    "__comp": "a7bd4aaa",
-    "__props": "7c5d7570"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---snowflake-7-c-5-5eb"
   },
   "/snowflake/tags-fb4": {
-    "__comp": "3720c009",
-    "__props": "926fdaf9"
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---snowflake-tags-926-4ef"
   },
   "/snowflake/tags/cloud-analytics-475": {
-    "__comp": "df203c0f",
-    "__props": "152a6118"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---snowflake-tags-cloud-analytics-152-099"
   },
   "/snowflake/tags/data-warehouse-312": {
-    "__comp": "df203c0f",
-    "__props": "87a5b8d5"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---snowflake-tags-data-warehouse-87-a-234"
   },
   "/snowflake/tags/snowflake-2b5": {
-    "__comp": "df203c0f",
-    "__props": "f320ed27"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---snowflake-tags-snowflakef-32-bde"
   },
   "/snowflake-57f": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/snowflake/snowflake-architecture-f65": {
-    "__comp": "17896441",
-    "content": "7a096bb7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-architecture-7-a-0-856"
   },
   "/snowflake/snowflake-automatic-query-optimization-05d": {
-    "__comp": "17896441",
-    "content": "9c6a4e4e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-automatic-query-optimization-9-c-6-c02"
   },
   "/snowflake/snowflake-caching-fdb": {
-    "__comp": "17896441",
-    "content": "4c33011d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-caching-4-c-3-d9c"
   },
   "/snowflake/snowflake-clustering-keys-explained-af0": {
-    "__comp": "17896441",
-    "content": "2ccfeb80"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-clustering-keys-explained-2-cc-4a7"
   },
   "/snowflake/snowflake-copy-into-command-6cd": {
-    "__comp": "17896441",
-    "content": "8ca7e339"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-copy-into-command-8-ca-c76"
   },
   "/snowflake/snowflake-costs-best-practices-024": {
-    "__comp": "17896441",
-    "content": "07d45729"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-costs-best-practices-07-d-ccb"
   },
   "/snowflake/snowflake-costs-billing-dashboard-monitoring-5d1": {
-    "__comp": "17896441",
-    "content": "c0fd5058"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-costs-billing-dashboard-monitoringc-0-f-87f"
   },
   "/snowflake/snowflake-data-types-explained-190": {
-    "__comp": "17896441",
-    "content": "6a9aa4ea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-data-types-explained-6-a-9-732"
   },
   "/snowflake/snowflake-dynamic-data-masking-use-cases-a72": {
-    "__comp": "17896441",
-    "content": "f8a71e02"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-dynamic-data-masking-use-casesf-8-a-6fc"
   },
   "/snowflake/snowflake-editions-4c0": {
-    "__comp": "17896441",
-    "content": "df5efe8e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-editionsdf-5-0a7"
   },
   "/snowflake/snowflake-external-stages-09a": {
-    "__comp": "17896441",
-    "content": "6b1cee4c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-external-stages-6-b-1-be5"
   },
   "/snowflake/snowflake-file-formats-826": {
-    "__comp": "17896441",
-    "content": "17fd42ef"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-file-formats-17-f-73a"
   },
   "/snowflake/snowflake-flatten-variant-608": {
-    "__comp": "17896441",
-    "content": "b16a90d6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-flatten-variantb-16-8ee"
   },
   "/snowflake/snowflake-governance-access-control-tags-policies-f49": {
-    "__comp": "17896441",
-    "content": "d5f87413"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-governance-access-control-tags-policiesd-5-f-448"
   },
   "/snowflake/snowflake-incremental-loading-cdc-914": {
-    "__comp": "17896441",
-    "content": "42b02063"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-incremental-loading-cdc-42-b-f51"
   },
   "/snowflake/snowflake-internal-table-user-stages-194": {
-    "__comp": "17896441",
-    "content": "815e4108"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-internal-table-user-stages-815-d22"
   },
   "/snowflake/snowflake-intro-b5a": {
-    "__comp": "17896441",
-    "content": "ccdfbbf5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-introccd-8dc"
   },
   "/snowflake/snowflake-large-files-optimization-a63": {
-    "__comp": "17896441",
-    "content": "66915129"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-large-files-optimization-669-f87"
   },
   "/snowflake/snowflake-materialized-views-2fd": {
-    "__comp": "17896441",
-    "content": "e9b62fab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-materialized-viewse-9-b-e62"
   },
   "/snowflake/snowflake-micro-partitions-d5f": {
-    "__comp": "17896441",
-    "content": "80265743"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-micro-partitions-802-4c1"
   },
   "/snowflake/snowflake-object-hierarchy-8a7": {
-    "__comp": "17896441",
-    "content": "385c13a8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-object-hierarchy-385-08d"
   },
   "/snowflake/snowflake-performance-tuning-a3d": {
-    "__comp": "17896441",
-    "content": "467f2191"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-performance-tuning-467-bff"
   },
   "/snowflake/snowflake-python-pyspark-databricks-integration-5b9": {
-    "__comp": "17896441",
-    "content": "1615aff8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-python-pyspark-databricks-integration-161-2d6"
   },
   "/snowflake/snowflake-query-profile-506": {
-    "__comp": "17896441",
-    "content": "3b43b234"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-query-profile-3-b-4-c13"
   },
   "/snowflake/snowflake-rbac-user-roles-27c": {
-    "__comp": "17896441",
-    "content": "e83e4c77"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-rbac-user-rolese-83-545"
   },
   "/snowflake/snowflake-row-access-policies-rls-ad4": {
-    "__comp": "17896441",
-    "content": "a4e32bb5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-row-access-policies-rlsa-4-e-df1"
   },
   "/snowflake/snowflake-secure-views-9c9": {
-    "__comp": "17896441",
-    "content": "c76b6142"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-secure-viewsc-76-e9f"
   },
   "/snowflake/snowflake-semi-structured-data-e06": {
-    "__comp": "17896441",
-    "content": "c20bd25d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-semi-structured-datac-20-bd2"
   },
   "/snowflake/snowflake-sharing-marketplace-exchange-secure-shares-fdb": {
-    "__comp": "17896441",
-    "content": "32c79902"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-sharing-marketplace-exchange-secure-shares-32-c-420"
   },
   "/snowflake/snowflake-snowpipe-658": {
-    "__comp": "17896441",
-    "content": "fa81f9b1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-snowpipefa-8-d97"
   },
   "/snowflake/snowflake-sql-basics-e66": {
-    "__comp": "17896441",
-    "content": "b22e4d51"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-sql-basicsb-22-223"
   },
   "/snowflake/snowflake-streams-542": {
-    "__comp": "17896441",
-    "content": "cdc3151a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-streamscdc-411"
   },
   "/snowflake/snowflake-tasks-066": {
-    "__comp": "17896441",
-    "content": "719340fc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-tasks-719-b05"
   },
   "/snowflake/snowflake-tasks-cron-293": {
-    "__comp": "17896441",
-    "content": "c1ceabad"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-tasks-cronc-1-c-6bc"
   },
   "/snowflake/snowflake-time-travel-fail-safe-046": {
-    "__comp": "17896441",
-    "content": "0dd6f62c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-time-travel-fail-safe-0-dd-b64"
   },
   "/snowflake/snowflake-virtual-warehouses-254": {
-    "__comp": "17896441",
-    "content": "326c2a8a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-virtual-warehouses-326-053"
   },
   "/snowflake/snowflake-vs-traditional-databases-904": {
-    "__comp": "17896441",
-    "content": "40aceb8a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-vs-traditional-databases-40-a-4db"
   },
   "/snowflake/snowflake-warehouse-sizing-34c": {
-    "__comp": "17896441",
-    "content": "3cc75101"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-warehouse-sizing-3-cc-57e"
   },
   "/snowflake/snowflake-web-ui-tour-814": {
-    "__comp": "17896441",
-    "content": "ca522c46"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-web-ui-tourca-5-210"
   },
   "/snowflake/snowflake-zero-copy-cloning-710": {
-    "__comp": "17896441",
-    "content": "14e24715"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---snowflake-snowflake-zero-copy-cloning-14-e-9e2"
   },
   "/-2e1": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---about-a-74-c06"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

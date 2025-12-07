@@ -111,6 +111,14 @@ const config = {
           
           { type: 'search', position: 'right' },
         ],
+        scripts: [
+    // Example: add Google CSE loader (replace with the exact src Google gave you)
+      {
+      src: 'https://cse.google.com/cse.js?cx=c0e34643454d64093',
+      async: true,
+      defer: true
+    }
+  ],
       },
 
       footer: {
