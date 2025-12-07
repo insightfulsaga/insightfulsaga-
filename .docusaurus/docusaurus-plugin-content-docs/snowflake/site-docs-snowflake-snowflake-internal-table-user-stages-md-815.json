@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-internal-table-user-stages",
+  "title": "Internal Stages, Table Stages, User Stages — Deep Explanation",
+  "description": "A beginner-friendly, story-driven guide to Snowflake stages — internal, table, and user stages — with examples and best practices.",
+  "source": "@site/docs-snowflake/snowflake-internal-table-user-stages.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-internal-table-user-stages",
+  "permalink": "/snowflake/snowflake-internal-table-user-stages",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-internal-table-user-stages",
+    "title": "Internal Stages, Table Stages, User Stages — Deep Explanation",
+    "sidebar_label": "Snowflake Stages",
+    "description": "A beginner-friendly, story-driven guide to Snowflake stages — internal, table, and user stages — with examples and best practices.",
+    "keywords": [
+      "Snowflake internal stage",
+      "Snowflake table stage",
+      "Snowflake user stage",
+      "Snowflake staging area",
+      "Snowflake data load"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "SQL Basics",
+    "permalink": "/snowflake/snowflake-sql-basics"
+  },
+  "next": {
+    "title": "External Stages",
+    "permalink": "/snowflake/snowflake-external-stages"
+  }
+}

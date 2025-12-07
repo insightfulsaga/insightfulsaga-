@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-object-hierarchy",
+  "title": "Databases, Schemas, Tables — Snowflake Object Hierarchy Explained",
+  "description": "A simple and story-driven guide to understanding Snowflake object hierarchy — databases, schemas, tables, stages, file formats, and best practices.",
+  "source": "@site/docs-snowflake/snowflake-object-hierarchy.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-object-hierarchy",
+  "permalink": "/snowflake/snowflake-object-hierarchy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-object-hierarchy",
+    "title": "Databases, Schemas, Tables — Snowflake Object Hierarchy Explained",
+    "sidebar_label": "Object Hierarchy (DB → Schema → Tables)",
+    "description": "A simple and story-driven guide to understanding Snowflake object hierarchy — databases, schemas, tables, stages, file formats, and best practices.",
+    "keywords": [
+      "snowflake database schema",
+      "snowflake tables",
+      "snowflake object hierarchy explained",
+      "snowflake data modeling",
+      "snowflake folder structure"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Virtual Warehouses (Compute Layer)",
+    "permalink": "/snowflake/snowflake-virtual-warehouses"
+  },
+  "next": {
+    "title": "Snowflake Editions",
+    "permalink": "/snowflake/snowflake-editions"
+  }
+}

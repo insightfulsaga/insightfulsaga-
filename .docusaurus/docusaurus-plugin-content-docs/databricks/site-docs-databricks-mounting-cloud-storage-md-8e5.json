@@ -1,0 +1,36 @@
+{
+  "id": "mounting-cloud-storage",
+  "title": "Mounting Cloud Storage — ADLS, S3 & GCS in Databricks",
+  "description": "A simple and beginner-friendly guide to mounting Azure ADLS, Amazon S3, and Google Cloud Storage (GCS) in Databricks.",
+  "source": "@site/docs-databricks/mounting-cloud-storage.md",
+  "sourceDirName": ".",
+  "slug": "/mounting-cloud-storage",
+  "permalink": "/databricks/mounting-cloud-storage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mounting-cloud-storage",
+    "title": "Mounting Cloud Storage — ADLS, S3 & GCS in Databricks",
+    "sidebar_label": "Mounting Cloud Storage",
+    "description": "A simple and beginner-friendly guide to mounting Azure ADLS, Amazon S3, and Google Cloud Storage (GCS) in Databricks.",
+    "keywords": [
+      "Databricks storage",
+      "mount ADLS",
+      "mount S3",
+      "mount GCS",
+      "Databricks beginners",
+      "how to mount storage Databricks"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Organize Projects",
+    "permalink": "/databricks/organize-projects-databricks"
+  },
+  "next": {
+    "title": "Autoloader",
+    "permalink": "/databricks/autoloader-cloudfiles-ingestion"
+  }
+}

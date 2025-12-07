@@ -1,0 +1,18 @@
+{
+  "type": "mdx",
+  "permalink": "/legal/disclaimer",
+  "source": "@site/src/pages/legal/disclaimer.mdx",
+  "title": "Disclaimer",
+  "description": "Official disclaimer describing educational intent, limitations, and liabilities of Insightful Saga.",
+  "frontMatter": {
+    "id": "disclaimer",
+    "title": "Disclaimer",
+    "description": "Official disclaimer describing educational intent, limitations, and liabilities of Insightful Saga.",
+    "keywords": [
+      "Disclaimer",
+      "Insightful Saga",
+      "Legal Policy"
+    ]
+  },
+  "unlisted": false
+}

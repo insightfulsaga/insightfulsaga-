@@ -1,0 +1,37 @@
+{
+  "id": "databricks-alerts-email-slack",
+  "title": "Alerting — Email & Slack Alerts for Job Failures",
+  "description": "A story-driven, practical guide on setting up Databricks alerting using Email, Slack, Webhooks, and on-failure notifications to monitor job failures in production pipelines.",
+  "source": "@site/docs-databricks/databricks-alerts-email-slack.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-alerts-email-slack",
+  "permalink": "/databricks/databricks-alerts-email-slack",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-alerts-email-slack",
+    "title": "Alerting — Email & Slack Alerts for Job Failures",
+    "sidebar_label": "Alerts (Email & Slack)",
+    "description": "A story-driven, practical guide on setting up Databricks alerting using Email, Slack, Webhooks, and on-failure notifications to monitor job failures in production pipelines.",
+    "keywords": [
+      "databricks alerts",
+      "databricks slack alerts",
+      "databricks email alerts",
+      "databricks job failure notifications",
+      "databricks webhook alerts",
+      "databricks monitoring",
+      "workflow alerts databricks"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Databricks Workflows (New)",
+    "permalink": "/databricks/databricks-workflows-production-orchestration"
+  },
+  "next": {
+    "title": "Cluster Policies",
+    "permalink": "/databricks/databricks-cluster-policies"
+  }
+}

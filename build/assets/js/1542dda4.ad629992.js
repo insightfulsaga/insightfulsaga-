@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatacraft_school=self.webpackChunkdatacraft_school||[]).push([[7024],{1718:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"snowflake"}')}}]);

@@ -1,0 +1,37 @@
+{
+  "id": "snowflake-row-access-policies-rls",
+  "title": "Row Access Policies — Row Level Security (RLS)",
+  "description": "A story-driven guide explaining Snowflake Row Access Policies (RLS), including real-world enterprise security scenarios, SQL examples, multi-tenant architectures, and compliance-focused best practices.",
+  "source": "@site/docs-snowflake/snowflake-row-access-policies-rls.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-row-access-policies-rls",
+  "permalink": "/snowflake/snowflake-row-access-policies-rls",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-row-access-policies-rls",
+    "title": "Row Access Policies — Row Level Security (RLS)",
+    "sidebar_label": "Row-Level Security (RLS)",
+    "description": "A story-driven guide explaining Snowflake Row Access Policies (RLS), including real-world enterprise security scenarios, SQL examples, multi-tenant architectures, and compliance-focused best practices.",
+    "keywords": [
+      "Snowflake row access policies",
+      "Snowflake RLS",
+      "Snowflake row level security",
+      "attribute based access control",
+      "Snowflake governance",
+      "data security snowflake",
+      "multi-tenant snowflake architecture"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Dynamic Data Masking",
+    "permalink": "/snowflake/snowflake-dynamic-data-masking-use-cases"
+  },
+  "next": {
+    "title": "Costs & Billing",
+    "permalink": "/snowflake/snowflake-costs-billing-dashboard-monitoring"
+  }
+}

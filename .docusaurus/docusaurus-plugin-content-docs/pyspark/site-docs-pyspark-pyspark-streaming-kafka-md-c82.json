@@ -1,0 +1,28 @@
+{
+  "id": "pyspark-streaming-kafka",
+  "title": "Streaming with Kafka",
+  "description": "A storytelling, beginner-friendly yet complete guide on integrating PySpark Streaming with Apache Kafka for real-time pipelines. Includes schema handling, offsets, partitioning, watermarking, and production best practices.",
+  "source": "@site/docs-pyspark/pyspark-streaming-kafka.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark-streaming-kafka",
+  "permalink": "/pyspark/pyspark-streaming-kafka",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-streaming-kafka",
+    "title": "Streaming with Kafka",
+    "sidebar_label": "Kafka Streaming",
+    "description": "A storytelling, beginner-friendly yet complete guide on integrating PySpark Streaming with Apache Kafka for real-time pipelines. Includes schema handling, offsets, partitioning, watermarking, and production best practices.",
+    "keywords": [
+      "spark kafka streaming",
+      "pyspark kafka streaming tutorial",
+      "kafka spark integration",
+      "spark structured streaming kafka",
+      "real-time data pipelines kafka",
+      "kafka consumer spark",
+      "spark streaming kafka example"
+    ]
+  }
+}

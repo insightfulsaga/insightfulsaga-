@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/contact",
+  "source": "@site/src/pages/contact.mdx",
+  "title": "📫 Contact Us",
+  "description": "We’d love to hear from you! Whether you have feedback, a partnership idea, or just want to say hi — use the form below.",
+  "frontMatter": {},
+  "unlisted": false
+}

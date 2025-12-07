@@ -1,0 +1,14 @@
+{
+  "id": "pyspark-structured-streaming",
+  "title": "pyspark-structured-streaming",
+  "description": "",
+  "source": "@site/docs-pyspark/pyspark-structured-streaming.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark-structured-streaming",
+  "permalink": "/pyspark/pyspark-structured-streaming",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

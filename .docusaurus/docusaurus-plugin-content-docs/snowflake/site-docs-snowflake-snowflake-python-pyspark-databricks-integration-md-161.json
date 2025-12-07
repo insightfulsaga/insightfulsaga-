@@ -1,0 +1,33 @@
+{
+  "id": "snowflake-python-pyspark-databricks-integration",
+  "title": "Snowflake with Python, PySpark, Databricks — Enterprise Integration",
+  "description": "A story-driven, enterprise-ready guide on integrating Snowflake with Python, PySpark, and Databricks using connectors, Snowpark, Spark Snowflake Connector, and modern data architecture patterns.",
+  "source": "@site/docs-snowflake/snowflake-python-pyspark-databricks-integration.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-python-pyspark-databricks-integration",
+  "permalink": "/snowflake/snowflake-python-pyspark-databricks-integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-python-pyspark-databricks-integration",
+    "title": "Snowflake with Python, PySpark, Databricks — Enterprise Integration",
+    "sidebar_label": "Python, PySpark & Databricks",
+    "description": "A story-driven, enterprise-ready guide on integrating Snowflake with Python, PySpark, and Databricks using connectors, Snowpark, Spark Snowflake Connector, and modern data architecture patterns.",
+    "keywords": [
+      "Snowflake Python integration",
+      "Snowflake PySpark connector",
+      "Snowflake Databricks integration",
+      "Snowflake Snowpark",
+      "Spark Snowflake connector",
+      "snowflake data engineering",
+      "python snowflake examples"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Costs & Billing",
+    "permalink": "/snowflake/snowflake-costs-billing-dashboard-monitoring"
+  }
+}

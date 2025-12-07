@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Databricks Logo</title>
+  <g fill="#FF3621">
+    <path d="M256 0L0 128l256 128 256-128L256 0zm0 48.4l192 96-192 96-192-96 192-96z"/>
+    <path d="M0 256v128l256 128 256-128V256l-256 128L0 256z"/>
+  </g>
+</svg>

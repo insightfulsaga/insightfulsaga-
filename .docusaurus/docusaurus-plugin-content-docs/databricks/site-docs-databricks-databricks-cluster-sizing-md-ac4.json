@@ -1,0 +1,35 @@
+{
+  "id": "databricks-cluster-sizing",
+  "title": "Cluster Sizing — Choosing the Right Instance Type in Databricks",
+  "description": "Learn how to choose the right Databricks cluster size, instance type, worker configuration, and autoscaling strategy with an easy, story-driven explanation.",
+  "source": "@site/docs-databricks/databricks-cluster-sizing.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-cluster-sizing",
+  "permalink": "/databricks/databricks-cluster-sizing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-cluster-sizing",
+    "title": "Cluster Sizing — Choosing the Right Instance Type in Databricks",
+    "sidebar_label": "Cluster Sizing",
+    "description": "Learn how to choose the right Databricks cluster size, instance type, worker configuration, and autoscaling strategy with an easy, story-driven explanation.",
+    "keywords": [
+      "Databricks cluster sizing",
+      "Databricks instance types",
+      "Databricks best practices",
+      "autoscaling clusters",
+      "Databricks performance tuning"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Photon Engine",
+    "permalink": "/databricks/databricks-photon-engine"
+  },
+  "next": {
+    "title": "SQL Endpoint Tuning",
+    "permalink": "/databricks/databricks-sql-endpoint-tuning"
+  }
+}

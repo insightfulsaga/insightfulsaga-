@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-rbac-user-roles",
+  "title": "User Roles, Permissions, RBAC — Explained with Real Company Setup",
+  "description": "A simple, story-based explanation of Snowflake RBAC, user roles, permissions, and a real-world company hierarchy. Learn how Snowflake manages access control using roles instead of users.",
+  "source": "@site/docs-snowflake/snowflake-rbac-user-roles.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-rbac-user-roles",
+  "permalink": "/snowflake/snowflake-rbac-user-roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-rbac-user-roles",
+    "title": "User Roles, Permissions, RBAC — Explained with Real Company Setup",
+    "sidebar_label": "RBAC & Permissions",
+    "description": "A simple, story-based explanation of Snowflake RBAC, user roles, permissions, and a real-world company hierarchy. Learn how Snowflake manages access control using roles instead of users.",
+    "keywords": [
+      "snowflake rbac",
+      "snowflake roles",
+      "snowflake permissions",
+      "snowflake access control",
+      "snowflake user management"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Snowflake vs Traditional DBs",
+    "permalink": "/snowflake/snowflake-vs-traditional-databases"
+  },
+  "next": {
+    "title": "Snowflake Web UI",
+    "permalink": "/snowflake/snowflake-web-ui-tour"
+  }
+}

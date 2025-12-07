@@ -1,0 +1,18 @@
+{
+  "id": "dbsql-dashboards-and-alerts",
+  "title": "📊 Databricks Dashboards — Visual Insights & Real-Time Monitoring",
+  "description": "🏥 Modern Medical Data Story — Simple, Visual",
+  "source": "@site/docs-databricks/dbsql-dashboards-and-alerts.md",
+  "sourceDirName": ".",
+  "slug": "/dbsql-dashboards-and-alerts",
+  "permalink": "/databricks/dbsql-dashboards-and-alerts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dbsql-dashboards-and-alerts",
+    "title": "📊 Databricks Dashboards — Visual Insights & Real-Time Monitoring",
+    "sidebar_label": "Databricks Dashboards & Alerts"
+  }
+}

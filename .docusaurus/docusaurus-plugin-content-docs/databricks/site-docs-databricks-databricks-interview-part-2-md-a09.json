@@ -1,0 +1,18 @@
+{
+  "id": "databricks-interview-part2",
+  "title": "Must-Know Databricks Interview Question & Answer(Explained Through Real-World Stories) - Part 2",
+  "description": "16. What is Delta Lake? Why is it used?",
+  "source": "@site/docs-databricks/databricks-interview-part2.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-interview-part2",
+  "permalink": "/databricks/databricks-interview-part2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-interview-part2",
+    "title": "Must-Know Databricks Interview Question & Answer(Explained Through Real-World Stories) - Part 2",
+    "sidebar_label": "Databricks Interview Q&A(Real Scenarios)  - 2"
+  }
+}

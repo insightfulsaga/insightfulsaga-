@@ -1,0 +1,36 @@
+{
+  "id": "service-principals-machine-identity-for-automation",
+  "title": "Service Principals — Machine Identity for Automation",
+  "description": "Learn how to use Service Principals in Databricks to automate workflows and manage machine identities securely in your environment.",
+  "source": "@site/docs-databricks/service-principals-machine-identity-for-automation.md",
+  "sourceDirName": ".",
+  "slug": "/service-principals-machine-identity-for-automation",
+  "permalink": "/databricks/service-principals-machine-identity-for-automation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "service-principals-machine-identity-for-automation",
+    "title": "Service Principals — Machine Identity for Automation",
+    "sidebar_label": "Service Principals",
+    "description": "Learn how to use Service Principals in Databricks to automate workflows and manage machine identities securely in your environment.",
+    "keywords": [
+      "Service Principals",
+      "Databricks Automation",
+      "Machine Identity",
+      "Azure Databricks",
+      "Databricks Security",
+      "Identity Management"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Secret Scopes",
+    "permalink": "/databricks/secret-scopes-secure-credential-management"
+  },
+  "next": {
+    "title": "Auditing & Monitoring",
+    "permalink": "/databricks/auditing-monitoring-logs-events-access-monitoring"
+  }
+}

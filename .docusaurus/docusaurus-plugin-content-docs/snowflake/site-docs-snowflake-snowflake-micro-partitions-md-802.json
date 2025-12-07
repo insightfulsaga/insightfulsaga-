@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-micro-partitions",
+  "title": "Micro-Partitions Explained in Story Format (Snowflake Magic Box)",
+  "description": "Learn how Snowflake stores data in micro-partitions using a story-driven approach. Understand pruning, clustering, and how Snowflake optimizes query performance like a magic box.",
+  "source": "@site/docs-snowflake/snowflake-micro-partitions.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-micro-partitions",
+  "permalink": "/snowflake/snowflake-micro-partitions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-micro-partitions",
+    "title": "Micro-Partitions Explained in Story Format (Snowflake Magic Box)",
+    "sidebar_label": "Micro-Partitions",
+    "description": "Learn how Snowflake stores data in micro-partitions using a story-driven approach. Understand pruning, clustering, and how Snowflake optimizes query performance like a magic box.",
+    "keywords": [
+      "Snowflake micro-partitions",
+      "micro-partition pruning",
+      "clustering keys",
+      "Snowflake performance",
+      "Snowflake storage optimization"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Clustering Keys",
+    "permalink": "/snowflake/snowflake-clustering-keys-explained"
+  },
+  "next": {
+    "title": "Time Travel & Fail-Safe",
+    "permalink": "/snowflake/snowflake-time-travel-fail-safe"
+  }
+}

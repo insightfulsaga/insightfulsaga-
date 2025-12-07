@@ -1,0 +1,33 @@
+{
+  "id": "databricks-monitoring-dashboard",
+  "title": "Databricks Monitoring Dashboard — Usage, Cost & Metrics",
+  "description": "A story-driven guide on building and using Databricks Monitoring Dashboards to track cluster usage, job performance, cost, and key metrics for enterprise observability.",
+  "source": "@site/docs-databricks/databricks-monitoring-dashboard.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-monitoring-dashboard",
+  "permalink": "/databricks/databricks-monitoring-dashboard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-monitoring-dashboard",
+    "title": "Databricks Monitoring Dashboard — Usage, Cost & Metrics",
+    "sidebar_label": "Monitoring Dashboard",
+    "description": "A story-driven guide on building and using Databricks Monitoring Dashboards to track cluster usage, job performance, cost, and key metrics for enterprise observability.",
+    "keywords": [
+      "databricks monitoring",
+      "databricks dashboards",
+      "databricks cost tracking",
+      "databricks usage metrics",
+      "databricks observability",
+      "databricks enterprise monitoring",
+      "databricks job metrics"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Repos & CI/CD",
+    "permalink": "/databricks/databricks-repos-ci-cd"
+  }
+}

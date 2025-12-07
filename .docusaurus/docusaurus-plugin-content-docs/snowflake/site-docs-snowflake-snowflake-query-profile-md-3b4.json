@@ -1,0 +1,36 @@
+{
+  "id": "snowflake-query-profile",
+  "title": "Query Profile — Full Explanation of Each Section",
+  "description": "A simple story-driven walkthrough of the Snowflake Query Profile UI, with explanations of each section, node types, pruning, join behavior, and performance tuning insights.",
+  "source": "@site/docs-snowflake/snowflake-query-profile.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-query-profile",
+  "permalink": "/snowflake/snowflake-query-profile",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-query-profile",
+    "title": "Query Profile — Full Explanation of Each Section",
+    "sidebar_label": "Query Profile Explained",
+    "description": "A simple story-driven walkthrough of the Snowflake Query Profile UI, with explanations of each section, node types, pruning, join behavior, and performance tuning insights.",
+    "keywords": [
+      "Snowflake Query Profile",
+      "Snowflake query analysis",
+      "Snowflake performance tuning",
+      "Query plan Snowflake",
+      "Snowflake execution graph",
+      "Snowflake profiling"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Automatic Query Optimization",
+    "permalink": "/snowflake/snowflake-automatic-query-optimization"
+  },
+  "next": {
+    "title": "Snowflake Caching",
+    "permalink": "/snowflake/snowflake-caching"
+  }
+}

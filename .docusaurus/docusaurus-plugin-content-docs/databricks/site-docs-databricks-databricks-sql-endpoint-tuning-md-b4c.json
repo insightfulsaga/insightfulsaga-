@@ -1,0 +1,35 @@
+{
+  "id": "databricks-sql-endpoint-tuning",
+  "title": "SQL Endpoint Tuning — Query Performance Optimization",
+  "description": "Learn how to optimize Databricks SQL Endpoints using warehouse sizing, concurrency settings, query tuning, caching, and Photon. A story-driven and SEO-friendly guide for analytics teams.",
+  "source": "@site/docs-databricks/databricks-sql-endpoint-tuning.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-sql-endpoint-tuning",
+  "permalink": "/databricks/databricks-sql-endpoint-tuning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-sql-endpoint-tuning",
+    "title": "SQL Endpoint Tuning — Query Performance Optimization",
+    "sidebar_label": "SQL Endpoint Tuning",
+    "description": "Learn how to optimize Databricks SQL Endpoints using warehouse sizing, concurrency settings, query tuning, caching, and Photon. A story-driven and SEO-friendly guide for analytics teams.",
+    "keywords": [
+      "Databricks SQL Endpoint tuning",
+      "SQL Warehouse performance",
+      "Databricks SQL optimization",
+      "Photon SQL Warehouse",
+      "Delta Lake query tuning"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Cluster Sizing",
+    "permalink": "/databricks/databricks-cluster-sizing"
+  },
+  "next": {
+    "title": "Lakehouse Performance",
+    "permalink": "/databricks/improving-lakehouse-performance"
+  }
+}

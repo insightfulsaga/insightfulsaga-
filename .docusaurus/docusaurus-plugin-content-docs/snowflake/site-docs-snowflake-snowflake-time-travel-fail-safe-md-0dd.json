@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-time-travel-fail-safe",
+  "title": "Time Travel & Fail-Safe — How Snowflake Protects Data",
+  "description": "Learn how Snowflake Time Travel and Fail-Safe work to protect your data, recover deleted or changed records, and maintain business continuity with a story-driven approach.",
+  "source": "@site/docs-snowflake/snowflake-time-travel-fail-safe.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-time-travel-fail-safe",
+  "permalink": "/snowflake/snowflake-time-travel-fail-safe",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-time-travel-fail-safe",
+    "title": "Time Travel & Fail-Safe — How Snowflake Protects Data",
+    "sidebar_label": "Time Travel & Fail-Safe",
+    "description": "Learn how Snowflake Time Travel and Fail-Safe work to protect your data, recover deleted or changed records, and maintain business continuity with a story-driven approach.",
+    "keywords": [
+      "Snowflake Time Travel",
+      "Snowflake Fail-Safe",
+      "data recovery Snowflake",
+      "Snowflake backup",
+      "Snowflake retention"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Micro-Partitions",
+    "permalink": "/snowflake/snowflake-micro-partitions"
+  },
+  "next": {
+    "title": "Zero-Copy Cloning",
+    "permalink": "/snowflake/snowflake-zero-copy-cloning"
+  }
+}

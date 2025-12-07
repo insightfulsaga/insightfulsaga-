@@ -1,0 +1,140 @@
+{
+  "id": "pyspark-aggregation",
+  "title": "Data Aggregation in PySpark DataFrames (Complete Guide)",
+  "description": "Learn how to perform data aggregation in PySpark using groupBy, agg, max, sum, avg, distinct, and sorting operations with real shipment dataset examples.",
+  "source": "@site/docs-pyspark/pyspark-aggregation.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/aggregation",
+  "permalink": "/pyspark/pyspark/aggregation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "Apache Spark",
+      "permalink": "/pyspark/tags/apache-spark"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "Spark Basics",
+      "permalink": "/pyspark/tags/spark-basics"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Computing",
+      "permalink": "/pyspark/tags/cluster-computing"
+    },
+    {
+      "inline": true,
+      "label": "Spark Architecture",
+      "permalink": "/pyspark/tags/spark-architecture"
+    },
+    {
+      "inline": true,
+      "label": "Driver Program",
+      "permalink": "/pyspark/tags/driver-program"
+    },
+    {
+      "inline": true,
+      "label": "Executors",
+      "permalink": "/pyspark/tags/executors"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Manager",
+      "permalink": "/pyspark/tags/cluster-manager"
+    },
+    {
+      "inline": true,
+      "label": "SparkSession",
+      "permalink": "/pyspark/tags/spark-session"
+    },
+    {
+      "inline": true,
+      "label": "SparkContext",
+      "permalink": "/pyspark/tags/spark-context"
+    },
+    {
+      "inline": true,
+      "label": "RDD",
+      "permalink": "/pyspark/tags/rdd"
+    },
+    {
+      "inline": true,
+      "label": "RDD Transformations",
+      "permalink": "/pyspark/tags/rdd-transformations"
+    },
+    {
+      "inline": true,
+      "label": "RDD Actions",
+      "permalink": "/pyspark/tags/rdd-actions"
+    },
+    {
+      "inline": true,
+      "label": "Key-Value RDD",
+      "permalink": "/pyspark/tags/key-value-rdd"
+    },
+    {
+      "inline": true,
+      "label": "RDD Caching",
+      "permalink": "/pyspark/tags/rdd-caching"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-aggregation",
+    "title": "Data Aggregation in PySpark DataFrames (Complete Guide)",
+    "sidebar_label": "Dataframe Aggregation",
+    "slug": "/pyspark/aggregation",
+    "description": "Learn how to perform data aggregation in PySpark using groupBy, agg, max, sum, avg, distinct, and sorting operations with real shipment dataset examples.",
+    "keywords": [
+      "pyspark aggregation",
+      "pyspark groupBy",
+      "pyspark avg sum max",
+      "pyspark countDistinct",
+      "pyspark sorting",
+      "spark dataframe aggregation",
+      "pyspark shipments dataset",
+      "big data transformations"
+    ],
+    "og:title": "Data Aggregation in PySpark — Full Tutorial with Examples",
+    "og:description": "A complete guide to performing data aggregation in PySpark including groupBy, agg, max, sum, avg, distinct counts, and sorting.",
+    "tags": [
+      "PySpark",
+      "Apache Spark",
+      "Big Data",
+      "Spark Basics",
+      "Cluster Computing",
+      "Spark Architecture",
+      "Driver Program",
+      "Executors",
+      "Cluster Manager",
+      "SparkSession",
+      "SparkContext",
+      "RDD",
+      "RDD Transformations",
+      "RDD Actions",
+      "Key-Value RDD",
+      "RDD Caching"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DataFrame Joins",
+    "permalink": "/pyspark/pyspark/joins"
+  },
+  "next": {
+    "title": "Window Functions",
+    "permalink": "/pyspark/df-window-functions"
+  }
+}

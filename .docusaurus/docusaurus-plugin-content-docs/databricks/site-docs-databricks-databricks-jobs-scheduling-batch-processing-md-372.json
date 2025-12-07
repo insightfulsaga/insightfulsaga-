@@ -1,0 +1,37 @@
+{
+  "id": "databricks-jobs-scheduling-batch-processing",
+  "title": "Databricks Jobs — Scheduling Batch Processing",
+  "description": "A story-driven, practical guide to Databricks Jobs, covering scheduling, notebooks, pipelines, clusters, retries, and real-world batch processing use cases for production environments.",
+  "source": "@site/docs-databricks/databricks-jobs-scheduling-batch-processing.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-jobs-scheduling-batch-processing",
+  "permalink": "/databricks/databricks-jobs-scheduling-batch-processing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-jobs-scheduling-batch-processing",
+    "title": "Databricks Jobs — Scheduling Batch Processing",
+    "sidebar_label": "Databricks Jobs & Scheduling",
+    "description": "A story-driven, practical guide to Databricks Jobs, covering scheduling, notebooks, pipelines, clusters, retries, and real-world batch processing use cases for production environments.",
+    "keywords": [
+      "Databricks Jobs",
+      "Databricks job scheduling",
+      "Databricks batch processing",
+      "Databricks automation",
+      "data pipelines databricks",
+      "ETL scheduling databricks",
+      "databricks workflows"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Auditing & Monitoring",
+    "permalink": "/databricks/auditing-monitoring-logs-events-access-monitoring"
+  },
+  "next": {
+    "title": "Multi-Task Workflows",
+    "permalink": "/databricks/databricks-multi-task-job-workflows"
+  }
+}

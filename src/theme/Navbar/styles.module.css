@@ -1,0 +1,44 @@
+/* src/theme/navbar/styles.module.css */
+
+/* Make the main navbar visually solid and fixed by CSS (JS will push content) */
+.navbar, header, .navbar__inner {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 9999;
+  background: #ffffff !important; /* change if you want different color */
+  box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+}
+
+/* Wrapper around TechBar (keeps it measured and fixed under navbar) */
+.techBarWrapper, .techBar, .TechBar, .subNavbarContainer, .subNavbar {
+  position: fixed !important;
+  left: 0;
+  right: 0;
+  top: var(--computed-navbar-height, 56px) !important; /* JS will set --computed-navbar-height */
+  z-index: 8500 !important;
+  background: #111217 !important;
+  margin: 0 !important;
+  padding: 6px 20px !important;
+}
+
+/* TechBar inner — keep links inline */
+.techBarWrapper .techBarInner, .subNavbar {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
+/* Link styles */
+.techBarWrapper a, .subNavbar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.techBarWrapper a:hover, .subNavbar a:hover {
+  text-decoration: underline;
+}
+

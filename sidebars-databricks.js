@@ -1,0 +1,128 @@
+// @ts-check
+
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
+const sidebars = {
+  tutorialSidebar2: [
+    {
+      type: 'category',
+      label: 'Databricks Fundamentals (Beginner Level)',
+      items: [
+        'databricks-intro',
+        'databricks-login-guide',
+        'databricks-architecture',
+        'lakehouse-concept',
+        'databricks-workspace-ui-tour',
+        'cluster-vs-sql-warehouse',
+        'databricks-notebooks-basics',
+        'databricks-security-basics',
+        'databricks-dbfs',
+        'databricks-pricing',
+        'databricks-editions',
+        'organize-projects-databricks',
+      ],
+    },
+     {
+      type: 'category',
+      label: 'Lakehouse Data Engineering (Tool Concepts Only)',
+      items: [
+        'mounting-cloud-storage',
+        'autoloader-cloudfiles-ingestion',
+        'databricks-managed-vs-external-tables',
+        'delta-lake-overview',
+        'lakehouse-medallion-model',
+        'delta-live-tables-dlt-pipelines',
+        'databricks-materialized-views',
+        'databricks-catalog-schema-table-permissions-rbac',
+      ],
+    },
+     {
+      type: 'category',
+      label: 'Databricks Performance & Optimization',
+      items: [
+        'databricks-optimize-zorder',
+        'databricks-file-compaction',
+        'databricks-caching-best-practices',
+        'databricks-photon-engine',
+        'databricks-cluster-sizing',
+        'databricks-sql-endpoint-tuning',
+        'improving-lakehouse-performance',
+        /*'databricks-dataflow',
+        'databricks-end-to-end-demo',
+        'delta-lake-core',
+        'performance-optimization',
+        'performance-optimization1',
+        'unity-catalog-data-quality',
+        'databricks-sql-n-dashboards',
+        'dbsql-dashboards-and-alerts',
+        'databricks-ml-ai-dashboards',
+        'databricks-interview-part1',
+        'databricks-interview-part2',
+        'databricks-interview-part3',
+        'databricks-interview-part4',
+        'databricks-interview-part5',
+        */
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Enterprise Governance & Security',
+      items: [
+        'unity-catalog-central-governance',
+        'table-column-lineage-data-tracking',
+        'lakehouse-federation-query-external-cloud-databases',
+        'databricks-governance-tags-classifications-policies',
+        'secret-scopes-secure-credential-management',
+        'service-principals-machine-identity-for-automation',
+        'auditing-monitoring-logs-events-access-monitoring',
+        /*'databricks-dataflow',
+        'databricks-end-to-end-demo',
+        'delta-lake-core',
+        'performance-optimization',
+        'performance-optimization1',
+        'unity-catalog-data-quality',
+        'databricks-sql-n-dashboards',
+        'dbsql-dashboards-and-alerts',
+        'databricks-ml-ai-dashboards',
+        'databricks-interview-part1',
+        'databricks-interview-part2',
+        'databricks-interview-part3',
+        'databricks-interview-part4',
+        'databricks-interview-part5',
+        */
+      ],
+    },
+     {
+      type: 'category',
+      label: 'Production Automation & Operations',
+      items: [
+        'databricks-jobs-scheduling-batch-processing',
+        'databricks-multi-task-job-workflows',
+        'databricks-workflows-production-orchestration',
+        'databricks-alerts-email-slack',
+        'databricks-cluster-policies',
+        'databricks-repos-ci-cd',
+        'databricks-monitoring-dashboard',
+        /*'databricks-dataflow',
+        'databricks-end-to-end-demo',
+        'delta-lake-core',
+        'performance-optimization',
+        'performance-optimization1',
+        'unity-catalog-data-quality',
+        'databricks-sql-n-dashboards',
+        'dbsql-dashboards-and-alerts',
+        'databricks-ml-ai-dashboards',
+        'databricks-interview-part1',
+        'databricks-interview-part2',
+        'databricks-interview-part3',
+        'databricks-interview-part4',
+        'databricks-interview-part5',
+        */
+      ],
+    },
+
+  ],
+};
+
+export default sidebars;
+
+

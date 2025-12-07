@@ -1,0 +1,36 @@
+{
+  "id": "databricks-catalog-schema-table-permissions-rbac",
+  "title": "Databricks Catalog, Schema & Table Permissions (RBAC)",
+  "description": "A clear, easy-to-understand guide to Databricks Catalog, Schema, and Table Permissions using RBAC, including examples, principles, and real-world usage in the Lakehouse.",
+  "source": "@site/docs-databricks/databricks-catalog-schema-table-permissions-rbac.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-catalog-schema-table-permissions-rbac",
+  "permalink": "/databricks/databricks-catalog-schema-table-permissions-rbac",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-catalog-schema-table-permissions-rbac",
+    "title": "Databricks Catalog, Schema & Table Permissions (RBAC)",
+    "sidebar_label": "Permissions (RBAC)",
+    "description": "A clear, easy-to-understand guide to Databricks Catalog, Schema, and Table Permissions using RBAC, including examples, principles, and real-world usage in the Lakehouse.",
+    "keywords": [
+      "Databricks permissions",
+      "RBAC",
+      "Databricks catalog",
+      "schema permissions",
+      "table access",
+      "Unity Catalog"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Materialized Views",
+    "permalink": "/databricks/databricks-materialized-views"
+  },
+  "next": {
+    "title": "OPTIMIZE & Z-ORDER",
+    "permalink": "/databricks/databricks-optimize-zorder"
+  }
+}

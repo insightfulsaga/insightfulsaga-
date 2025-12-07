@@ -1,0 +1,35 @@
+{
+  "id": "databricks-caching-best-practices",
+  "title": "Caching in Databricks — Best Practices for Faster Queries",
+  "description": "Learn how caching works in Databricks, when to use it, when to avoid it, and how to dramatically improve Lakehouse query performance with a story-driven explanation.",
+  "source": "@site/docs-databricks/databricks-caching-best-practices.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-caching-best-practices",
+  "permalink": "/databricks/databricks-caching-best-practices",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-caching-best-practices",
+    "title": "Caching in Databricks — Best Practices for Faster Queries",
+    "sidebar_label": "Caching Best Practices",
+    "description": "Learn how caching works in Databricks, when to use it, when to avoid it, and how to dramatically improve Lakehouse query performance with a story-driven explanation.",
+    "keywords": [
+      "Databricks caching",
+      "Delta cache",
+      "Databricks performance tuning",
+      "memory cache spark",
+      "accelerate queries Databricks"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "File Compaction",
+    "permalink": "/databricks/databricks-file-compaction"
+  },
+  "next": {
+    "title": "Photon Engine",
+    "permalink": "/databricks/databricks-photon-engine"
+  }
+}

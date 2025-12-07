@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-snowpipe",
+  "title": "Snowpipe — Real-Time Streaming Load with Example Pipeline",
+  "description": "Beginner-friendly guide to Snowflake Snowpipe for real-time data loading, including setup, streaming pipelines, and real company example.",
+  "source": "@site/docs-snowflake/snowflake-snowpipe.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-snowpipe",
+  "permalink": "/snowflake/snowflake-snowpipe",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-snowpipe",
+    "title": "Snowpipe — Real-Time Streaming Load with Example Pipeline",
+    "sidebar_label": "Snowpipe",
+    "description": "Beginner-friendly guide to Snowflake Snowpipe for real-time data loading, including setup, streaming pipelines, and real company example.",
+    "keywords": [
+      "Snowflake Snowpipe",
+      "Snowflake real-time load",
+      "Snowpipe streaming",
+      "Snowflake continuous data load",
+      "Snowflake ETL automation"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "COPY INTO Command",
+    "permalink": "/snowflake/snowflake-copy-into-command"
+  },
+  "next": {
+    "title": "Incremental Loading",
+    "permalink": "/snowflake/snowflake-incremental-loading-cdc"
+  }
+}

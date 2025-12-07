@@ -1,0 +1,18 @@
+{
+  "id": "unity-catalog-data-quality",
+  "title": "Unity Catalog & Data Quality – Secure, Governed, and Trusted Data",
+  "description": "Story",
+  "source": "@site/docs-databricks/unity-catalog-data-quality.md",
+  "sourceDirName": ".",
+  "slug": "/unity-catalog-data-quality",
+  "permalink": "/databricks/unity-catalog-data-quality",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "unity-catalog-data-quality",
+    "title": "Unity Catalog & Data Quality – Secure, Governed, and Trusted Data",
+    "sidebar_label": "Unity Catalog & Data Quality"
+  }
+}

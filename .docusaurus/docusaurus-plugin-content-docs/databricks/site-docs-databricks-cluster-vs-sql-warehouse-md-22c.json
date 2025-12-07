@@ -1,0 +1,35 @@
+{
+  "id": "cluster-vs-sql-warehouse",
+  "title": "Cluster vs SQL Warehouse — Beginner-Friendly Explanation",
+  "description": "A simple, story-driven explanation of the difference between Databricks Clusters and SQL Warehouses, with real business examples and use cases.",
+  "source": "@site/docs-databricks/cluster-vs-sql-warehouse.md",
+  "sourceDirName": ".",
+  "slug": "/cluster-vs-sql-warehouse",
+  "permalink": "/databricks/cluster-vs-sql-warehouse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cluster-vs-sql-warehouse",
+    "title": "Cluster vs SQL Warehouse — Beginner-Friendly Explanation",
+    "sidebar_label": "Cluster vs SQL Warehouse",
+    "description": "A simple, story-driven explanation of the difference between Databricks Clusters and SQL Warehouses, with real business examples and use cases.",
+    "keywords": [
+      "Databricks cluster vs sql warehouse",
+      "Databricks compute types",
+      "Databricks cluster explained",
+      "Databricks sql warehouse explained",
+      "Databricks beginners tutorial"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Workspace UI Tour",
+    "permalink": "/databricks/databricks-workspace-ui-tour"
+  },
+  "next": {
+    "title": "Databricks Notebooks",
+    "permalink": "/databricks/databricks-notebooks-basics"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "mdx",
+  "permalink": "/terms-of-use",
+  "source": "@site/src/pages/terms-of-use.mdx",
+  "title": "Terms of Use",
+  "description": "Official Terms of Use governing your access to and use of Insightful Saga.",
+  "frontMatter": {
+    "id": "terms-of-use",
+    "title": "Terms of Use",
+    "description": "Official Terms of Use governing your access to and use of Insightful Saga.",
+    "keywords": [
+      "Terms of Use",
+      "Disclaimer",
+      "Insightful Saga",
+      "Legal Policy"
+    ]
+  },
+  "unlisted": false
+}

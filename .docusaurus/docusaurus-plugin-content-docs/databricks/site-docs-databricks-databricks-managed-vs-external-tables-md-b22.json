@@ -1,0 +1,36 @@
+{
+  "id": "databricks-managed-vs-external-tables",
+  "title": "Tables in Databricks — Managed vs External",
+  "description": "A beginner-friendly, story-style explanation of Databricks managed and external tables, how they store data, and when to use each type in the Lakehouse.",
+  "source": "@site/docs-databricks/databricks-managed-vs-external-tables.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-managed-vs-external-tables",
+  "permalink": "/databricks/databricks-managed-vs-external-tables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-managed-vs-external-tables",
+    "title": "Tables in Databricks — Managed vs External",
+    "sidebar_label": "Managed vs External Tables",
+    "description": "A beginner-friendly, story-style explanation of Databricks managed and external tables, how they store data, and when to use each type in the Lakehouse.",
+    "keywords": [
+      "Databricks tables",
+      "managed tables",
+      "external tables",
+      "Delta Lake",
+      "Databricks catalog",
+      "data storage"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Autoloader",
+    "permalink": "/databricks/autoloader-cloudfiles-ingestion"
+  },
+  "next": {
+    "title": "Delta Lake Overview",
+    "permalink": "/databricks/delta-lake-overview"
+  }
+}

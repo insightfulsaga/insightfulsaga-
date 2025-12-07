@@ -1,0 +1,35 @@
+{
+  "id": "autoloader-cloudfiles-ingestion",
+  "title": "Autoloader — CloudFiles Ingestion End to End",
+  "description": "A simple, clear guide to Databricks Autoloader (CloudFiles) for scalable, automated file ingestion in the Lakehouse.",
+  "source": "@site/docs-databricks/autoloader-cloudfiles-ingestion.md",
+  "sourceDirName": ".",
+  "slug": "/autoloader-cloudfiles-ingestion",
+  "permalink": "/databricks/autoloader-cloudfiles-ingestion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "autoloader-cloudfiles-ingestion",
+    "title": "Autoloader — CloudFiles Ingestion End to End",
+    "sidebar_label": "Autoloader",
+    "description": "A simple, clear guide to Databricks Autoloader (CloudFiles) for scalable, automated file ingestion in the Lakehouse.",
+    "keywords": [
+      "Databricks Autoloader",
+      "CloudFiles",
+      "Data ingestion",
+      "Delta Lake",
+      "Lakehouse"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Mounting Cloud Storage",
+    "permalink": "/databricks/mounting-cloud-storage"
+  },
+  "next": {
+    "title": "Managed vs External Tables",
+    "permalink": "/databricks/databricks-managed-vs-external-tables"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "databricks-repos-ci-cd",
+  "title": "Repos & CI/CD — Git Integration and Code Promotion",
+  "description": "A story-driven guide on Databricks Repos, Git integration, and CI/CD pipelines for managing notebooks, jobs, and production deployments in enterprise environments.",
+  "source": "@site/docs-databricks/databricks-repos-ci-cd.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-repos-ci-cd",
+  "permalink": "/databricks/databricks-repos-ci-cd",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-repos-ci-cd",
+    "title": "Repos & CI/CD — Git Integration and Code Promotion",
+    "sidebar_label": "Repos & CI/CD",
+    "description": "A story-driven guide on Databricks Repos, Git integration, and CI/CD pipelines for managing notebooks, jobs, and production deployments in enterprise environments.",
+    "keywords": [
+      "databricks repos",
+      "databricks git integration",
+      "databricks CI/CD",
+      "databricks code promotion",
+      "databricks version control",
+      "databricks deployment automation",
+      "databricks enterprise workflows"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Cluster Policies",
+    "permalink": "/databricks/databricks-cluster-policies"
+  },
+  "next": {
+    "title": "Monitoring Dashboard",
+    "permalink": "/databricks/databricks-monitoring-dashboard"
+  }
+}

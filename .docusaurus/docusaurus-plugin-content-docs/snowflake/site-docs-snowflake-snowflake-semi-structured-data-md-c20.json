@@ -1,0 +1,36 @@
+{
+  "id": "snowflake-semi-structured-data",
+  "title": "Handling Semi-Structured Data (JSON, XML, Avro)",
+  "description": "A story-driven guide to handling semi-structured data in Snowflake, including JSON, XML, and Avro, with practical examples, VARIANT data type, and query best practices.",
+  "source": "@site/docs-snowflake/snowflake-semi-structured-data.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-semi-structured-data",
+  "permalink": "/snowflake/snowflake-semi-structured-data",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-semi-structured-data",
+    "title": "Handling Semi-Structured Data (JSON, XML, Avro)",
+    "sidebar_label": "Semi-Structured Data",
+    "description": "A story-driven guide to handling semi-structured data in Snowflake, including JSON, XML, and Avro, with practical examples, VARIANT data type, and query best practices.",
+    "keywords": [
+      "Snowflake semi-structured data",
+      "Snowflake JSON",
+      "Snowflake XML",
+      "Snowflake Avro",
+      "Snowflake VARIANT type",
+      "querying semi-structured data"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Performance Tuning",
+    "permalink": "/snowflake/snowflake-performance-tuning"
+  },
+  "next": {
+    "title": "Flatten & VARIANT",
+    "permalink": "/snowflake/snowflake-flatten-variant"
+  }
+}

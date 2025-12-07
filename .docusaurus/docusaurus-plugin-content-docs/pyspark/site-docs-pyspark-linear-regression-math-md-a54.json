@@ -1,0 +1,19 @@
+{
+  "id": "linear-regression-math",
+  "title": "Manual Linear Regression — Explained Step-by-Step",
+  "description": "Learn how to calculate slope and intercept manually using basic math and a lemonade example.",
+  "source": "@site/docs-pyspark/linear-regression-math.md",
+  "sourceDirName": ".",
+  "slug": "/linear-regression-math",
+  "permalink": "/pyspark/linear-regression-math",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "linear-regression-math",
+    "title": "Manual Linear Regression — Explained Step-by-Step",
+    "sidebar_label": "Linear Regression (Manual Math)",
+    "description": "Learn how to calculate slope and intercept manually using basic math and a lemonade example."
+  }
+}

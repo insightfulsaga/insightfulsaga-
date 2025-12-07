@@ -1,0 +1,35 @@
+{
+  "id": "lakehouse-concept",
+  "title": "The Lakehouse Concept — Why Databricks Is Unique",
+  "description": "A modern, story-style explanation of the Databricks Lakehouse architecture, how it works, and why it’s considered the future of enterprise data platforms.",
+  "source": "@site/docs-databricks/lakehouse-concept.md",
+  "sourceDirName": ".",
+  "slug": "/lakehouse-concept",
+  "permalink": "/databricks/lakehouse-concept",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lakehouse-concept",
+    "title": "The Lakehouse Concept — Why Databricks Is Unique",
+    "sidebar_label": "Lakehouse Concept",
+    "description": "A modern, story-style explanation of the Databricks Lakehouse architecture, how it works, and why it’s considered the future of enterprise data platforms.",
+    "keywords": [
+      "Databricks Lakehouse",
+      "What is Lakehouse",
+      "Lakehouse architecture explained",
+      "Databricks vs Data Warehouse",
+      "Delta Lake tutorial"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/databricks/databricks-architecture"
+  },
+  "next": {
+    "title": "Workspace UI Tour",
+    "permalink": "/databricks/databricks-workspace-ui-tour"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "pyspark-dataframe-basics2",
+  "title": "PySpark DataFrame Basics (Part 2) — Custom Schemas, Column Ops & SQL",
+  "description": "Learn how to define custom schemas, select columns, add new columns, rename columns, inspect types, and run SQL queries on PySpark DataFrames.",
+  "source": "@site/docs-pyspark/pyspark-dataframe-basics2.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/dataframe-basics-2",
+  "permalink": "/pyspark/pyspark/dataframe-basics-2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "DataFrames",
+      "permalink": "/pyspark/tags/data-frames"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "ETL",
+      "permalink": "/pyspark/tags/etl"
+    },
+    {
+      "inline": true,
+      "label": "SQL",
+      "permalink": "/pyspark/tags/sql"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-dataframe-basics2",
+    "title": "PySpark DataFrame Basics (Part 2) — Custom Schemas, Column Ops & SQL",
+    "sidebar_label": "DataFrame Basics - Part 2",
+    "slug": "/pyspark/dataframe-basics-2",
+    "description": "Learn how to define custom schemas, select columns, add new columns, rename columns, inspect types, and run SQL queries on PySpark DataFrames.",
+    "keywords": [
+      "pyspark dataframe basics",
+      "pyspark custom schema",
+      "spark structtype structfield",
+      "pyspark select columns",
+      "pyspark withcolumn",
+      "pyspark sql temp view"
+    ],
+    "og:title": "PySpark DataFrame Basics (Part 2) — Custom Schemas, Column Operations, and SQL",
+    "og:description": "A beginner-friendly guide covering custom schemas, selecting columns, creating new columns, renaming fields, and running SQL queries in PySpark.",
+    "tags": [
+      "PySpark",
+      "DataFrames",
+      "Big Data",
+      "ETL",
+      "SQL"
+    ]
+  }
+}

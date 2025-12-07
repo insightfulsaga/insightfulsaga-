@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-sql-basics",
+  "title": "SQL Basics in Snowflake — SELECT, FILTER, GROUP BY",
+  "description": "A story-driven guide to learning SQL basics in Snowflake, covering SELECT, WHERE, FILTER, GROUP BY, and simple examples for modern data professionals.",
+  "source": "@site/docs-snowflake/snowflake-sql-basics.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-sql-basics",
+  "permalink": "/snowflake/snowflake-sql-basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-sql-basics",
+    "title": "SQL Basics in Snowflake — SELECT, FILTER, GROUP BY",
+    "sidebar_label": "SQL Basics",
+    "description": "A story-driven guide to learning SQL basics in Snowflake, covering SELECT, WHERE, FILTER, GROUP BY, and simple examples for modern data professionals.",
+    "keywords": [
+      "snowflake sql basics",
+      "snowflake select query",
+      "snowflake group by",
+      "snowflake filter data",
+      "sql tutorial snowflake"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Snowflake Web UI",
+    "permalink": "/snowflake/snowflake-web-ui-tour"
+  },
+  "next": {
+    "title": "Snowflake Stages",
+    "permalink": "/snowflake/snowflake-internal-table-user-stages"
+  }
+}

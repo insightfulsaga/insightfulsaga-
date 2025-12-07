@@ -1,0 +1,14 @@
+{
+  "id": "databricks-automl-llm",
+  "title": "databricks-automl-llm",
+  "description": "",
+  "source": "@site/docs-databricks/databricks-automl-llm.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-automl-llm",
+  "permalink": "/databricks/databricks-automl-llm",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

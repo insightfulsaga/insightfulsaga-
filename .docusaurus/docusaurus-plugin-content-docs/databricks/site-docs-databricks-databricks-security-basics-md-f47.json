@@ -1,0 +1,35 @@
+{
+  "id": "databricks-security-basics",
+  "title": "Databricks Security Basics — Tokens, Users & Groups",
+  "description": "A beginner-friendly guide to Databricks security, explaining tokens, users, groups, and access control in a story format for easy understanding.",
+  "source": "@site/docs-databricks/databricks-security-basics.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-security-basics",
+  "permalink": "/databricks/databricks-security-basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-security-basics",
+    "title": "Databricks Security Basics — Tokens, Users & Groups",
+    "sidebar_label": "Security Basics",
+    "description": "A beginner-friendly guide to Databricks security, explaining tokens, users, groups, and access control in a story format for easy understanding.",
+    "keywords": [
+      "Databricks security",
+      "Databricks tokens",
+      "Databricks users and groups",
+      "Databricks access control",
+      "Databricks beginner security"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Databricks Notebooks",
+    "permalink": "/databricks/databricks-notebooks-basics"
+  },
+  "next": {
+    "title": "Databricks DBFS",
+    "permalink": "/databricks/databricks-dbfs"
+  }
+}

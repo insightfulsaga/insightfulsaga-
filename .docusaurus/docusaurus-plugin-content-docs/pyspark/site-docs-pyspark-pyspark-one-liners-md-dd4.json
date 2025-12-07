@@ -1,0 +1,18 @@
+{
+  "id": "pyspark-one-liners",
+  "title": "One-Line PySpark Function Meanings",
+  "description": "🧰 Basic utilities",
+  "source": "@site/docs-pyspark/pyspark-one-liners.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark-one-liners",
+  "permalink": "/pyspark/pyspark-one-liners",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-one-liners",
+    "title": "One-Line PySpark Function Meanings",
+    "sidebar_label": "Function Meanings"
+  }
+}

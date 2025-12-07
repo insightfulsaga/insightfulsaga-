@@ -1,0 +1,18 @@
+{
+  "id": "performance-optimization1",
+  "title": "Performance & Optimization (Speed + Cost) - part 2",
+  "description": "3. Data Skipping",
+  "source": "@site/docs-databricks/performance-optimization1.md",
+  "sourceDirName": ".",
+  "slug": "/performance-optimization1",
+  "permalink": "/databricks/performance-optimization1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "performance-optimization1",
+    "title": "Performance & Optimization (Speed + Cost) - part 2",
+    "sidebar_label": "Performance & Optimization - part 2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-external-stages",
+  "title": "External Stages (S3, Azure, GCS) — Real Company Setup Example",
+  "description": "Beginner-friendly, story-driven guide to Snowflake external stages, including S3, Azure Blob, and Google Cloud Storage setup with real-world examples.",
+  "source": "@site/docs-snowflake/snowflake-external-stages.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-external-stages",
+  "permalink": "/snowflake/snowflake-external-stages",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-external-stages",
+    "title": "External Stages (S3, Azure, GCS) — Real Company Setup Example",
+    "sidebar_label": "External Stages",
+    "description": "Beginner-friendly, story-driven guide to Snowflake external stages, including S3, Azure Blob, and Google Cloud Storage setup with real-world examples.",
+    "keywords": [
+      "Snowflake external stage",
+      "Snowflake S3 stage",
+      "Snowflake Azure stage",
+      "Snowflake GCS stage",
+      "Snowflake cloud storage"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Snowflake Stages",
+    "permalink": "/snowflake/snowflake-internal-table-user-stages"
+  },
+  "next": {
+    "title": "File Formats",
+    "permalink": "/snowflake/snowflake-file-formats"
+  }
+}

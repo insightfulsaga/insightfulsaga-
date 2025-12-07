@@ -1,0 +1,18 @@
+{
+  "id": "delta-lake-core",
+  "title": "Delta Lake – Foundation of Reliable Data Pipelines",
+  "description": "Story Driven",
+  "source": "@site/docs-databricks/delta-lake-core.md",
+  "sourceDirName": ".",
+  "slug": "/delta-lake-core",
+  "permalink": "/databricks/delta-lake-core",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delta-lake-core",
+    "title": "Delta Lake – Foundation of Reliable Data Pipelines",
+    "sidebar_label": "Delta Lake Overview"
+  }
+}

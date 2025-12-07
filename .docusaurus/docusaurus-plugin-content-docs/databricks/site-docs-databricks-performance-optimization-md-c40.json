@@ -1,0 +1,18 @@
+{
+  "id": "performance-optimization",
+  "title": "Performance & Optimization (Speed + Cost) - part 1",
+  "description": "The Modern Story",
+  "source": "@site/docs-databricks/performance-optimization.md",
+  "sourceDirName": ".",
+  "slug": "/performance-optimization",
+  "permalink": "/databricks/performance-optimization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "performance-optimization",
+    "title": "Performance & Optimization (Speed + Cost) - part 1",
+    "sidebar_label": "Performance & Optimization - part 1"
+  }
+}

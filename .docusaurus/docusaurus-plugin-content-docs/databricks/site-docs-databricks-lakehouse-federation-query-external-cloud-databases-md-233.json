@@ -1,0 +1,36 @@
+{
+  "id": "lakehouse-federation-query-external-cloud-databases",
+  "title": "Lakehouse Federation — Query External Cloud Databases",
+  "description": "Learn how Databricks Lakehouse Federation allows you to seamlessly query external cloud databases, enabling data integration across platforms.",
+  "source": "@site/docs-databricks/lakehouse-federation-query-external-cloud-databases.md",
+  "sourceDirName": ".",
+  "slug": "/lakehouse-federation-query-external-cloud-databases",
+  "permalink": "/databricks/lakehouse-federation-query-external-cloud-databases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lakehouse-federation-query-external-cloud-databases",
+    "title": "Lakehouse Federation — Query External Cloud Databases",
+    "sidebar_label": "Lakehouse Federation",
+    "description": "Learn how Databricks Lakehouse Federation allows you to seamlessly query external cloud databases, enabling data integration across platforms.",
+    "keywords": [
+      "Lakehouse Federation",
+      "Query External Databases",
+      "External Cloud Databases",
+      "Databricks SQL",
+      "Cloud Integration",
+      "Data Federation"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Table & Column Lineage",
+    "permalink": "/databricks/table-column-lineage-data-tracking"
+  },
+  "next": {
+    "title": "Governance — Tags & Policies",
+    "permalink": "/databricks/databricks-governance-tags-classifications-policies"
+  }
+}

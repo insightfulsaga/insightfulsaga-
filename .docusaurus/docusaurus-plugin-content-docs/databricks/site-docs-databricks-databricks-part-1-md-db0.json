@@ -1,0 +1,14 @@
+{
+  "id": "databricks-part1",
+  "title": "databricks-part1",
+  "description": "",
+  "source": "@site/docs-databricks/databricks-part1.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-part1",
+  "permalink": "/databricks/databricks-part1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

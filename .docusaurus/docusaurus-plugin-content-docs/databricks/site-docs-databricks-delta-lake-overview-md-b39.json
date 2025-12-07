@@ -1,0 +1,36 @@
+{
+  "id": "delta-lake-overview",
+  "title": "Delta Lake Overview — The Storage Layer of Databricks",
+  "description": "A clear, story-style explanation of Delta Lake, why it was created, and how it delivers reliability, ACID transactions, schema enforcement, and time travel in the Databricks Lakehouse.",
+  "source": "@site/docs-databricks/delta-lake-overview.md",
+  "sourceDirName": ".",
+  "slug": "/delta-lake-overview",
+  "permalink": "/databricks/delta-lake-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "delta-lake-overview",
+    "title": "Delta Lake Overview — The Storage Layer of Databricks",
+    "sidebar_label": "Delta Lake Overview",
+    "description": "A clear, story-style explanation of Delta Lake, why it was created, and how it delivers reliability, ACID transactions, schema enforcement, and time travel in the Databricks Lakehouse.",
+    "keywords": [
+      "Delta Lake",
+      "Databricks Delta",
+      "Lakehouse architecture",
+      "ACID transactions",
+      "data reliability",
+      "time travel"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Managed vs External Tables",
+    "permalink": "/databricks/databricks-managed-vs-external-tables"
+  },
+  "next": {
+    "title": "Medallion Model (Bronze / Silver / Gold)",
+    "permalink": "/databricks/lakehouse-medallion-model"
+  }
+}

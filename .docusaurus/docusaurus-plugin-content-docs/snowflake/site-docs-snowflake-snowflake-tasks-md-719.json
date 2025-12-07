@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-tasks",
+  "title": "Tasks — How Scheduling Works Internally",
+  "description": "Learn how Snowflake Tasks automate and schedule SQL operations, pipelines, and workflows. Understand how internal scheduling works in a story-driven, practical format.",
+  "source": "@site/docs-snowflake/snowflake-tasks.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-tasks",
+  "permalink": "/snowflake/snowflake-tasks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-tasks",
+    "title": "Tasks — How Scheduling Works Internally",
+    "sidebar_label": "Tasks",
+    "description": "Learn how Snowflake Tasks automate and schedule SQL operations, pipelines, and workflows. Understand how internal scheduling works in a story-driven, practical format.",
+    "keywords": [
+      "Snowflake Tasks",
+      "Snowflake scheduling",
+      "automate Snowflake",
+      "pipeline automation",
+      "Snowflake workflow"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Streams",
+    "permalink": "/snowflake/snowflake-streams"
+  },
+  "next": {
+    "title": "Materialized Views",
+    "permalink": "/snowflake/snowflake-materialized-views"
+  }
+}

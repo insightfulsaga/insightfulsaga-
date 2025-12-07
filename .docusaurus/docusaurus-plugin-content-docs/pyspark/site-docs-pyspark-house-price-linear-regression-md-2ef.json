@@ -1,0 +1,19 @@
+{
+  "id": "house-price-linear-regression",
+  "title": "Predict House Price with Linear Regression",
+  "description": "Learn how to predict house prices using PySpark Linear Regression, step-by-step.",
+  "source": "@site/docs-pyspark/house-price-linear-regression.md",
+  "sourceDirName": ".",
+  "slug": "/house-price-linear-regression",
+  "permalink": "/pyspark/house-price-linear-regression",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "house-price-linear-regression",
+    "title": "Predict House Price with Linear Regression",
+    "sidebar_label": "House Price Prediction - Linear Regressing",
+    "description": "Learn how to predict house prices using PySpark Linear Regression, step-by-step."
+  }
+}

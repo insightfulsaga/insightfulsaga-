@@ -1,0 +1,36 @@
+{
+  "id": "snowflake-automatic-query-optimization",
+  "title": "Automatic Query Optimization — How Snowflake Internally Works",
+  "description": "A story-driven deep dive into how Snowflake automatically optimizes SQL queries behind the scenes, including pruning, micro-partitions, statistics, dynamic filtering, and adaptive execution.",
+  "source": "@site/docs-snowflake/snowflake-automatic-query-optimization.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-automatic-query-optimization",
+  "permalink": "/snowflake/snowflake-automatic-query-optimization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-automatic-query-optimization",
+    "title": "Automatic Query Optimization — How Snowflake Internally Works",
+    "sidebar_label": "Automatic Query Optimization",
+    "description": "A story-driven deep dive into how Snowflake automatically optimizes SQL queries behind the scenes, including pruning, micro-partitions, statistics, dynamic filtering, and adaptive execution.",
+    "keywords": [
+      "Snowflake query optimization",
+      "Snowflake automatic optimization",
+      "Snowflake pruning",
+      "query tuning in Snowflake",
+      "micro-partitions",
+      "Snowflake performance"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Warehouse Sizing",
+    "permalink": "/snowflake/snowflake-warehouse-sizing"
+  },
+  "next": {
+    "title": "Query Profile Explained",
+    "permalink": "/snowflake/snowflake-query-profile"
+  }
+}

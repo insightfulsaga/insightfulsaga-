@@ -1,0 +1,36 @@
+{
+  "id": "auditing-monitoring-logs-events-access-monitoring",
+  "title": "Auditing & Monitoring — Logs, Events & Access Monitoring",
+  "description": "Learn how to set up auditing and monitoring in Databricks to track logs, events, and access to ensure compliance, security, and operational excellence.",
+  "source": "@site/docs-databricks/auditing-monitoring-logs-events-access-monitoring.md",
+  "sourceDirName": ".",
+  "slug": "/auditing-monitoring-logs-events-access-monitoring",
+  "permalink": "/databricks/auditing-monitoring-logs-events-access-monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "auditing-monitoring-logs-events-access-monitoring",
+    "title": "Auditing & Monitoring — Logs, Events & Access Monitoring",
+    "sidebar_label": "Auditing & Monitoring",
+    "description": "Learn how to set up auditing and monitoring in Databricks to track logs, events, and access to ensure compliance, security, and operational excellence.",
+    "keywords": [
+      "Databricks Auditing",
+      "Databricks Monitoring",
+      "Logs and Events",
+      "Access Monitoring",
+      "Databricks Security",
+      "Compliance"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Service Principals",
+    "permalink": "/databricks/service-principals-machine-identity-for-automation"
+  },
+  "next": {
+    "title": "Databricks Jobs & Scheduling",
+    "permalink": "/databricks/databricks-jobs-scheduling-batch-processing"
+  }
+}

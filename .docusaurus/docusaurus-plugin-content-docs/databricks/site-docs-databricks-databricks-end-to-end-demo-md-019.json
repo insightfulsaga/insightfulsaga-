@@ -1,0 +1,18 @@
+{
+  "id": "databricks-end-to-end-demo",
+  "title": "Hands-On Demo- Ingest → Transform → Insight with Databricks",
+  "description": "We’ll simulate a Retail Orders mini-project (works as a Databricks notebook)",
+  "source": "@site/docs-databricks/databricks-end-to-end-demo.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-end-to-end-demo",
+  "permalink": "/databricks/databricks-end-to-end-demo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-end-to-end-demo",
+    "title": "Hands-On Demo- Ingest → Transform → Insight with Databricks",
+    "sidebar_label": "Hands-On- Ingest to Insight"
+  }
+}

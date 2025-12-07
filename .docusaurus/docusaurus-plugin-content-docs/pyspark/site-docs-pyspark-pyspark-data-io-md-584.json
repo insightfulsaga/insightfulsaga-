@@ -1,0 +1,64 @@
+{
+  "id": "pyspark-data-io",
+  "title": "PySpark Data I/O — Reading, Writing & Optimizing Big Data",
+  "description": "Learn how to efficiently read, write, and process data in PySpark including CSV, JSON, Parquet, ORC, JDBC databases, cloud storage, streaming, and compression. A complete guide for beginners and data engineers.",
+  "source": "@site/docs-pyspark/pyspark-data-io.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/data-io",
+  "permalink": "/pyspark/pyspark/data-io",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "Data I/O",
+      "permalink": "/pyspark/tags/data-i-o"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "ETL",
+      "permalink": "/pyspark/tags/etl"
+    },
+    {
+      "inline": true,
+      "label": "Streaming",
+      "permalink": "/pyspark/tags/streaming"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-data-io",
+    "title": "PySpark Data I/O — Reading, Writing & Optimizing Big Data",
+    "sidebar_label": "Data I/O",
+    "slug": "/pyspark/data-io",
+    "description": "Learn how to efficiently read, write, and process data in PySpark including CSV, JSON, Parquet, ORC, JDBC databases, cloud storage, streaming, and compression. A complete guide for beginners and data engineers.",
+    "keywords": [
+      "pyspark data io",
+      "pyspark read csv",
+      "pyspark write parquet",
+      "pyspark jdbc",
+      "pyspark read json",
+      "pyspark streaming data",
+      "pyspark cloud storage"
+    ],
+    "og:title": "PySpark Data I/O — Complete Guide for Reading & Writing Data",
+    "og:description": "Master PySpark Data I/O — Learn how to read and write CSV, JSON, Parquet, ORC, connect to databases, handle streaming data, optimize performance with partitioning, bucketing, and compression.",
+    "tags": [
+      "PySpark",
+      "Data I/O",
+      "Big Data",
+      "ETL",
+      "Streaming"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pyspark-setup-configuration",
+  "title": "PySpark Setup and Configuration — Simple Guide",
+  "description": "Step-by-step guide to installing, setting up, and configuring PySpark for local and cluster environments. Learn SparkSession initialization, environment variables, and configuration best practices.",
+  "source": "@site/docs-pyspark/pyspark-setup-configuration.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/setup-configuration",
+  "permalink": "/pyspark/pyspark/setup-configuration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "Setup",
+      "permalink": "/pyspark/tags/setup"
+    },
+    {
+      "inline": true,
+      "label": "Configuration",
+      "permalink": "/pyspark/tags/configuration"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "ETL",
+      "permalink": "/pyspark/tags/etl"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-setup-configuration",
+    "title": "PySpark Setup and Configuration — Simple Guide",
+    "sidebar_label": "PySpark Setup & Config",
+    "slug": "/pyspark/setup-configuration",
+    "description": "Step-by-step guide to installing, setting up, and configuring PySpark for local and cluster environments. Learn SparkSession initialization, environment variables, and configuration best practices.",
+    "keywords": [
+      "pyspark setup",
+      "pyspark configuration",
+      "spark environment",
+      "spark installation",
+      "pyspark spark session"
+    ],
+    "og:title": "PySpark Setup and Configuration — Beginner-Friendly Guide",
+    "og:description": "Learn how to install, configure, and set up PySpark for development and production, including SparkSession initialization and environment configuration.",
+    "tags": [
+      "PySpark",
+      "Setup",
+      "Configuration",
+      "Big Data",
+      "ETL"
+    ]
+  }
+}

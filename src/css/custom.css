@@ -1,0 +1,354 @@
+/* ===========================================
+   🔥 FIX: SIDEBAR NOT VISIBLE (Z-INDEX ISSUE)
+   =========================================== */
+
+/* Sidebar overlay (dark background behind the menu) */
+.navbar-sidebar__backdrop {
+  z-index: 999999 !important;
+}
+
+/* The actual sliding menu */
+.navbar-sidebar {
+  z-index: 999999 !important;
+  position: fixed !important;
+}
+
+/* Keep hero & content behind sidebar */
+.heroBanner,
+[class*="heroBanner"],
+.hero,
+.main-wrapper,
+.theme-doc-markdown,
+.theme-doc-content {
+  z-index: 1 !important;
+  position: relative;
+}
+
+/* === HERO BACKGROUND (DARK) === */
+.heroBanner_qdFl {
+  background: #090E20 !important;
+  --ifm-background-color: #090E20 !important;
+}
+
+/* === DARK BODY COLOR === */
+body {
+  background-color: #2C3254 !important;
+}
+
+/* ==========================================
+   DARK MODE COLOR FIXES
+   ========================================== */
+
+html[data-theme='dark'] {
+  --ifm-font-color-base: #ffffff !important;
+  --ifm-font-color-base-inverse: #ffffff !important;
+  --ifm-heading-color: #ffffff !important;
+  --ifm-color-content: #ffffff !important;
+}
+
+/* Make markdown text readable in dark mode */
+html[data-theme='dark'] .theme-layout-main.main-wrapper.mainWrapper_z2l0 {
+  color: var(--ifm-font-color-base) !important;
+}
+
+/* Dark mode link color */
+html[data-theme='dark'] a {
+  color: #68a8ff !important;
+}
+
+/* Dark mode background for the docs */
+html[data-theme='dark'] .main-wrapper,
+html[data-theme='dark'] .mainWrapper_z2l0,
+html[data-theme='dark'] .theme-doc-markdown,
+html[data-theme='dark'] .container,
+html[data-theme='dark'] .docMainContainer {
+  background-color: #0b1220 !important; /* deep navy */
+  color: #e6eef8 !important;
+}
+
+/* Dark mode text */
+html[data-theme='dark'] .markdown,
+html[data-theme='dark'] .theme-doc-content,
+html[data-theme='dark'] .theme-doc-markdown > * {
+  color: #e6eef8 !important;
+}
+
+/* Fix transparent backgrounds in dark mode */
+html[data-theme='dark'] [style*="background: transparent"] {
+  background: #0b1220 !important;
+}
+
+/* ==========================================
+   LIGHT MODE – CLEAN & PROFESSIONAL SIDEBAR
+   ========================================== */
+
+html[data-theme='light'] .theme-doc-sidebar-container,
+html[data-theme='light'] .menu,
+html[data-theme='light'] .menu__list,
+html[data-theme='light'] .menu__list .menu__list-item {
+  background: #f5f7fa !important; /* light gray */
+}
+
+/* Sidebar text */
+html[data-theme='light'] .menu__link {
+  color: #2d3748 !important; /* charcoal gray */
+  font-weight: 500 !important;
+}
+
+/* Hover */
+html[data-theme='light'] .menu__link:hover {
+  background: #e2e8f0 !important;
+  color: #1a202c !important;
+}
+
+/* Active link */
+html[data-theme='light'] .menu__link--active {
+  background: #cbd5e0 !important;
+  color: #1a202c !important;
+  font-weight: 600 !important;
+}
+
+/* Category headers */
+html[data-theme='light'] .menu__link.menu__link--sublist,
+html[data-theme='light'] .menu__link.menu__link--sublist:hover {
+  color: #1a202c !important;
+}
+/* ===== Minimal, safe: neutralize literal pink hex/rgb usages only ===== */
+
+/* Inline style occurrences like style="background:#EC407A" */
+*[style*="#EC407A"],
+*[style*="#ec407a"],
+*[style*="rgb(236,64,122)"],
+*[style*="236, 64, 122"] {
+  /* neutralize pink background while leaving structure intact */
+  background-color: transparent !important;
+  border-color: transparent !important;
+  color: inherit !important;
+}
+
+/* SVG elements that have hard-coded pink fills/strokes */
+svg [fill="#EC407A"],
+svg [fill="#ec407a"],
+svg [stroke="#EC407A"],
+svg [stroke="#ec407a"] {
+  fill: currentColor !important;
+  stroke: currentColor !important;
+}
+
+/* Anchor or button elements with inline pink style */
+a[style*="#EC407A"],
+button[style*="#EC407A"],
+.input[style*="#EC407A"] {
+  background-color: transparent !important;
+  color: inherit !important;
+  border-color: transparent !important;
+}
+
+/* Keep this block tiny and focused — it only targets literal pink values */
+
+.techBar_gVZk {
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex;
+  gap: 1.5rem;
+}
+
+
+
+
+/* Force left alignment inside parent */
+.techContent_bR50 {
+    align-self: flex-start; /* only works if parent is flex */
+    margin-left: 0 !important; /* override any parent centering */
+}
+
+/* Target only this element to push left inside the header */
+.techContent_bR50 {
+    margin-left: 0 !important;     /* Remove any left auto margin */
+    margin-right: auto !important; /* Push other content to the right */
+    text-align: left !important;   /* Align text left */
+}
+.navbar__inner {
+    display: flex;
+    justify-content: space-between; /* Keeps left items left and right items right */
+    align-items: center;            /* Vertical centering */
+}
+
+/* Turn the navbar into a 3-column grid for perfect centering */
+.navbar__inner {
+  display: grid !important;
+  grid-template-columns: 1fr auto 1fr !important;
+  align-items: center !important;
+}
+
+/* Left section stays left */
+.navbar__items--left {
+  justify-self: start !important;
+}
+
+/* Right section stays right */
+.navbar__items--right {
+  justify-self: end !important;
+  display: flex;
+  align-items: center;
+}
+
+/* Force search bar to stay in the center column */
+.navbar__search {
+  grid-column: 2 !important;
+  justify-self: center !important;
+}
+
+[class^="categoryLinkLabel_"] {
+  font-weight: 700 !important;
+  color: #475569 !important;
+}
+
+/* Light mode */
+html[data-theme='light'] [class^="categoryLinkLabel_"] {
+  font-weight: 700 !important;
+  color: #1E3A8A !important; /* Sapphire Blue */
+}
+
+/* Dark mode */
+html[data-theme='dark'] [class^="categoryLinkLabel_"] {
+  font-weight: 700 !important;
+  color: #38BDF8 !important; /* Professional Neon Cyan Blue */
+}
+
+/* Dark mode only → make link labels white */
+html[data-theme='dark'] [class^="linkLabel_"] {
+  color: #ffffff !important;
+  font-weight: 700 !important;   /* optional: bold */
+}
+
+/* Applies to the main content wrapper */
+.mainWrapper_z2l0 {
+  background: #ffffff !important;   /* pure white */
+}
+
+@media (max-width: 600px) {
+  .DocSearch-Button {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0.4rem 0.6rem !important;
+    height: 34px !important;              /* smaller height */
+    border-radius: 6px !important;        /* small rounded look */
+    justify-content: center !important;
+  }
+
+  .DocSearch-Button-Placeholder {
+    font-size: 0.75rem !important;        /* smaller text */
+    white-space: nowrap !important;
+  }
+
+  .DocSearch-Button-Container {
+    gap: 4px !important;                  /* tighter spacing */
+  }
+
+  .DocSearch-Button-Keys {
+    display: none !important;             /* hide ⌘K icon */
+  }
+
+  .navbar__search-input {
+    width: 100% !important;
+    height: 34px !important;              /* match button */
+  }
+}
+
+.btnPrimary_hBjO {
+  background: #3B82F6 !important;   /* your dark-mode button color */
+  color: #F5F5F5 !important;        /* change this */
+  border: none !important;
+  padding: 0.6rem 1.4rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: 0.2s ease;
+}
+
+.btnPrimary_hBjO:hover {
+  background: #2563EB !important;
+  transform: translateY(-2px);
+}
+
+/* Dark mode button text color override */
+:root[data-theme='dark'] .btnPrimary_hBjO {
+  color: #ffffff !important;   /* White text */
+}
+
+/* RESET the broken behavior that forces right items to center */
+.navbar__items--right {
+  all: unset !important;                 /* 💥 remove ALL previous overrides */
+  display: flex !important;
+  align-items: center !important;
+  margin-left: auto !important;          /* push to the right */
+  gap: 10px !important;
+}
+
+/* Navbar inner container must allow pushing items right */
+.navbar__inner {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+
+/* Push specifically Resume Templates to the right */
+.navbar__item.navbar__link[href="/resume-templates"] {
+  margin-left: auto !important;
+  white-space: nowrap !important;
+}
+
+@media (max-width: 600px) {
+
+  /* Force scale-down for any search input */
+  [class*="searchInputContainer"] {
+    transform: scale(0.8) !important;
+    transform-origin: top left;
+  }
+
+  /* Force scale-down for search results */
+  [class*="searchResultsContainer"] {
+    transform: scale(0.8) !important;
+    transform-origin: top left;
+  }
+}
+
+/* Hide default Docusaurus mobile navbar hamburger */
+.navbar__toggle {
+  display: none !important;
+}
+
+@media (max-width: 768px) {
+  .techBar_gVZk {
+    gap: 0.3rem !important;
+  }
+}
+.navbar__link--active {
+  color: #fca311 !important;      /* beautiful orange highlight */
+  font-weight: 700 !important;    /* bold */
+  border-bottom: 2px solid #fca311 !important;
+}
+
+
+/* ==== FIX SIDEBAR OVERLAP WITH NAVBAR ON MOBILE ==== */
+@media (max-width: 996px) {
+  .theme-doc-sidebar-container {
+    margin-top: 60px !important;  /* Push sidebar BELOW navbar */
+  }
+
+  .menu__overlay {
+    top: 60px !important; /* Overlay starts below navbar */
+  }
+
+  .menu--opened {
+    top: 60px !important;
+  }
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,182 @@
+{
+  "id": "spark-sql",
+  "title": "Using Spark SQL — Register Temp Views and Query",
+  "description": "Learn how to use Spark SQL in PySpark by registering temporary views and running SQL queries on DataFrames in Databricks.",
+  "source": "@site/docs-pyspark/spark-sql.md",
+  "sourceDirName": ".",
+  "slug": "/spark-sql",
+  "permalink": "/pyspark/spark-sql",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "Apache Spark",
+      "permalink": "/pyspark/tags/apache-spark"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "Spark Basics",
+      "permalink": "/pyspark/tags/spark-basics"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Computing",
+      "permalink": "/pyspark/tags/cluster-computing"
+    },
+    {
+      "inline": true,
+      "label": "Spark Architecture",
+      "permalink": "/pyspark/tags/spark-architecture"
+    },
+    {
+      "inline": true,
+      "label": "Driver Program",
+      "permalink": "/pyspark/tags/driver-program"
+    },
+    {
+      "inline": true,
+      "label": "Executors",
+      "permalink": "/pyspark/tags/executors"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Manager",
+      "permalink": "/pyspark/tags/cluster-manager"
+    },
+    {
+      "inline": true,
+      "label": "SparkSession",
+      "permalink": "/pyspark/tags/spark-session"
+    },
+    {
+      "inline": true,
+      "label": "SparkContext",
+      "permalink": "/pyspark/tags/spark-context"
+    },
+    {
+      "inline": true,
+      "label": "RDD",
+      "permalink": "/pyspark/tags/rdd"
+    },
+    {
+      "inline": true,
+      "label": "RDD Transformations",
+      "permalink": "/pyspark/tags/rdd-transformations"
+    },
+    {
+      "inline": true,
+      "label": "RDD Actions",
+      "permalink": "/pyspark/tags/rdd-actions"
+    },
+    {
+      "inline": true,
+      "label": "Key-Value RDD",
+      "permalink": "/pyspark/tags/key-value-rdd"
+    },
+    {
+      "inline": true,
+      "label": "RDD Caching",
+      "permalink": "/pyspark/tags/rdd-caching"
+    },
+    {
+      "inline": true,
+      "label": "DataFrame",
+      "permalink": "/pyspark/tags/data-frame"
+    },
+    {
+      "inline": true,
+      "label": "DataFrame API",
+      "permalink": "/pyspark/tags/data-frame-api"
+    },
+    {
+      "inline": true,
+      "label": "Column Operations",
+      "permalink": "/pyspark/tags/column-operations"
+    },
+    {
+      "inline": true,
+      "label": "DataFrame Joins",
+      "permalink": "/pyspark/tags/data-frame-joins"
+    },
+    {
+      "inline": true,
+      "label": "Aggregations",
+      "permalink": "/pyspark/tags/aggregations"
+    },
+    {
+      "inline": true,
+      "label": "GroupBy",
+      "permalink": "/pyspark/tags/group-by"
+    },
+    {
+      "inline": true,
+      "label": "Window Functions",
+      "permalink": "/pyspark/tags/window-functions"
+    },
+    {
+      "inline": true,
+      "label": "Missing Data Handling",
+      "permalink": "/pyspark/tags/missing-data-handling"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "spark-sql",
+    "title": "Using Spark SQL — Register Temp Views and Query",
+    "sidebar_label": "Spark SQL Basics",
+    "description": "Learn how to use Spark SQL in PySpark by registering temporary views and running SQL queries on DataFrames in Databricks.",
+    "keywords": [
+      "Spark SQL PySpark",
+      "register temp view",
+      "query DataFrame SQL",
+      "Databricks SQL queries",
+      "PySpark SQL example"
+    ],
+    "tags": [
+      "PySpark",
+      "Apache Spark",
+      "Big Data",
+      "Spark Basics",
+      "Cluster Computing",
+      "Spark Architecture",
+      "Driver Program",
+      "Executors",
+      "Cluster Manager",
+      "SparkSession",
+      "SparkContext",
+      "RDD",
+      "RDD Transformations",
+      "RDD Actions",
+      "Key-Value RDD",
+      "RDD Caching",
+      "DataFrame",
+      "DataFrame API",
+      "Column Operations",
+      "DataFrame Joins",
+      "Aggregations",
+      "GroupBy",
+      "Window Functions",
+      "Missing Data Handling"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dates & Time",
+    "permalink": "/pyspark/pyspark/dates-and-timestamps"
+  },
+  "next": {
+    "title": "Complex SQL Queries",
+    "permalink": "/pyspark/complex-sql"
+  }
+}

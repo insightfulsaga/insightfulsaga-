@@ -1,0 +1,36 @@
+{
+  "id": "snowflake-warehouse-sizing",
+  "title": "Snowflake Warehouse Sizing — Small vs Medium vs Large Explained With Cost",
+  "description": "A story-driven, simple explanation of Snowflake warehouse sizes, how scaling works, when to choose Small vs Medium vs Large, and how pricing impacts daily company workloads.",
+  "source": "@site/docs-snowflake/snowflake-warehouse-sizing.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-warehouse-sizing",
+  "permalink": "/snowflake/snowflake-warehouse-sizing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-warehouse-sizing",
+    "title": "Snowflake Warehouse Sizing — Small vs Medium vs Large Explained With Cost",
+    "sidebar_label": "Warehouse Sizing",
+    "description": "A story-driven, simple explanation of Snowflake warehouse sizes, how scaling works, when to choose Small vs Medium vs Large, and how pricing impacts daily company workloads.",
+    "keywords": [
+      "Snowflake warehouse sizing",
+      "Snowflake Small warehouse cost",
+      "Snowflake Medium warehouse performance",
+      "Snowflake Large warehouse use cases",
+      "Snowflake compute cost",
+      "Snowflake performance tuning"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Secure Views & Data Sharing",
+    "permalink": "/snowflake/snowflake-secure-views"
+  },
+  "next": {
+    "title": "Automatic Query Optimization",
+    "permalink": "/snowflake/snowflake-automatic-query-optimization"
+  }
+}

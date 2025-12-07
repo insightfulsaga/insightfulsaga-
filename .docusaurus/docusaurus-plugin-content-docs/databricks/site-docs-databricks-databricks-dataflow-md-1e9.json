@@ -1,0 +1,18 @@
+{
+  "id": "databricks-dataflow",
+  "title": "End-to-End Data Flow in Databricks",
+  "description": "alt text",
+  "source": "@site/docs-databricks/databricks-dataflow.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-dataflow",
+  "permalink": "/databricks/databricks-dataflow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-dataflow",
+    "title": "End-to-End Data Flow in Databricks",
+    "sidebar_label": "Data Flow in DB"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "logistic-regression-query",
+  "title": "Logistic Regression - Practical handson",
+  "description": "2. Professional / Technical Style",
+  "source": "@site/docs-pyspark/logistic-regression-query.md",
+  "sourceDirName": ".",
+  "slug": "/logistic-regression-query",
+  "permalink": "/pyspark/logistic-regression-query",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "logistic-regression-query",
+    "title": "Logistic Regression - Practical handson",
+    "sidebar_label": "Logistic Regression (handson)"
+  }
+}

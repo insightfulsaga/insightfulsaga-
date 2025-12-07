@@ -1,0 +1,45 @@
+{
+  "id": "snowflake-intro",
+  "title": "Snowflake Explained- A Beginner-Friendly Story with Real Business Examples",
+  "description": "Learn what Snowflake is through a simple story and real business use cases. Perfect for beginners looking to understand Snowflake’s cloud data platform.",
+  "source": "@site/docs-snowflake/snowflake-intro.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-intro",
+  "permalink": "/snowflake/snowflake-intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "Snowflake",
+      "permalink": "/snowflake/tags/snowflake"
+    },
+    {
+      "inline": true,
+      "label": "Data Warehouse",
+      "permalink": "/snowflake/tags/data-warehouse"
+    },
+    {
+      "inline": true,
+      "label": "Cloud Analytics",
+      "permalink": "/snowflake/tags/cloud-analytics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-intro",
+    "title": "Snowflake Explained- A Beginner-Friendly Story with Real Business Examples",
+    "sidebar_label": "Introduction to Snowflake",
+    "description": "Learn what Snowflake is through a simple story and real business use cases. Perfect for beginners looking to understand Snowflake’s cloud data platform.",
+    "tags": [
+      "Snowflake",
+      "Data Warehouse",
+      "Cloud Analytics"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "next": {
+    "title": "Snowflake Architecture (Simple Guide)",
+    "permalink": "/snowflake/snowflake-architecture"
+  }
+}

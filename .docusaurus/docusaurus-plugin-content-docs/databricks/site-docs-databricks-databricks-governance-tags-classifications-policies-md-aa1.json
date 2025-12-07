@@ -1,0 +1,36 @@
+{
+  "id": "databricks-governance-tags-classifications-policies",
+  "title": "Databricks Governance — Tags, Classifications & Policies",
+  "description": "Learn how Databricks Governance helps manage data assets with tags, classifications, and policies to ensure data security, compliance, and integrity.",
+  "source": "@site/docs-databricks/databricks-governance-tags-classifications-policies.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-governance-tags-classifications-policies",
+  "permalink": "/databricks/databricks-governance-tags-classifications-policies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-governance-tags-classifications-policies",
+    "title": "Databricks Governance — Tags, Classifications & Policies",
+    "sidebar_label": "Governance — Tags & Policies",
+    "description": "Learn how Databricks Governance helps manage data assets with tags, classifications, and policies to ensure data security, compliance, and integrity.",
+    "keywords": [
+      "Databricks Governance",
+      "Data Security",
+      "Tags and Classifications",
+      "Data Policies",
+      "Data Compliance",
+      "Data Integrity"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Lakehouse Federation",
+    "permalink": "/databricks/lakehouse-federation-query-external-cloud-databases"
+  },
+  "next": {
+    "title": "Secret Scopes",
+    "permalink": "/databricks/secret-scopes-secure-credential-management"
+  }
+}

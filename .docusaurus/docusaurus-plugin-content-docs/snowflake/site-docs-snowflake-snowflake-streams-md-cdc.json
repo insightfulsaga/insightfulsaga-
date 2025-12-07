@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-streams",
+  "title": "Streams — Change Data Capture at Table Level",
+  "description": "Learn how Snowflake Streams enable Change Data Capture (CDC) at the table level, track inserts, updates, and deletes, and integrate with pipelines efficiently in a story-driven format.",
+  "source": "@site/docs-snowflake/snowflake-streams.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-streams",
+  "permalink": "/snowflake/snowflake-streams",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-streams",
+    "title": "Streams — Change Data Capture at Table Level",
+    "sidebar_label": "Streams",
+    "description": "Learn how Snowflake Streams enable Change Data Capture (CDC) at the table level, track inserts, updates, and deletes, and integrate with pipelines efficiently in a story-driven format.",
+    "keywords": [
+      "Snowflake Streams",
+      "change data capture Snowflake",
+      "CDC Snowflake",
+      "Snowflake incremental data",
+      "Snowflake table streams"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Zero-Copy Cloning",
+    "permalink": "/snowflake/snowflake-zero-copy-cloning"
+  },
+  "next": {
+    "title": "Tasks",
+    "permalink": "/snowflake/snowflake-tasks"
+  }
+}

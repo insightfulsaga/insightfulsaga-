@@ -1,0 +1,35 @@
+{
+  "id": "databricks-dbfs",
+  "title": "Databricks DBFS — Internal File System Explained",
+  "description": "Beginner-friendly explanation of Databricks DBFS (Databricks File System), including how it works, commands, and real business examples.",
+  "source": "@site/docs-databricks/databricks-dbfs.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-dbfs",
+  "permalink": "/databricks/databricks-dbfs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-dbfs",
+    "title": "Databricks DBFS — Internal File System Explained",
+    "sidebar_label": "Databricks DBFS",
+    "description": "Beginner-friendly explanation of Databricks DBFS (Databricks File System), including how it works, commands, and real business examples.",
+    "keywords": [
+      "Databricks DBFS",
+      "Databricks file system",
+      "DBFS tutorial",
+      "Databricks internal storage",
+      "Databricks beginners guide"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Security Basics",
+    "permalink": "/databricks/databricks-security-basics"
+  },
+  "next": {
+    "title": "Databricks Pricing",
+    "permalink": "/databricks/databricks-pricing"
+  }
+}

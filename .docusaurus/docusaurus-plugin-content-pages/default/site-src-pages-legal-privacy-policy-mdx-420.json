@@ -1,0 +1,18 @@
+{
+  "type": "mdx",
+  "permalink": "/legal/privacy-policy",
+  "source": "@site/src/pages/legal/privacy-policy.mdx",
+  "title": "Privacy Policy",
+  "description": "Privacy policy describing how Insightful Saga collects, uses, and protects user information.",
+  "frontMatter": {
+    "id": "privacy-policy",
+    "title": "Privacy Policy",
+    "description": "Privacy policy describing how Insightful Saga collects, uses, and protects user information.",
+    "keywords": [
+      "Privacy Policy",
+      "Data Protection",
+      "Insightful Saga"
+    ]
+  },
+  "unlisted": false
+}

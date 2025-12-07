@@ -1,0 +1,35 @@
+{
+  "id": "unity-catalog-central-governance",
+  "title": "Unity Catalog — Central Governance Explained",
+  "description": "Learn how Unity Catalog helps in central governance of your data, ensuring consistency, security, and compliance across your organization.",
+  "source": "@site/docs-databricks/unity-catalog-central-governance.md",
+  "sourceDirName": ".",
+  "slug": "/unity-catalog-central-governance",
+  "permalink": "/databricks/unity-catalog-central-governance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "unity-catalog-central-governance",
+    "title": "Unity Catalog — Central Governance Explained",
+    "sidebar_label": "Unity Catalog",
+    "description": "Learn how Unity Catalog helps in central governance of your data, ensuring consistency, security, and compliance across your organization.",
+    "keywords": [
+      "Unity Catalog",
+      "Data Governance",
+      "Databricks Governance",
+      "Data Security",
+      "Data Compliance"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Lakehouse Performance",
+    "permalink": "/databricks/improving-lakehouse-performance"
+  },
+  "next": {
+    "title": "Table & Column Lineage",
+    "permalink": "/databricks/table-column-lineage-data-tracking"
+  }
+}

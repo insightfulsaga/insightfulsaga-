@@ -1,0 +1,36 @@
+{
+  "id": "snowflake-flatten-variant",
+  "title": "Flatten Function & VARIANT Type — Real Use Cases",
+  "description": "A practical story-driven guide on using Snowflake’s FLATTEN function with the VARIANT data type, including real-world examples for querying nested JSON, XML, and semi-structured data efficiently.",
+  "source": "@site/docs-snowflake/snowflake-flatten-variant.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-flatten-variant",
+  "permalink": "/snowflake/snowflake-flatten-variant",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-flatten-variant",
+    "title": "Flatten Function & VARIANT Type — Real Use Cases",
+    "sidebar_label": "Flatten & VARIANT",
+    "description": "A practical story-driven guide on using Snowflake’s FLATTEN function with the VARIANT data type, including real-world examples for querying nested JSON, XML, and semi-structured data efficiently.",
+    "keywords": [
+      "Snowflake FLATTEN function",
+      "Snowflake VARIANT type",
+      "querying nested JSON",
+      "semi-structured data Snowflake",
+      "Snowflake data pipelines",
+      "Snowflake analytics"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Semi-Structured Data",
+    "permalink": "/snowflake/snowflake-semi-structured-data"
+  },
+  "next": {
+    "title": "Data Sharing & Marketplace",
+    "permalink": "/snowflake/snowflake-sharing-marketplace-exchange-secure-shares"
+  }
+}

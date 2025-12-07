@@ -1,0 +1,37 @@
+{
+  "id": "snowflake-dynamic-data-masking-use-cases",
+  "title": "Dynamic Data Masking — Real Security Use Cases",
+  "description": "A modern, story-driven guide to Snowflake Dynamic Data Masking with real-world enterprise security use cases, SQL examples, and best practices for protecting PII and sensitive data at scale.",
+  "source": "@site/docs-snowflake/snowflake-dynamic-data-masking-use-cases.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-dynamic-data-masking-use-cases",
+  "permalink": "/snowflake/snowflake-dynamic-data-masking-use-cases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-dynamic-data-masking-use-cases",
+    "title": "Dynamic Data Masking — Real Security Use Cases",
+    "sidebar_label": "Dynamic Data Masking",
+    "description": "A modern, story-driven guide to Snowflake Dynamic Data Masking with real-world enterprise security use cases, SQL examples, and best practices for protecting PII and sensitive data at scale.",
+    "keywords": [
+      "Snowflake dynamic data masking",
+      "Snowflake data security",
+      "Snowflake masking policies",
+      "PII protection in Snowflake",
+      "Snowflake governance",
+      "data masking use cases",
+      "snowflake security best practices"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Governance & Policies",
+    "permalink": "/snowflake/snowflake-governance-access-control-tags-policies"
+  },
+  "next": {
+    "title": "Row-Level Security (RLS)",
+    "permalink": "/snowflake/snowflake-row-access-policies-rls"
+  }
+}

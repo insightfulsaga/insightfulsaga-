@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-tasks-cron",
+  "title": "Automation of Data Loads Using Tasks (Cron Style Scheduling)",
+  "description": "Beginner-friendly guide to automating Snowflake data loads using Tasks with cron-style scheduling, examples, and best practices.",
+  "source": "@site/docs-snowflake/snowflake-tasks-cron.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-tasks-cron",
+  "permalink": "/snowflake/snowflake-tasks-cron",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-tasks-cron",
+    "title": "Automation of Data Loads Using Tasks (Cron Style Scheduling)",
+    "sidebar_label": "Snowflake Tasks",
+    "description": "Beginner-friendly guide to automating Snowflake data loads using Tasks with cron-style scheduling, examples, and best practices.",
+    "keywords": [
+      "Snowflake tasks",
+      "Snowflake cron jobs",
+      "Snowflake ETL automation",
+      "Snowflake scheduled jobs",
+      "Snowflake incremental load"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Incremental Loading",
+    "permalink": "/snowflake/snowflake-incremental-loading-cdc"
+  },
+  "next": {
+    "title": "Large Files & Optimization",
+    "permalink": "/snowflake/snowflake-large-files-optimization"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-copy-into-command",
+  "title": "COPY INTO Command — Complete Guide with All Options",
+  "description": "Beginner-friendly, story-driven guide to Snowflake COPY INTO command, explaining all options, file formats, and real-world use cases.",
+  "source": "@site/docs-snowflake/snowflake-copy-into-command.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-copy-into-command",
+  "permalink": "/snowflake/snowflake-copy-into-command",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-copy-into-command",
+    "title": "COPY INTO Command — Complete Guide with All Options",
+    "sidebar_label": "COPY INTO Command",
+    "description": "Beginner-friendly, story-driven guide to Snowflake COPY INTO command, explaining all options, file formats, and real-world use cases.",
+    "keywords": [
+      "Snowflake COPY INTO",
+      "Snowflake data loading",
+      "Snowflake ETL",
+      "Snowflake load command",
+      "Snowflake staging"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "File Formats",
+    "permalink": "/snowflake/snowflake-file-formats"
+  },
+  "next": {
+    "title": "Snowpipe",
+    "permalink": "/snowflake/snowflake-snowpipe"
+  }
+}

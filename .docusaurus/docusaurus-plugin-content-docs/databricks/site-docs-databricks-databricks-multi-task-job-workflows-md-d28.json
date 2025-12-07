@@ -1,0 +1,37 @@
+{
+  "id": "databricks-multi-task-job-workflows",
+  "title": "Multi-Task Job Workflows — Dependencies Across Tasks",
+  "description": "A modern, story-driven guide explaining Databricks Multi-Task Job Workflows, task dependencies, orchestration patterns, job clusters, retry logic, and real production use cases for building end-to-end data pipelines.",
+  "source": "@site/docs-databricks/databricks-multi-task-job-workflows.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-multi-task-job-workflows",
+  "permalink": "/databricks/databricks-multi-task-job-workflows",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-multi-task-job-workflows",
+    "title": "Multi-Task Job Workflows — Dependencies Across Tasks",
+    "sidebar_label": "Multi-Task Workflows",
+    "description": "A modern, story-driven guide explaining Databricks Multi-Task Job Workflows, task dependencies, orchestration patterns, job clusters, retry logic, and real production use cases for building end-to-end data pipelines.",
+    "keywords": [
+      "databricks multi task job",
+      "databricks workflows",
+      "databricks job dependencies",
+      "databricks orchestration",
+      "databricks pipeline automation",
+      "databricks ETL workflow",
+      "databricks production pipelines"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Databricks Jobs & Scheduling",
+    "permalink": "/databricks/databricks-jobs-scheduling-batch-processing"
+  },
+  "next": {
+    "title": "Databricks Workflows (New)",
+    "permalink": "/databricks/databricks-workflows-production-orchestration"
+  }
+}

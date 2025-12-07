@@ -1,0 +1,159 @@
+/* ---------- Profile card base (desktop-first) ---------- */
+.profileCard {
+  display: flex;
+  align-items: center;
+  gap: 1.8rem;
+  padding: 2.2rem;
+  border-radius: 1.25rem;
+  background: var(--ifm-card-background-color);
+  box-shadow: 0 8px 24px rgba(9, 30, 66, 0.06);
+  transition: transform .22s cubic-bezier(.2,.9,.25,1), box-shadow .22s ease;
+  overflow: visible;
+}
+
+/* subtle lift on hover for pointer devices */
+@media (hover: hover) and (pointer: fine) {
+  .profileCard:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 40px rgba(9, 30, 66, 0.08);
+  }
+}
+
+/* ---------- Profile image ---------- */
+.profileImage {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: contain;       /* preserves logo shape */
+  background: #fff;          /* nice contrast if image uses transparency */
+  padding: 10px;
+  border: 4px solid var(--ifm-color-primary);
+  flex: 0 0 auto;
+  box-shadow: 0 6px 18px rgba(9, 30, 66, 0.06);
+  transition: transform .28s cubic-bezier(.2,.9,.25,1);
+}
+
+/* small pop on image hover (desktop) */
+@media (hover: hover) and (pointer: fine) {
+  .profileImage:hover { transform: scale(1.03); }
+}
+
+/* ---------- Profile text ---------- */
+.profileText {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.profileName {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+.profileRole {
+  margin: 0.35rem 0 0.9rem 0;
+  color: var(--ifm-color-primary);
+  font-size: 0.99rem;
+  font-weight: 600;
+}
+
+.profileBio {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--ifm-color-emphasis-700);
+}
+
+/* ---------- Mobile responsiveness ---------- */
+@media (max-width: 768px) {
+  .profileCard {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.4rem;
+    gap: 1rem;
+    box-shadow: 0 10px 30px rgba(9, 30, 66, 0.06);
+  }
+
+  .profileImage {
+    width: 120px;
+    height: 120px;
+    padding: 8px;
+    border-width: 3px;
+  }
+
+  .profileText {
+    align-items: center;
+  }
+
+  .profileName { font-size: 1.5rem; }
+  .profileRole { font-size: 0.95rem; margin-top: 0.4rem; }
+  .profileBio { font-size: 0.97rem; line-height: 1.6; max-width: 48ch; }
+}
+
+/* very small phones */
+@media (max-width: 420px) {
+  .profileImage { width: 100px; height: 100px; padding: 6px; }
+  .profileName { font-size: 1.35rem; }
+  .profileBio { font-size: 0.95rem; max-width: 40ch; }
+}
+
+/* ---------- Motion + accessibility ---------- */
+/* slide-up reveal for when the card first appears */
+@keyframes slideUpFade {
+  from { transform: translateY(8px); opacity: 0; }
+  to   { transform: translateY(0); opacity: 1; }
+}
+.profileCard {
+  animation: slideUpFade .48s cubic-bezier(.2,.9,.25,1) both;
+}
+
+/* Respect reduced-motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .profileCard, .profileImage {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* Force square container and center the SVG content */
+.profileImage {
+  width: 150px;
+  height: 150px;          /* ensures perfect circle */
+  display: block;         /* removes inline img whitespace issues */
+  border-radius: 50%;
+  overflow: hidden;       /* crop anything outside the circle */
+  background: #fff;       /* contrast for white-on-transparent SVGs */
+  padding: 0;             /* remove inner padding so artwork can fill */
+  border: 4px solid var(--ifm-color-primary);
+  box-shadow: 0 6px 18px rgba(9,30,66,0.06);
+  object-fit: cover;      /* fill the box */
+}
+
+/* mobile sizing */
+@media (max-width: 768px) {
+  .profileImage { width: 120px; height: 120px; border-width: 3px; }
+}
+
+.profileImage {
+  width: 150px !important;     /* force perfect square */
+  height: 150px !important;    /* force perfect square */
+  border-radius: 50% !important;
+  object-fit: cover;           /* prevents stretching */
+  display: block;
+  padding: 0;
+  border: 4px solid var(--ifm-color-primary);
+  box-shadow: 0 6px 18px rgba(9,30,66,0.06);
+  background: #fff;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .profileImage {
+    width: 120px !important;
+    height: 120px !important;
+    border-width: 3px;
+  }
+}

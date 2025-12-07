@@ -1,0 +1,28 @@
+{
+  "id": "pyspark-streaming-intro",
+  "title": "Introduction to PySpark Streaming",
+  "description": "A story-based, beginner-friendly guide to PySpark Streaming—learn real-time data pipelines, window operations, checkpoints, stateful transformations, and core streaming concepts.",
+  "source": "@site/docs-pyspark/pyspark-streaming-intro.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark-streaming-intro",
+  "permalink": "/pyspark/pyspark-streaming-intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-streaming-intro",
+    "title": "Introduction to PySpark Streaming",
+    "sidebar_label": "Intro to Streaming",
+    "description": "A story-based, beginner-friendly guide to PySpark Streaming—learn real-time data pipelines, window operations, checkpoints, stateful transformations, and core streaming concepts.",
+    "keywords": [
+      "pyspark streaming",
+      "spark streaming tutorial",
+      "real-time data pipeline",
+      "streaming concepts",
+      "spark dstreams",
+      "pyspark windowing",
+      "spark streaming checkpoints"
+    ]
+  }
+}

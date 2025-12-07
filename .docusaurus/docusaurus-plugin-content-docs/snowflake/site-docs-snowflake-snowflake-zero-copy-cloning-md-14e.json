@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-zero-copy-cloning",
+  "title": "Zero-Copy Cloning — The Most Powerful Snowflake Feature",
+  "description": "Learn about Snowflake’s Zero-Copy Cloning feature, how it works, real-world use cases, and why it’s a game-changer for analytics and development environments.",
+  "source": "@site/docs-snowflake/snowflake-zero-copy-cloning.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-zero-copy-cloning",
+  "permalink": "/snowflake/snowflake-zero-copy-cloning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-zero-copy-cloning",
+    "title": "Zero-Copy Cloning — The Most Powerful Snowflake Feature",
+    "sidebar_label": "Zero-Copy Cloning",
+    "description": "Learn about Snowflake’s Zero-Copy Cloning feature, how it works, real-world use cases, and why it’s a game-changer for analytics and development environments.",
+    "keywords": [
+      "Snowflake zero-copy cloning",
+      "clone tables snowflake",
+      "clone databases snowflake",
+      "snowflake development",
+      "snowflake pipelines"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Time Travel & Fail-Safe",
+    "permalink": "/snowflake/snowflake-time-travel-fail-safe"
+  },
+  "next": {
+    "title": "Streams",
+    "permalink": "/snowflake/snowflake-streams"
+  }
+}

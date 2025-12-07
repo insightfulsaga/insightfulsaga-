@@ -1,0 +1,19 @@
+{
+  "type": "mdx",
+  "permalink": "/legal/cookie-policy",
+  "source": "@site/src/pages/legal/cookie-policy.mdx",
+  "title": "Cookie Policy",
+  "description": "Cookie Policy describing how Insightful Saga uses cookies and similar technologies.",
+  "frontMatter": {
+    "id": "cookie-policy",
+    "title": "Cookie Policy",
+    "description": "Cookie Policy describing how Insightful Saga uses cookies and similar technologies.",
+    "keywords": [
+      "Cookie Policy",
+      "Tracking",
+      "Privacy",
+      "Insightful Saga"
+    ]
+  },
+  "unlisted": false
+}

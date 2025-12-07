@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/about/",
+  "source": "@site/src/pages/about/index.mdx",
+  "title": "👋 Meet the Creator",
+  "description": "Harish C",
+  "frontMatter": {},
+  "unlisted": false
+}

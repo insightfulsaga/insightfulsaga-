@@ -1,0 +1,18 @@
+{
+  "id": "databricks-sql-n-dashboards",
+  "title": "Databricks SQL — Querying, Automation & Insights",
+  "description": "Modern Story way — Easy to Understand",
+  "source": "@site/docs-databricks/databricks-sql-n-dashboards.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-sql-n-dashboards",
+  "permalink": "/databricks/databricks-sql-n-dashboards",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-sql-n-dashboards",
+    "title": "Databricks SQL — Querying, Automation & Insights",
+    "sidebar_label": "Databricks SQL — Queries & Scheduling"
+  }
+}

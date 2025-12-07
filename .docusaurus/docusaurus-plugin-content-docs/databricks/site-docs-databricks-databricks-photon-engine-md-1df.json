@@ -1,0 +1,35 @@
+{
+  "id": "databricks-photon-engine",
+  "title": "Photon Execution Engine — When & Why to Use It",
+  "description": "Learn how the Databricks Photon engine works, why it’s faster, and when you should enable it. A story-driven, SEO-optimized explanation for modern Lakehouse performance.",
+  "source": "@site/docs-databricks/databricks-photon-engine.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-photon-engine",
+  "permalink": "/databricks/databricks-photon-engine",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-photon-engine",
+    "title": "Photon Execution Engine — When & Why to Use It",
+    "sidebar_label": "Photon Engine",
+    "description": "Learn how the Databricks Photon engine works, why it’s faster, and when you should enable it. A story-driven, SEO-optimized explanation for modern Lakehouse performance.",
+    "keywords": [
+      "Databricks Photon",
+      "Photon execution engine",
+      "Databricks performance",
+      "Delta Lake optimization",
+      "Databricks SQL engine"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Caching Best Practices",
+    "permalink": "/databricks/databricks-caching-best-practices"
+  },
+  "next": {
+    "title": "Cluster Sizing",
+    "permalink": "/databricks/databricks-cluster-sizing"
+  }
+}

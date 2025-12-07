@@ -1,0 +1,134 @@
+{
+  "id": "pyspark-architecture",
+  "title": "PySpark Architecture — Driver, Executor, and Cluster Modes",
+  "description": "Understand the PySpark architecture, including Driver, Executor, and cluster modes, to efficiently design distributed data processing workflows.",
+  "source": "@site/docs-pyspark/pyspark-architecture.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark-architecture",
+  "permalink": "/pyspark/pyspark-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "Apache Spark",
+      "permalink": "/pyspark/tags/apache-spark"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "Spark Basics",
+      "permalink": "/pyspark/tags/spark-basics"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Computing",
+      "permalink": "/pyspark/tags/cluster-computing"
+    },
+    {
+      "inline": true,
+      "label": "Spark Architecture",
+      "permalink": "/pyspark/tags/spark-architecture"
+    },
+    {
+      "inline": true,
+      "label": "Driver Program",
+      "permalink": "/pyspark/tags/driver-program"
+    },
+    {
+      "inline": true,
+      "label": "Executors",
+      "permalink": "/pyspark/tags/executors"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Manager",
+      "permalink": "/pyspark/tags/cluster-manager"
+    },
+    {
+      "inline": true,
+      "label": "SparkSession",
+      "permalink": "/pyspark/tags/spark-session"
+    },
+    {
+      "inline": true,
+      "label": "SparkContext",
+      "permalink": "/pyspark/tags/spark-context"
+    },
+    {
+      "inline": true,
+      "label": "RDD",
+      "permalink": "/pyspark/tags/rdd"
+    },
+    {
+      "inline": true,
+      "label": "RDD Transformations",
+      "permalink": "/pyspark/tags/rdd-transformations"
+    },
+    {
+      "inline": true,
+      "label": "RDD Actions",
+      "permalink": "/pyspark/tags/rdd-actions"
+    },
+    {
+      "inline": true,
+      "label": "Key-Value RDD",
+      "permalink": "/pyspark/tags/key-value-rdd"
+    },
+    {
+      "inline": true,
+      "label": "RDD Caching",
+      "permalink": "/pyspark/tags/rdd-caching"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-architecture",
+    "title": "PySpark Architecture — Driver, Executor, and Cluster Modes",
+    "sidebar_label": "PySpark Architecture",
+    "description": "Understand the PySpark architecture, including Driver, Executor, and cluster modes, to efficiently design distributed data processing workflows.",
+    "keywords": [
+      "PySpark architecture",
+      "Spark driver and executor",
+      "Cluster modes in Spark",
+      "Distributed computing PySpark",
+      "Big data processing architecture"
+    ],
+    "tags": [
+      "PySpark",
+      "Apache Spark",
+      "Big Data",
+      "Spark Basics",
+      "Cluster Computing",
+      "Spark Architecture",
+      "Driver Program",
+      "Executors",
+      "Cluster Manager",
+      "SparkSession",
+      "SparkContext",
+      "RDD",
+      "RDD Transformations",
+      "RDD Actions",
+      "Key-Value RDD",
+      "RDD Caching"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to PySpark",
+    "permalink": "/pyspark/pyspark-intro"
+  },
+  "next": {
+    "title": "PySpark Installation",
+    "permalink": "/pyspark/pyspark-installation"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-virtual-warehouses",
+  "title": "Virtual Warehouses — What They Are & How They Work",
+  "description": "A simple, story-driven and SEO-friendly explanation of Snowflake Virtual Warehouses — what they are, how they work, scaling, caching, and real business scenarios.",
+  "source": "@site/docs-snowflake/snowflake-virtual-warehouses.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-virtual-warehouses",
+  "permalink": "/snowflake/snowflake-virtual-warehouses",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-virtual-warehouses",
+    "title": "Virtual Warehouses — What They Are & How They Work",
+    "sidebar_label": "Virtual Warehouses (Compute Layer)",
+    "description": "A simple, story-driven and SEO-friendly explanation of Snowflake Virtual Warehouses — what they are, how they work, scaling, caching, and real business scenarios.",
+    "keywords": [
+      "snowflake virtual warehouse",
+      "snowflake compute layer",
+      "snowflake warehouse scaling",
+      "snowflake architecture virtual warehouse",
+      "snowflake multi-cluster warehouse"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Snowflake Architecture (Simple Guide)",
+    "permalink": "/snowflake/snowflake-architecture"
+  },
+  "next": {
+    "title": "Object Hierarchy (DB → Schema → Tables)",
+    "permalink": "/snowflake/snowflake-object-hierarchy"
+  }
+}

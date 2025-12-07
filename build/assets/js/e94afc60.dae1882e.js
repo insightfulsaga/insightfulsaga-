@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatacraft_school=self.webpackChunkdatacraft_school||[]).push([[1587],{990:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"pyspark"}')}}]);

@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-architecture",
+  "title": "Snowflake Architecture Made Simple — Storage, Compute & Cloud Services",
+  "description": "A complete beginner-friendly explanation of Snowflake’s architecture using a modern story format. Understand Storage, Compute, Virtual Warehouses, Cloud Services and performance behavior.",
+  "source": "@site/docs-snowflake/snowflake-architecture.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-architecture",
+  "permalink": "/snowflake/snowflake-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-architecture",
+    "title": "Snowflake Architecture Made Simple — Storage, Compute & Cloud Services",
+    "sidebar_label": "Snowflake Architecture (Simple Guide)",
+    "description": "A complete beginner-friendly explanation of Snowflake’s architecture using a modern story format. Understand Storage, Compute, Virtual Warehouses, Cloud Services and performance behavior.",
+    "keywords": [
+      "snowflake architecture",
+      "snowflake storage layer",
+      "snowflake compute layer",
+      "cloud services layer snowflake",
+      "snowflake data warehouse design"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Introduction to Snowflake",
+    "permalink": "/snowflake/snowflake-intro"
+  },
+  "next": {
+    "title": "Virtual Warehouses (Compute Layer)",
+    "permalink": "/snowflake/snowflake-virtual-warehouses"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "databricks-editions",
+  "title": "Databricks Community Edition vs Enterprise vs Premium",
+  "description": "A beginner-friendly comparison of Databricks Community Edition, Enterprise, and Premium, highlighting features, limitations, and real business use cases.",
+  "source": "@site/docs-databricks/databricks-editions.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-editions",
+  "permalink": "/databricks/databricks-editions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-editions",
+    "title": "Databricks Community Edition vs Enterprise vs Premium",
+    "sidebar_label": "Databricks Editions",
+    "description": "A beginner-friendly comparison of Databricks Community Edition, Enterprise, and Premium, highlighting features, limitations, and real business use cases.",
+    "keywords": [
+      "Databricks Community Edition",
+      "Databricks Enterprise",
+      "Databricks Premium",
+      "Databricks editions comparison",
+      "Databricks features"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Databricks Pricing",
+    "permalink": "/databricks/databricks-pricing"
+  },
+  "next": {
+    "title": "Organize Projects",
+    "permalink": "/databricks/organize-projects-databricks"
+  }
+}

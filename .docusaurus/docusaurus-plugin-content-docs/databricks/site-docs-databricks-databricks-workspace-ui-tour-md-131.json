@@ -1,0 +1,35 @@
+{
+  "id": "databricks-workspace-ui-tour",
+  "title": "Databricks Workspace UI Tour — All Menus & Features Explained",
+  "description": "A complete beginner-friendly tour of the Databricks Workspace interface, explained through a story so users can understand each menu, button, and feature easily.",
+  "source": "@site/docs-databricks/databricks-workspace-ui-tour.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-workspace-ui-tour",
+  "permalink": "/databricks/databricks-workspace-ui-tour",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-workspace-ui-tour",
+    "title": "Databricks Workspace UI Tour — All Menus & Features Explained",
+    "sidebar_label": "Workspace UI Tour",
+    "description": "A complete beginner-friendly tour of the Databricks Workspace interface, explained through a story so users can understand each menu, button, and feature easily.",
+    "keywords": [
+      "Databricks workspace UI",
+      "Databricks interface tour",
+      "Databricks menus explained",
+      "Databricks tutorial for beginners",
+      "Databricks workspace navigation"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Lakehouse Concept",
+    "permalink": "/databricks/lakehouse-concept"
+  },
+  "next": {
+    "title": "Cluster vs SQL Warehouse",
+    "permalink": "/databricks/cluster-vs-sql-warehouse"
+  }
+}

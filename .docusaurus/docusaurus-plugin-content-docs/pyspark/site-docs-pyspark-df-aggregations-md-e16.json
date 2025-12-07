@@ -1,0 +1,88 @@
+{
+  "id": "df-aggregations",
+  "title": "Aggregations & GroupBy — Sum, Count, Avg, Max & Min",
+  "description": "Learn how to perform aggregations in PySpark using groupBy, sum, count, average, max, and min functions with practical Databricks examples.",
+  "source": "@site/docs-pyspark/df-aggregations.md",
+  "sourceDirName": ".",
+  "slug": "/df-aggregations",
+  "permalink": "/pyspark/df-aggregations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "Apache Spark",
+      "permalink": "/pyspark/tags/apache-spark"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "Spark Basics",
+      "permalink": "/pyspark/tags/spark-basics"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Computing",
+      "permalink": "/pyspark/tags/cluster-computing"
+    },
+    {
+      "inline": true,
+      "label": "Spark Architecture",
+      "permalink": "/pyspark/tags/spark-architecture"
+    },
+    {
+      "inline": true,
+      "label": "Driver Program",
+      "permalink": "/pyspark/tags/driver-program"
+    },
+    {
+      "inline": true,
+      "label": "Executors",
+      "permalink": "/pyspark/tags/executors"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Manager",
+      "permalink": "/pyspark/tags/cluster-manager"
+    },
+    {
+      "inline": true,
+      "label": "SparkSession",
+      "permalink": "/pyspark/tags/spark-session"
+    },
+    {
+      "inline": true,
+      "label": "SparkContext",
+      "permalink": "/pyspark/tags/spark-context"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "df-aggregations",
+    "title": "Aggregations & GroupBy — Sum, Count, Avg, Max & Min",
+    "sidebar_label": "Aggregations & GroupBy",
+    "description": "Learn how to perform aggregations in PySpark using groupBy, sum, count, average, max, and min functions with practical Databricks examples.",
+    "tags": [
+      "PySpark",
+      "Apache Spark",
+      "Big Data",
+      "Spark Basics",
+      "Cluster Computing",
+      "Spark Architecture",
+      "Driver Program",
+      "Executors",
+      "Cluster Manager",
+      "SparkSession",
+      "SparkContext"
+    ]
+  }
+}

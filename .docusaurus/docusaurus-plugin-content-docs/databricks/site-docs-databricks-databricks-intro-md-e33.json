@@ -1,0 +1,31 @@
+{
+  "id": "databricks-intro",
+  "title": "Databricks Explained- A Beginner-Friendly Story with Real Business Examples",
+  "description": "A beginner-friendly, story-style explanation of what Databricks is, how it works, and why companies use it—with a real business example.",
+  "source": "@site/docs-databricks/databricks-intro.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-intro",
+  "permalink": "/databricks/databricks-intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-intro",
+    "title": "Databricks Explained- A Beginner-Friendly Story with Real Business Examples",
+    "sidebar_label": "Introduction to Databricks",
+    "description": "A beginner-friendly, story-style explanation of what Databricks is, how it works, and why companies use it—with a real business example.",
+    "keywords": [
+      "Databricks explained",
+      "What is Databricks",
+      "Databricks for beginners",
+      "Databricks business example",
+      "Databricks tutorial"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "next": {
+    "title": "Databricks Login",
+    "permalink": "/databricks/databricks-login-guide"
+  }
+}

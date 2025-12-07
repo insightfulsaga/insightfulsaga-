@@ -1,0 +1,35 @@
+{
+  "id": "databricks-notebooks-basics",
+  "title": "Databricks Notebooks — Basics, Cells & Commands",
+  "description": "A beginner-friendly, story-style guide to Databricks notebooks, including how to use cells, commands, and collaborate effectively.",
+  "source": "@site/docs-databricks/databricks-notebooks-basics.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-notebooks-basics",
+  "permalink": "/databricks/databricks-notebooks-basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-notebooks-basics",
+    "title": "Databricks Notebooks — Basics, Cells & Commands",
+    "sidebar_label": "Databricks Notebooks",
+    "description": "A beginner-friendly, story-style guide to Databricks notebooks, including how to use cells, commands, and collaborate effectively.",
+    "keywords": [
+      "Databricks notebooks",
+      "Databricks notebook cells",
+      "Databricks commands",
+      "Databricks beginner tutorial",
+      "Databricks interactive notebooks"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Cluster vs SQL Warehouse",
+    "permalink": "/databricks/cluster-vs-sql-warehouse"
+  },
+  "next": {
+    "title": "Security Basics",
+    "permalink": "/databricks/databricks-security-basics"
+  }
+}

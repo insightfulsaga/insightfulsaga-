@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-materialized-views",
+  "title": "Materialized Views — When to Use & When to Avoid",
+  "description": "Learn about Snowflake Materialized Views, how they improve query performance, their limitations, and best practices in a story-driven, easy-to-understand format.",
+  "source": "@site/docs-snowflake/snowflake-materialized-views.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-materialized-views",
+  "permalink": "/snowflake/snowflake-materialized-views",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-materialized-views",
+    "title": "Materialized Views — When to Use & When to Avoid",
+    "sidebar_label": "Materialized Views",
+    "description": "Learn about Snowflake Materialized Views, how they improve query performance, their limitations, and best practices in a story-driven, easy-to-understand format.",
+    "keywords": [
+      "Snowflake Materialized Views",
+      "Snowflake MV",
+      "query performance Snowflake",
+      "Snowflake caching",
+      "Snowflake optimization"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Tasks",
+    "permalink": "/snowflake/snowflake-tasks"
+  },
+  "next": {
+    "title": "Secure Views & Data Sharing",
+    "permalink": "/snowflake/snowflake-secure-views"
+  }
+}

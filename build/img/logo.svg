@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Insightful Saga crystal logo">
+  <defs>
+    <!-- metallic silver gradient -->
+    <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#d7dde0"/>
+      <stop offset="45%" stop-color="#bfc7cc"/>
+      <stop offset="100%" stop-color="#8f979b"/>
+    </linearGradient>
+
+    <!-- subtle inner highlight for nodes -->
+    <radialGradient id="nodeGlow" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#f2f4f6" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#c7cfd3" stop-opacity="1"/>
+    </radialGradient>
+
+    <!-- stroke style -->
+    <style>
+      .edge { fill: none; stroke: url(#metal); stroke-width: 34; stroke-linejoin: round; stroke-linecap: round; }
+      .inner { fill: none; stroke: url(#metal); stroke-width: 26; stroke-linecap: round; stroke-linejoin: round; }
+      .node { fill: url(#nodeGlow); stroke: url(#metal); stroke-width: 10; }
+    </style>
+  </defs>
+
+  <!-- background (useful if you want exact look) -->
+  <rect width="100%" height="100%" fill="#071d36"/>
+
+  <!-- outer diamond / crystal frame -->
+  <path class="edge" d="M512 64 L928 512 L512 960 L96 512 Z" />
+
+  <!-- inner network lines (hand-traced approximation of the provided image) -->
+  <!-- top vertical-ish connector -->
+  <path class="inner" d="M512 192 L512 380" />
+
+  <!-- left-top triangle connector -->
+  <path class="inner" d="M512 380 L380 300" />
+
+  <!-- left-mid to center connector -->
+  <path class="inner" d="M380 300 L360 430" />
+
+  <!-- left-mid to center-top connector -->
+  <path class="inner" d="M360 430 L512 512" />
+
+  <!-- center to right-top connector -->
+  <path class="inner" d="M512 512 L700 420" />
+
+  <!-- center to bottom-right connector -->
+  <path class="inner" d="M512 512 L560 660" />
+
+  <!-- bottom-right to bottom-left-ish connector -->
+  <path class="inner" d="M560 660 L360 760" />
+
+  <!-- bottom-left-ish back to bottom vertex -->
+  <path class="inner" d="M360 760 L512 896" />
+
+  <!-- a cross-connection to mimic the web-like inside -->
+  <path class="inner" d="M380 300 L512 512 L700 420" />
+
+  <!-- three rounded nodes -->
+  <circle class="node" cx="360" cy="430" r="30" />
+  <circle class="node" cx="512" cy="512" r="34" />
+  <circle class="node" cx="560" cy="660" r="30" />
+
+</svg>

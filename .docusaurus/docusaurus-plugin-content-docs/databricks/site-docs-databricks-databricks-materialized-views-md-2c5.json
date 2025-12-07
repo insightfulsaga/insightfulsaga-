@@ -1,0 +1,35 @@
+{
+  "id": "databricks-materialized-views",
+  "title": "Materialized Views in Databricks (SQL + Pipelines)",
+  "description": "A simple, story-style explanation of Materialized Views in Databricks, how they work, why they exist, and how to use them in SQL and pipelines for fast and reliable analytics.",
+  "source": "@site/docs-databricks/databricks-materialized-views.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-materialized-views",
+  "permalink": "/databricks/databricks-materialized-views",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-materialized-views",
+    "title": "Materialized Views in Databricks (SQL + Pipelines)",
+    "sidebar_label": "Materialized Views",
+    "description": "A simple, story-style explanation of Materialized Views in Databricks, how they work, why they exist, and how to use them in SQL and pipelines for fast and reliable analytics.",
+    "keywords": [
+      "Databricks materialized views",
+      "streaming tables",
+      "SQL pipelines",
+      "delta lake views",
+      "refreshed views"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Delta Live Tables (DLT)",
+    "permalink": "/databricks/delta-live-tables-dlt-pipelines"
+  },
+  "next": {
+    "title": "Permissions (RBAC)",
+    "permalink": "/databricks/databricks-catalog-schema-table-permissions-rbac"
+  }
+}

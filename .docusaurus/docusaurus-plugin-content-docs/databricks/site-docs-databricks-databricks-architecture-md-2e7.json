@@ -1,0 +1,27 @@
+{
+  "id": "databricks-architecture",
+  "title": "Databricks Architecture",
+  "description": "# Databricks Architecture Overview",
+  "source": "@site/docs-databricks/databricks-architecture.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-architecture",
+  "permalink": "/databricks/databricks-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-architecture",
+    "title": "Databricks Architecture",
+    "sidebar_label": "Architecture"
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Databricks Login",
+    "permalink": "/databricks/databricks-login-guide"
+  },
+  "next": {
+    "title": "Lakehouse Concept",
+    "permalink": "/databricks/lakehouse-concept"
+  }
+}

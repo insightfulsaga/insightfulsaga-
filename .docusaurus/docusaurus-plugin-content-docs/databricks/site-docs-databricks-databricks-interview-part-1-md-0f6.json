@@ -1,0 +1,18 @@
+{
+  "id": "databricks-interview-part1",
+  "title": "Must-Know Databricks Interview Question & Answer(Explained Through Real-World Stories) - Part 1",
+  "description": "1. What is Databricks, and how is it different from Apache Spark?",
+  "source": "@site/docs-databricks/databricks-interview-part1.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-interview-part1",
+  "permalink": "/databricks/databricks-interview-part1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-interview-part1",
+    "title": "Must-Know Databricks Interview Question & Answer(Explained Through Real-World Stories) - Part 1",
+    "sidebar_label": "Databricks Interview Q&A(Real Scenarios) - 1"
+  }
+}

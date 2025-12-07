@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-editions",
+  "title": "Snowflake Editions — Standard, Enterprise & Business Critical Explained",
+  "description": "A simple story-driven and friendly guide explaining Snowflake Editions — Standard, Enterprise, Business Critical, and Virtual Private Snowflake (VPS). Understand features, differences, and real company use-cases.",
+  "source": "@site/docs-snowflake/snowflake-editions.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-editions",
+  "permalink": "/snowflake/snowflake-editions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-editions",
+    "title": "Snowflake Editions — Standard, Enterprise & Business Critical Explained",
+    "sidebar_label": "Snowflake Editions",
+    "description": "A simple story-driven and friendly guide explaining Snowflake Editions — Standard, Enterprise, Business Critical, and Virtual Private Snowflake (VPS). Understand features, differences, and real company use-cases.",
+    "keywords": [
+      "snowflake editions",
+      "snowflake standard vs enterprise",
+      "snowflake business critical",
+      "snowflake pricing tiers",
+      "snowflake enterprise features"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Object Hierarchy (DB → Schema → Tables)",
+    "permalink": "/snowflake/snowflake-object-hierarchy"
+  },
+  "next": {
+    "title": "Compute & Storage Costs",
+    "permalink": "/snowflake/snowflake-costs-best-practices"
+  }
+}

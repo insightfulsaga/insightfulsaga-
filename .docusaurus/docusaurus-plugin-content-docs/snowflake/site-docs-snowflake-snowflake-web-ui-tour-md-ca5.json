@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-web-ui-tour",
+  "title": "Snowflake Web UI Tour — All Tabs Explained in Simple Words",
+  "description": "A simple, story-driven guide to exploring the Snowflake Web UI. Learn about all tabs, panels, and menus, and understand how to navigate, manage warehouses, databases, and queries like a pro.",
+  "source": "@site/docs-snowflake/snowflake-web-ui-tour.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-web-ui-tour",
+  "permalink": "/snowflake/snowflake-web-ui-tour",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-web-ui-tour",
+    "title": "Snowflake Web UI Tour — All Tabs Explained in Simple Words",
+    "sidebar_label": "Snowflake Web UI",
+    "description": "A simple, story-driven guide to exploring the Snowflake Web UI. Learn about all tabs, panels, and menus, and understand how to navigate, manage warehouses, databases, and queries like a pro.",
+    "keywords": [
+      "snowflake web ui",
+      "snowflake interface tour",
+      "snowflake console guide",
+      "snowflake ui tabs explained",
+      "snowflake dashboard tutorial"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "RBAC & Permissions",
+    "permalink": "/snowflake/snowflake-rbac-user-roles"
+  },
+  "next": {
+    "title": "SQL Basics",
+    "permalink": "/snowflake/snowflake-sql-basics"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-file-formats",
+  "title": "File Formats (CSV, JSON, Parquet) — With Story and Use Cases",
+  "description": "Beginner-friendly guide to Snowflake file formats including CSV, JSON, and Parquet, with real-world examples and use cases for data loading.",
+  "source": "@site/docs-snowflake/snowflake-file-formats.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-file-formats",
+  "permalink": "/snowflake/snowflake-file-formats",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-file-formats",
+    "title": "File Formats (CSV, JSON, Parquet) — With Story and Use Cases",
+    "sidebar_label": "File Formats",
+    "description": "Beginner-friendly guide to Snowflake file formats including CSV, JSON, and Parquet, with real-world examples and use cases for data loading.",
+    "keywords": [
+      "Snowflake file formats",
+      "Snowflake CSV",
+      "Snowflake JSON",
+      "Snowflake Parquet",
+      "Snowflake data loading"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "External Stages",
+    "permalink": "/snowflake/snowflake-external-stages"
+  },
+  "next": {
+    "title": "COPY INTO Command",
+    "permalink": "/snowflake/snowflake-copy-into-command"
+  }
+}

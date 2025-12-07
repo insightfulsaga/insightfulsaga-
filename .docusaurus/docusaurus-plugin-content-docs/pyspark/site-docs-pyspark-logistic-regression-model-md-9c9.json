@@ -1,0 +1,18 @@
+{
+  "id": "logistic-regression-model",
+  "title": "Logistic Regression - Explained Simply",
+  "description": "🚀 Churn Predictor: Building an ML Model for Streaming Service",
+  "source": "@site/docs-pyspark/logistic-regression-model.md",
+  "sourceDirName": ".",
+  "slug": "/logistic-regression-model",
+  "permalink": "/pyspark/logistic-regression-model",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "logistic-regression-model",
+    "title": "Logistic Regression - Explained Simply",
+    "sidebar_label": "Logistic Regression"
+  }
+}

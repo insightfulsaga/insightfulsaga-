@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-incremental-loading-cdc",
+  "title": "Incremental Loading (CDC) in Snowflake — 5 Real Techniques",
+  "description": "Beginner-friendly, story-driven guide to incremental loading (CDC) in Snowflake with 5 practical techniques and real-world examples.",
+  "source": "@site/docs-snowflake/snowflake-incremental-loading-cdc.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-incremental-loading-cdc",
+  "permalink": "/snowflake/snowflake-incremental-loading-cdc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-incremental-loading-cdc",
+    "title": "Incremental Loading (CDC) in Snowflake — 5 Real Techniques",
+    "sidebar_label": "Incremental Loading",
+    "description": "Beginner-friendly, story-driven guide to incremental loading (CDC) in Snowflake with 5 practical techniques and real-world examples.",
+    "keywords": [
+      "Snowflake CDC",
+      "Snowflake incremental load",
+      "Snowflake data pipelines",
+      "Snowflake change data capture",
+      "Snowflake ETL best practices"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Snowpipe",
+    "permalink": "/snowflake/snowflake-snowpipe"
+  },
+  "next": {
+    "title": "Snowflake Tasks",
+    "permalink": "/snowflake/snowflake-tasks-cron"
+  }
+}

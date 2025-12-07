@@ -1,0 +1,128 @@
+{
+  "id": "pyspark-interview-questions-part1",
+  "title": "Essential PySpark Interview Question & Answer(Explained Through Real-World Stories) – Part 1",
+  "description": "Learn key PySpark interview questions and answers covering SparkSession, DataFrames, RDDs, and more. Includes code examples and comparisons with Pandas.",
+  "source": "@site/docs-pyspark/pyspark-interview-questions-part1.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark-interview-questions-part1",
+  "permalink": "/pyspark/pyspark-interview-questions-part1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "pyspark-intro",
+      "permalink": "/pyspark/tags/pyspark-intro"
+    },
+    {
+      "inline": true,
+      "label": "pyspark dataframe basics",
+      "permalink": "/pyspark/tags/pyspark-dataframe-basics"
+    },
+    {
+      "inline": true,
+      "label": "pyspark dataframe basics2",
+      "permalink": "/pyspark/tags/pyspark-dataframe-basics-2"
+    },
+    {
+      "inline": true,
+      "label": "pyspark filtering",
+      "permalink": "/pyspark/tags/pyspark-filtering"
+    },
+    {
+      "inline": true,
+      "label": "pyspark aggregation",
+      "permalink": "/pyspark/tags/pyspark-aggregation"
+    },
+    {
+      "inline": true,
+      "label": "pyspark missing",
+      "permalink": "/pyspark/tags/pyspark-missing"
+    },
+    {
+      "inline": true,
+      "label": "pyspark dates",
+      "permalink": "/pyspark/tags/pyspark-dates"
+    },
+    {
+      "inline": true,
+      "label": "pyspark joins",
+      "permalink": "/pyspark/tags/pyspark-joins"
+    },
+    {
+      "inline": true,
+      "label": "pyspark one liners",
+      "permalink": "/pyspark/tags/pyspark-one-liners"
+    },
+    {
+      "inline": true,
+      "label": "linear regression model",
+      "permalink": "/pyspark/tags/linear-regression-model"
+    },
+    {
+      "inline": true,
+      "label": "linear regression math",
+      "permalink": "/pyspark/tags/linear-regression-math"
+    },
+    {
+      "inline": true,
+      "label": "house price linear regression",
+      "permalink": "/pyspark/tags/house-price-linear-regression"
+    },
+    {
+      "inline": true,
+      "label": "logistic regression model",
+      "permalink": "/pyspark/tags/logistic-regression-model"
+    },
+    {
+      "inline": true,
+      "label": "logistic regression query",
+      "permalink": "/pyspark/tags/logistic-regression-query"
+    },
+    {
+      "inline": true,
+      "label": "logistic regression mini project",
+      "permalink": "/pyspark/tags/logistic-regression-mini-project"
+    },
+    {
+      "inline": true,
+      "label": "PySpark Interview Questions",
+      "permalink": "/pyspark/tags/py-spark-interview-questions"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "pyspark-interview-questions-part1",
+    "title": "Essential PySpark Interview Question & Answer(Explained Through Real-World Stories) – Part 1",
+    "description": "Learn key PySpark interview questions and answers covering SparkSession, DataFrames, RDDs, and more. Includes code examples and comparisons with Pandas.",
+    "sidebar_label": "PySpark Interview Q&A(Story-Based) - 1",
+    "tags": [
+      "pyspark-intro",
+      "pyspark dataframe basics",
+      "pyspark dataframe basics2",
+      "pyspark filtering",
+      "pyspark aggregation",
+      "pyspark missing",
+      "pyspark dates",
+      "pyspark joins",
+      "pyspark one liners",
+      "linear regression model",
+      "linear regression math",
+      "house price linear regression",
+      "logistic regression model",
+      "logistic regression query",
+      "logistic regression mini project",
+      "PySpark Interview Questions"
+    ],
+    "keywords": [
+      "PySpark Interview Questions",
+      "SparkSession PySpark",
+      "PySpark DataFrame",
+      "PySpark vs Pandas",
+      "RDD vs DataFrame",
+      "PySpark version check"
+    ],
+    "sidebar_position": 1
+  }
+}

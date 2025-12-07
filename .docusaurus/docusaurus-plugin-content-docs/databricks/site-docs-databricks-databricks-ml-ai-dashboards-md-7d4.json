@@ -1,0 +1,52 @@
+{
+  "id": "databricks-ml-ai-dashboards",
+  "title": "ML & AI in Databricks Dashboards",
+  "description": "Learn how to integrate Machine Learning and AI into Databricks dashboards using MLflow, AutoML, and predictive analytics — explained in both modern-story and professional ways.",
+  "source": "@site/docs-databricks/databricks-ml-ai-dashboards.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-ml-ai-dashboards",
+  "permalink": "/databricks/databricks-ml-ai-dashboards",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "Databricks",
+      "permalink": "/databricks/tags/databricks"
+    },
+    {
+      "inline": true,
+      "label": "Machine Learning",
+      "permalink": "/databricks/tags/machine-learning"
+    },
+    {
+      "inline": true,
+      "label": "MLflow",
+      "permalink": "/databricks/tags/m-lflow"
+    },
+    {
+      "inline": true,
+      "label": "Dashboards",
+      "permalink": "/databricks/tags/dashboards"
+    },
+    {
+      "inline": true,
+      "label": "AI Analytics",
+      "permalink": "/databricks/tags/ai-analytics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-ml-ai-dashboards",
+    "title": "ML & AI in Databricks Dashboards",
+    "sidebar_label": "ML & AI Dashboards",
+    "description": "Learn how to integrate Machine Learning and AI into Databricks dashboards using MLflow, AutoML, and predictive analytics — explained in both modern-story and professional ways.",
+    "tags": [
+      "Databricks",
+      "Machine Learning",
+      "MLflow",
+      "Dashboards",
+      "AI Analytics"
+    ]
+  }
+}

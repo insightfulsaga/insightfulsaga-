@@ -1,0 +1,36 @@
+{
+  "id": "snowflake-data-types-explained",
+  "title": "Snowflake Data Types Explained with Real Use Cases",
+  "description": "A clean, story-driven overview of Snowflake data types including VARCHAR, NUMBER, FLOAT, BOOLEAN, DATE, TIMESTAMP, VARIANT, ARRAY, OBJECT and their real-world use cases.",
+  "source": "@site/docs-snowflake/snowflake-data-types-explained.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-data-types-explained",
+  "permalink": "/snowflake/snowflake-data-types-explained",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-data-types-explained",
+    "title": "Snowflake Data Types Explained with Real Use Cases",
+    "sidebar_label": "Snowflake Data Types",
+    "description": "A clean, story-driven overview of Snowflake data types including VARCHAR, NUMBER, FLOAT, BOOLEAN, DATE, TIMESTAMP, VARIANT, ARRAY, OBJECT and their real-world use cases.",
+    "keywords": [
+      "Snowflake data types",
+      "Snowflake VARCHAR",
+      "Snowflake NUMBER",
+      "Snowflake VARIANT",
+      "semi-structured data Snowflake",
+      "choose data types Snowflake"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Large Files & Optimization",
+    "permalink": "/snowflake/snowflake-large-files-optimization"
+  },
+  "next": {
+    "title": "Clustering Keys",
+    "permalink": "/snowflake/snowflake-clustering-keys-explained"
+  }
+}

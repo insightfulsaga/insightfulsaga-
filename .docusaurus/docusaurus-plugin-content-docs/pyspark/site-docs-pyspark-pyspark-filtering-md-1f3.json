@@ -1,0 +1,58 @@
+{
+  "id": "pyspark-filtering",
+  "title": "Data Filtering in PySpark DataFrames (Complete Guide with Examples)",
+  "description": "Learn how to filter data in PySpark DataFrames using conditions, column expressions, multiple filters, and row extraction with examples and outputs.",
+  "source": "@site/docs-pyspark/pyspark-filtering.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/filtering",
+  "permalink": "/pyspark/pyspark/filtering",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "DataFrames",
+      "permalink": "/pyspark/tags/data-frames"
+    },
+    {
+      "inline": true,
+      "label": "Filtering",
+      "permalink": "/pyspark/tags/filtering"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-filtering",
+    "title": "Data Filtering in PySpark DataFrames (Complete Guide with Examples)",
+    "sidebar_label": "Data Filtering",
+    "slug": "/pyspark/filtering",
+    "description": "Learn how to filter data in PySpark DataFrames using conditions, column expressions, multiple filters, and row extraction with examples and outputs.",
+    "keywords": [
+      "PySpark filtering",
+      "PySpark DataFrame filter",
+      "filter in PySpark",
+      "PySpark select examples",
+      "PySpark conditions",
+      "big data filtering",
+      "PySpark tutorial"
+    ],
+    "og:title": "Data Filtering in PySpark DataFrames — Full Tutorial",
+    "og:description": "Step-by-step guide on filtering data in PySpark using expressions, column objects, multiple conditions, and row extraction with real examples.",
+    "tags": [
+      "PySpark",
+      "DataFrames",
+      "Filtering",
+      "Big Data"
+    ]
+  }
+}

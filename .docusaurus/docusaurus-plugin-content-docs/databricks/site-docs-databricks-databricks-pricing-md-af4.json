@@ -1,0 +1,35 @@
+{
+  "id": "databricks-pricing",
+  "title": "Databricks Pricing — How Clusters, SQL & Jobs Are Charged",
+  "description": "Beginner-friendly guide to Databricks pricing, explaining costs for clusters, SQL warehouses, and jobs, with practical examples for real business use cases.",
+  "source": "@site/docs-databricks/databricks-pricing.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-pricing",
+  "permalink": "/databricks/databricks-pricing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-pricing",
+    "title": "Databricks Pricing — How Clusters, SQL & Jobs Are Charged",
+    "sidebar_label": "Databricks Pricing",
+    "description": "Beginner-friendly guide to Databricks pricing, explaining costs for clusters, SQL warehouses, and jobs, with practical examples for real business use cases.",
+    "keywords": [
+      "Databricks pricing",
+      "Databricks cost explained",
+      "Databricks clusters cost",
+      "Databricks SQL warehouse pricing",
+      "Databricks jobs pricing"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Databricks DBFS",
+    "permalink": "/databricks/databricks-dbfs"
+  },
+  "next": {
+    "title": "Databricks Editions",
+    "permalink": "/databricks/databricks-editions"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "snowflake-sharing-marketplace-exchange-secure-shares",
+  "title": "Snowflake Sharing — Data Marketplace, Data Exchange & Secure Shares",
+  "description": "A modern, story-driven guide explaining Snowflake’s Data Marketplace, Data Exchange, and Secure Data Sharing with real enterprise use cases, architectures, and benefits for data collaboration.",
+  "source": "@site/docs-snowflake/snowflake-sharing-marketplace-exchange-secure-shares.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-sharing-marketplace-exchange-secure-shares",
+  "permalink": "/snowflake/snowflake-sharing-marketplace-exchange-secure-shares",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-sharing-marketplace-exchange-secure-shares",
+    "title": "Snowflake Sharing — Data Marketplace, Data Exchange & Secure Shares",
+    "sidebar_label": "Data Sharing & Marketplace",
+    "description": "A modern, story-driven guide explaining Snowflake’s Data Marketplace, Data Exchange, and Secure Data Sharing with real enterprise use cases, architectures, and benefits for data collaboration.",
+    "keywords": [
+      "Snowflake data sharing",
+      "Snowflake secure shares",
+      "Snowflake data marketplace",
+      "Snowflake data exchange",
+      "data collaboration snowflake",
+      "cross-cloud data sharing",
+      "Snowflake governance"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Flatten & VARIANT",
+    "permalink": "/snowflake/snowflake-flatten-variant"
+  },
+  "next": {
+    "title": "Governance & Policies",
+    "permalink": "/snowflake/snowflake-governance-access-control-tags-policies"
+  }
+}

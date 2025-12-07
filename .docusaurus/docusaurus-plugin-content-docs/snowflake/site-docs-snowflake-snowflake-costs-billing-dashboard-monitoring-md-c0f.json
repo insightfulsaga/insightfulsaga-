@@ -1,0 +1,37 @@
+{
+  "id": "snowflake-costs-billing-dashboard-monitoring",
+  "title": "Snowflake Costs & Billing Dashboard — Monitoring Tips",
+  "description": "A practical, story-driven guide to monitoring Snowflake costs using the Billing Dashboard, Resource Monitors, Query History, and best practices for cost optimization across compute, storage, and cloud services.",
+  "source": "@site/docs-snowflake/snowflake-costs-billing-dashboard-monitoring.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-costs-billing-dashboard-monitoring",
+  "permalink": "/snowflake/snowflake-costs-billing-dashboard-monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-costs-billing-dashboard-monitoring",
+    "title": "Snowflake Costs & Billing Dashboard — Monitoring Tips",
+    "sidebar_label": "Costs & Billing",
+    "description": "A practical, story-driven guide to monitoring Snowflake costs using the Billing Dashboard, Resource Monitors, Query History, and best practices for cost optimization across compute, storage, and cloud services.",
+    "keywords": [
+      "Snowflake cost optimization",
+      "Snowflake billing dashboard",
+      "Snowflake credit usage",
+      "Snowflake cost monitoring",
+      "snowflake query history",
+      "snowflake warehouse optimization",
+      "snowflake resource monitors"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Row-Level Security (RLS)",
+    "permalink": "/snowflake/snowflake-row-access-policies-rls"
+  },
+  "next": {
+    "title": "Python, PySpark & Databricks",
+    "permalink": "/snowflake/snowflake-python-pyspark-databricks-integration"
+  }
+}

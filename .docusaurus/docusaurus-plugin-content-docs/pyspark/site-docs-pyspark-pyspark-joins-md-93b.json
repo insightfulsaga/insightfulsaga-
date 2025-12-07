@@ -1,0 +1,69 @@
+{
+  "id": "pyspark-joins",
+  "title": "Joins in PySpark DataFrames (Full Beginner Guide)",
+  "description": "Learn all types of joins in PySpark DataFrames — inner, left, right, outer, semi, anti, and cross join with clear examples, code, and explanations.",
+  "source": "@site/docs-pyspark/pyspark-joins.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/joins",
+  "permalink": "/pyspark/pyspark/joins",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "DataFrames",
+      "permalink": "/pyspark/tags/data-frames"
+    },
+    {
+      "inline": true,
+      "label": "Joins",
+      "permalink": "/pyspark/tags/joins"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-joins",
+    "title": "Joins in PySpark DataFrames (Full Beginner Guide)",
+    "sidebar_label": "Joins",
+    "slug": "/pyspark/joins",
+    "description": "Learn all types of joins in PySpark DataFrames — inner, left, right, outer, semi, anti, and cross join with clear examples, code, and explanations.",
+    "keywords": [
+      "PySpark joins",
+      "PySpark DataFrame join",
+      "inner join PySpark",
+      "left join PySpark",
+      "outer join PySpark",
+      "semi join PySpark",
+      "anti join PySpark",
+      "cross join PySpark",
+      "PySpark tutorial"
+    ],
+    "og:title": "Joins in PySpark DataFrames — Complete Guide with Examples",
+    "og:description": "A complete step-by-step guide on all PySpark DataFrame joins: inner, left, right, full outer, semi, anti, and cross join with code examples.",
+    "tags": [
+      "PySpark",
+      "DataFrames",
+      "Joins",
+      "Big Data"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DataFrame Joins",
+    "permalink": "/pyspark/df-joins"
+  },
+  "next": {
+    "title": "Aggregations & GroupBy",
+    "permalink": "/pyspark/df-aggregations"
+  }
+}

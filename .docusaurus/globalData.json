@@ -1,0 +1,766 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "pyspark": {
+      "path": "/pyspark",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/pyspark",
+          "mainDocId": "pyspark-intro",
+          "docs": [
+            {
+              "id": "complex-sql",
+              "path": "/pyspark/complex-sql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "df-aggregations",
+              "path": "/pyspark/df-aggregations"
+            },
+            {
+              "id": "df-api",
+              "path": "/pyspark/df-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "df-create-csv",
+              "path": "/pyspark/df-create-csv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "df-joins",
+              "path": "/pyspark/pyspark/joins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "df-missing-data",
+              "path": "/pyspark/df-missing-data"
+            },
+            {
+              "id": "df-vs-spark-sql",
+              "path": "/pyspark/df-vs-spark-sql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "df-window-functions",
+              "path": "/pyspark/df-window-functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "house-price-linear-regression",
+              "path": "/pyspark/house-price-linear-regression"
+            },
+            {
+              "id": "linear-regression-math",
+              "path": "/pyspark/linear-regression-math"
+            },
+            {
+              "id": "linear-regression-model",
+              "path": "/pyspark/linear-regression-model"
+            },
+            {
+              "id": "logistic-regression-mini-project",
+              "path": "/pyspark/logistic-regression-mini-project"
+            },
+            {
+              "id": "logistic-regression-model",
+              "path": "/pyspark/logistic-regression-model"
+            },
+            {
+              "id": "logistic-regression-query",
+              "path": "/pyspark/logistic-regression-query"
+            },
+            {
+              "id": "pyspark-aggregation",
+              "path": "/pyspark/pyspark/aggregation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-architecture",
+              "path": "/pyspark/pyspark-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-data-io",
+              "path": "/pyspark/pyspark/data-io"
+            },
+            {
+              "id": "pyspark-dataframe-basics",
+              "path": "/pyspark/pyspark/dataframe-basics"
+            },
+            {
+              "id": "pyspark-dataframe-basics2",
+              "path": "/pyspark/pyspark/dataframe-basics-2"
+            },
+            {
+              "id": "pyspark-dates",
+              "path": "/pyspark/pyspark/dates-and-timestamps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-filtering",
+              "path": "/pyspark/pyspark/filtering"
+            },
+            {
+              "id": "pyspark-first-job",
+              "path": "/pyspark/pyspark-first-job",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-functions-udfs",
+              "path": "/pyspark/pyspark/functions-udfs"
+            },
+            {
+              "id": "pyspark-installation",
+              "path": "/pyspark/pyspark-installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-interview-questions-part1",
+              "path": "/pyspark/pyspark-interview-questions-part1"
+            },
+            {
+              "id": "pyspark-interview-questions-part2",
+              "path": "/pyspark/pyspark-interview-questions-part2"
+            },
+            {
+              "id": "pyspark-interview-questions-part3",
+              "path": "/pyspark/pyspark-interview-questions-part3"
+            },
+            {
+              "id": "pyspark-interview-questions-part4",
+              "path": "/pyspark/pyspark-interview-questions-part4"
+            },
+            {
+              "id": "pyspark-interview-questions-part5",
+              "path": "/pyspark/pyspark-interview-questions-part5"
+            },
+            {
+              "id": "pyspark-interview-questions-part6",
+              "path": "/pyspark/pyspark-interview-questions-part6"
+            },
+            {
+              "id": "pyspark-intro",
+              "path": "/pyspark/pyspark-intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-missing",
+              "path": "/pyspark/pyspark/missing-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-mllib-overview",
+              "path": "/pyspark/pyspark-mllib-overview"
+            },
+            {
+              "id": "pyspark-one-liners",
+              "path": "/pyspark/pyspark-one-liners"
+            },
+            {
+              "id": "pyspark-rdd-vs-dataframe",
+              "path": "/pyspark/pyspark-rdd-vs-dataframe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-setup-configuration",
+              "path": "/pyspark/pyspark/setup-configuration"
+            },
+            {
+              "id": "pyspark-spark-session-context",
+              "path": "/pyspark/pyspark-spark-session-context",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyspark-streaming-intro",
+              "path": "/pyspark/pyspark-streaming-intro"
+            },
+            {
+              "id": "pyspark-streaming-kafka",
+              "path": "/pyspark/pyspark-streaming-kafka"
+            },
+            {
+              "id": "rdd-basics",
+              "path": "/pyspark/rdd-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rdd-key-value",
+              "path": "/pyspark/rdd-key-value",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rdd-map-flatmap-filter",
+              "path": "/pyspark/rdd-map-flatmap-filter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rdd-persistence-caching",
+              "path": "/pyspark/rdd-persistence-caching",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "spark-sql",
+              "path": "/pyspark/spark-sql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "structured-streaming-intro",
+              "path": "/pyspark/structured-streaming-intro"
+            },
+            {
+              "id": "udfs-udafs",
+              "path": "/pyspark/udfs-udafs",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/pyspark/pyspark-intro",
+                "label": "pyspark-intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "snowflake": {
+      "path": "/snowflake",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/snowflake",
+          "mainDocId": "snowflake-intro",
+          "docs": [
+            {
+              "id": "snowflake-architecture",
+              "path": "/snowflake/snowflake-architecture",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-automatic-query-optimization",
+              "path": "/snowflake/snowflake-automatic-query-optimization",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-caching",
+              "path": "/snowflake/snowflake-caching",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-clustering-keys-explained",
+              "path": "/snowflake/snowflake-clustering-keys-explained",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-copy-into-command",
+              "path": "/snowflake/snowflake-copy-into-command",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-costs-best-practices",
+              "path": "/snowflake/snowflake-costs-best-practices",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-costs-billing-dashboard-monitoring",
+              "path": "/snowflake/snowflake-costs-billing-dashboard-monitoring",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-data-types-explained",
+              "path": "/snowflake/snowflake-data-types-explained",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-dynamic-data-masking-use-cases",
+              "path": "/snowflake/snowflake-dynamic-data-masking-use-cases",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-editions",
+              "path": "/snowflake/snowflake-editions",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-external-stages",
+              "path": "/snowflake/snowflake-external-stages",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-file-formats",
+              "path": "/snowflake/snowflake-file-formats",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-flatten-variant",
+              "path": "/snowflake/snowflake-flatten-variant",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-governance-access-control-tags-policies",
+              "path": "/snowflake/snowflake-governance-access-control-tags-policies",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-incremental-loading-cdc",
+              "path": "/snowflake/snowflake-incremental-loading-cdc",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-internal-table-user-stages",
+              "path": "/snowflake/snowflake-internal-table-user-stages",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-intro",
+              "path": "/snowflake/snowflake-intro",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-large-files-optimization",
+              "path": "/snowflake/snowflake-large-files-optimization",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-materialized-views",
+              "path": "/snowflake/snowflake-materialized-views",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-micro-partitions",
+              "path": "/snowflake/snowflake-micro-partitions",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-object-hierarchy",
+              "path": "/snowflake/snowflake-object-hierarchy",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-performance-tuning",
+              "path": "/snowflake/snowflake-performance-tuning",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-python-pyspark-databricks-integration",
+              "path": "/snowflake/snowflake-python-pyspark-databricks-integration",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-query-profile",
+              "path": "/snowflake/snowflake-query-profile",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-rbac-user-roles",
+              "path": "/snowflake/snowflake-rbac-user-roles",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-row-access-policies-rls",
+              "path": "/snowflake/snowflake-row-access-policies-rls",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-secure-views",
+              "path": "/snowflake/snowflake-secure-views",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-semi-structured-data",
+              "path": "/snowflake/snowflake-semi-structured-data",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-sharing-marketplace-exchange-secure-shares",
+              "path": "/snowflake/snowflake-sharing-marketplace-exchange-secure-shares",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-snowpipe",
+              "path": "/snowflake/snowflake-snowpipe",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-sql-basics",
+              "path": "/snowflake/snowflake-sql-basics",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-streams",
+              "path": "/snowflake/snowflake-streams",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-tasks",
+              "path": "/snowflake/snowflake-tasks",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-tasks-cron",
+              "path": "/snowflake/snowflake-tasks-cron",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-time-travel-fail-safe",
+              "path": "/snowflake/snowflake-time-travel-fail-safe",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-virtual-warehouses",
+              "path": "/snowflake/snowflake-virtual-warehouses",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-vs-traditional-databases",
+              "path": "/snowflake/snowflake-vs-traditional-databases",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-warehouse-sizing",
+              "path": "/snowflake/snowflake-warehouse-sizing",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-web-ui-tour",
+              "path": "/snowflake/snowflake-web-ui-tour",
+              "sidebar": "tutorialSidebar1"
+            },
+            {
+              "id": "snowflake-zero-copy-cloning",
+              "path": "/snowflake/snowflake-zero-copy-cloning",
+              "sidebar": "tutorialSidebar1"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar1": {
+              "link": {
+                "path": "/snowflake/snowflake-intro",
+                "label": "snowflake-intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "databricks": {
+      "path": "/databricks",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/databricks",
+          "mainDocId": "databricks-intro",
+          "docs": [
+            {
+              "id": "auditing-monitoring-logs-events-access-monitoring",
+              "path": "/databricks/auditing-monitoring-logs-events-access-monitoring",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "autoloader-cloudfiles-ingestion",
+              "path": "/databricks/autoloader-cloudfiles-ingestion",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "cluster-vs-sql-warehouse",
+              "path": "/databricks/cluster-vs-sql-warehouse",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-alerts-email-slack",
+              "path": "/databricks/databricks-alerts-email-slack",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-architecture",
+              "path": "/databricks/databricks-architecture",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-caching-best-practices",
+              "path": "/databricks/databricks-caching-best-practices",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-catalog-schema-table-permissions-rbac",
+              "path": "/databricks/databricks-catalog-schema-table-permissions-rbac",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-cluster-policies",
+              "path": "/databricks/databricks-cluster-policies",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-cluster-sizing",
+              "path": "/databricks/databricks-cluster-sizing",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-dataflow",
+              "path": "/databricks/databricks-dataflow"
+            },
+            {
+              "id": "databricks-dbfs",
+              "path": "/databricks/databricks-dbfs",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-editions",
+              "path": "/databricks/databricks-editions",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-end-to-end-demo",
+              "path": "/databricks/databricks-end-to-end-demo"
+            },
+            {
+              "id": "databricks-file-compaction",
+              "path": "/databricks/databricks-file-compaction",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-governance-tags-classifications-policies",
+              "path": "/databricks/databricks-governance-tags-classifications-policies",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-interview-part1",
+              "path": "/databricks/databricks-interview-part1"
+            },
+            {
+              "id": "databricks-interview-part2",
+              "path": "/databricks/databricks-interview-part2"
+            },
+            {
+              "id": "databricks-interview-part3",
+              "path": "/databricks/databricks-interview-part3"
+            },
+            {
+              "id": "databricks-interview-part4",
+              "path": "/databricks/databricks-interview-part4"
+            },
+            {
+              "id": "databricks-interview-part5",
+              "path": "/databricks/databricks-interview-part5"
+            },
+            {
+              "id": "databricks-intro",
+              "path": "/databricks/databricks-intro",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-jobs-scheduling-batch-processing",
+              "path": "/databricks/databricks-jobs-scheduling-batch-processing",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-login-guide",
+              "path": "/databricks/databricks-login-guide",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-managed-vs-external-tables",
+              "path": "/databricks/databricks-managed-vs-external-tables",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-materialized-views",
+              "path": "/databricks/databricks-materialized-views",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-ml-ai-dashboards",
+              "path": "/databricks/databricks-ml-ai-dashboards"
+            },
+            {
+              "id": "databricks-monitoring-dashboard",
+              "path": "/databricks/databricks-monitoring-dashboard",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-multi-task-job-workflows",
+              "path": "/databricks/databricks-multi-task-job-workflows",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-notebooks-basics",
+              "path": "/databricks/databricks-notebooks-basics",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-optimize-zorder",
+              "path": "/databricks/databricks-optimize-zorder",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-photon-engine",
+              "path": "/databricks/databricks-photon-engine",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-pricing",
+              "path": "/databricks/databricks-pricing",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-real-world-project",
+              "path": "/databricks/databricks-real-world-project"
+            },
+            {
+              "id": "databricks-repos-ci-cd",
+              "path": "/databricks/databricks-repos-ci-cd",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-security-basics",
+              "path": "/databricks/databricks-security-basics",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-sql-endpoint-tuning",
+              "path": "/databricks/databricks-sql-endpoint-tuning",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-sql-n-dashboards",
+              "path": "/databricks/databricks-sql-n-dashboards"
+            },
+            {
+              "id": "databricks-workflows-production-orchestration",
+              "path": "/databricks/databricks-workflows-production-orchestration",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "databricks-workspace-ui-tour",
+              "path": "/databricks/databricks-workspace-ui-tour",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "dbsql-dashboards-and-alerts",
+              "path": "/databricks/dbsql-dashboards-and-alerts"
+            },
+            {
+              "id": "delta-lake-core",
+              "path": "/databricks/delta-lake-core"
+            },
+            {
+              "id": "delta-lake-overview",
+              "path": "/databricks/delta-lake-overview",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "delta-live-tables-dlt-pipelines",
+              "path": "/databricks/delta-live-tables-dlt-pipelines",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "improving-lakehouse-performance",
+              "path": "/databricks/improving-lakehouse-performance",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "lakehouse-concept",
+              "path": "/databricks/lakehouse-concept",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "lakehouse-federation-query-external-cloud-databases",
+              "path": "/databricks/lakehouse-federation-query-external-cloud-databases",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "lakehouse-medallion-model",
+              "path": "/databricks/lakehouse-medallion-model",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "mounting-cloud-storage",
+              "path": "/databricks/mounting-cloud-storage",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "organize-projects-databricks",
+              "path": "/databricks/organize-projects-databricks",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "performance-optimization",
+              "path": "/databricks/performance-optimization"
+            },
+            {
+              "id": "performance-optimization1",
+              "path": "/databricks/performance-optimization1"
+            },
+            {
+              "id": "secret-scopes-secure-credential-management",
+              "path": "/databricks/secret-scopes-secure-credential-management",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "service-principals-machine-identity-for-automation",
+              "path": "/databricks/service-principals-machine-identity-for-automation",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "table-column-lineage-data-tracking",
+              "path": "/databricks/table-column-lineage-data-tracking",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "unity-catalog-central-governance",
+              "path": "/databricks/unity-catalog-central-governance",
+              "sidebar": "tutorialSidebar2"
+            },
+            {
+              "id": "unity-catalog-data-quality",
+              "path": "/databricks/unity-catalog-data-quality"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar2": {
+              "link": {
+                "path": "/databricks/databricks-intro",
+                "label": "databricks-intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-search-local": {
+    "default": {
+      "externalSearchSources": [],
+      "removeDefaultStopWordFilter": false,
+      "searchResultContextMaxLength": 50,
+      "searchResultLimits": 5,
+      "translations": {
+        "search_placeholder": "Search",
+        "see_all_results": "See all results",
+        "no_results": "No results.",
+        "search_results_for": "Search results for \"{{ keyword }}\"",
+        "search_the_documentation": "Search the documentation",
+        "count_documents_found_plural": "{{ count }} documents found",
+        "count_documents_found": "{{ count }} document found",
+        "no_documents_were_found": "No documents were found"
+      },
+      "highlightSearchTermsOnTargetPage": true,
+      "indexHash": null
+    }
+  }
+}

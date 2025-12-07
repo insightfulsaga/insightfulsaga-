@@ -1,0 +1,18 @@
+{
+  "id": "logistic-regression-mini-project",
+  "title": "Logistic Regression Mini Project — Forecasting Customer Churn",
+  "description": "Welcome to this hands-on mini project!",
+  "source": "@site/docs-pyspark/logistic-regression-mini-project.md",
+  "sourceDirName": ".",
+  "slug": "/logistic-regression-mini-project",
+  "permalink": "/pyspark/logistic-regression-mini-project",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "logistic-regression-mini-project",
+    "title": "Logistic Regression Mini Project — Forecasting Customer Churn",
+    "sidebar_label": "Logistic Regression Practice - Mini Project"
+  }
+}

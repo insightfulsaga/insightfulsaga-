@@ -1,0 +1,28 @@
+{
+  "id": "databricks-real-world-project",
+  "title": "Real-World Databricks Project — End-to-End Implementation in Company",
+  "description": "A story-driven, practical guide on implementing a real-world end-to-end Databricks project, covering data ingestion, ETL, analytics, monitoring, and CI/CD in an enterprise setting.",
+  "source": "@site/docs-databricks/databricks-real-world-project.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-real-world-project",
+  "permalink": "/databricks/databricks-real-world-project",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-real-world-project",
+    "title": "Real-World Databricks Project — End-to-End Implementation in Company",
+    "sidebar_label": "Real-World Project",
+    "description": "A story-driven, practical guide on implementing a real-world end-to-end Databricks project, covering data ingestion, ETL, analytics, monitoring, and CI/CD in an enterprise setting.",
+    "keywords": [
+      "databricks real-world project",
+      "databricks end-to-end implementation",
+      "databricks ETL pipeline",
+      "databricks data engineering",
+      "databricks analytics workflow",
+      "databricks enterprise project",
+      "databricks monitoring and CI/CD"
+    ]
+  }
+}

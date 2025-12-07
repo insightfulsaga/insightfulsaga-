@@ -1,0 +1,35 @@
+{
+  "id": "databricks-file-compaction",
+  "title": "File Compaction & Delta File Management",
+  "description": "Learn how file compaction, small file problems, and Delta Lake file management work in Databricks. Discover how to keep your Lakehouse fast and cost-efficient using optimize techniques and best practices.",
+  "source": "@site/docs-databricks/databricks-file-compaction.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-file-compaction",
+  "permalink": "/databricks/databricks-file-compaction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-file-compaction",
+    "title": "File Compaction & Delta File Management",
+    "sidebar_label": "File Compaction",
+    "description": "Learn how file compaction, small file problems, and Delta Lake file management work in Databricks. Discover how to keep your Lakehouse fast and cost-efficient using optimize techniques and best practices.",
+    "keywords": [
+      "Databricks file compaction",
+      "Delta small files",
+      "Delta Lake optimization",
+      "Databricks file management",
+      "data lake performance"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "OPTIMIZE & Z-ORDER",
+    "permalink": "/databricks/databricks-optimize-zorder"
+  },
+  "next": {
+    "title": "Caching Best Practices",
+    "permalink": "/databricks/databricks-caching-best-practices"
+  }
+}

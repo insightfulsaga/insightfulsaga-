@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-costs-best-practices",
+  "title": "Understanding Snowflake Compute Cost, Storage Cost & Best Practices",
+  "description": "A simple, story-style explanation of Snowflake compute and storage costs, how pricing works, how warehouses consume credits, and real-world cost optimization best practices.",
+  "source": "@site/docs-snowflake/snowflake-costs-best-practices.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-costs-best-practices",
+  "permalink": "/snowflake/snowflake-costs-best-practices",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-costs-best-practices",
+    "title": "Understanding Snowflake Compute Cost, Storage Cost & Best Practices",
+    "sidebar_label": "Compute & Storage Costs",
+    "description": "A simple, story-style explanation of Snowflake compute and storage costs, how pricing works, how warehouses consume credits, and real-world cost optimization best practices.",
+    "keywords": [
+      "snowflake compute cost",
+      "snowflake storage pricing",
+      "snowflake credit consumption",
+      "snowflake cost best practices",
+      "snowflake pricing explained"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Snowflake Editions",
+    "permalink": "/snowflake/snowflake-editions"
+  },
+  "next": {
+    "title": "Snowflake vs Traditional DBs",
+    "permalink": "/snowflake/snowflake-vs-traditional-databases"
+  }
+}

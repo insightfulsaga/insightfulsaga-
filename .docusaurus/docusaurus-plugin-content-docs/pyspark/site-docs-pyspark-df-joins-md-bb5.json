@@ -1,0 +1,111 @@
+{
+  "id": "df-joins",
+  "title": "Joins in PySpark DataFrames (Full Beginner Guide)",
+  "description": "Learn all types of joins in PySpark DataFrames — inner, left, right, outer, semi, anti, and cross join with clear examples, code, and explanations.",
+  "source": "@site/docs-pyspark/df-joins.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/joins",
+  "permalink": "/pyspark/pyspark/joins",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "Apache Spark",
+      "permalink": "/pyspark/tags/apache-spark"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "Spark Basics",
+      "permalink": "/pyspark/tags/spark-basics"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Computing",
+      "permalink": "/pyspark/tags/cluster-computing"
+    },
+    {
+      "inline": true,
+      "label": "Spark Architecture",
+      "permalink": "/pyspark/tags/spark-architecture"
+    },
+    {
+      "inline": true,
+      "label": "Driver Program",
+      "permalink": "/pyspark/tags/driver-program"
+    },
+    {
+      "inline": true,
+      "label": "Executors",
+      "permalink": "/pyspark/tags/executors"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Manager",
+      "permalink": "/pyspark/tags/cluster-manager"
+    },
+    {
+      "inline": true,
+      "label": "SparkSession",
+      "permalink": "/pyspark/tags/spark-session"
+    },
+    {
+      "inline": true,
+      "label": "SparkContext",
+      "permalink": "/pyspark/tags/spark-context"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "df-joins",
+    "title": "Joins in PySpark DataFrames (Full Beginner Guide)",
+    "sidebar_label": "DataFrame Joins",
+    "slug": "/pyspark/joins",
+    "description": "Learn all types of joins in PySpark DataFrames — inner, left, right, outer, semi, anti, and cross join with clear examples, code, and explanations.",
+    "keywords": [
+      "PySpark joins",
+      "PySpark DataFrame join",
+      "inner join PySpark",
+      "left join PySpark",
+      "outer join PySpark",
+      "semi join PySpark",
+      "anti join PySpark",
+      "cross join PySpark",
+      "PySpark tutorial"
+    ],
+    "og:title": "Joins in PySpark DataFrames — Complete Guide with Examples",
+    "og:description": "A complete step-by-step guide on all PySpark DataFrame joins: inner, left, right, full outer, semi, anti, and cross join with code examples.",
+    "tags": [
+      "PySpark",
+      "Apache Spark",
+      "Big Data",
+      "Spark Basics",
+      "Cluster Computing",
+      "Spark Architecture",
+      "Driver Program",
+      "Executors",
+      "Cluster Manager",
+      "SparkSession",
+      "SparkContext"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DataFrame API",
+    "permalink": "/pyspark/df-api"
+  },
+  "next": {
+    "title": "Dataframe Aggregation",
+    "permalink": "/pyspark/pyspark/aggregation"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pyspark-dataframe-basics",
+  "title": "PySpark DataFrame Basics (Part 1) — Complete Beginner Guide",
+  "description": "Learn the fundamentals of PySpark DataFrames including creation, schema inspection, show(), describe(), and column operations. Perfect for beginners starting with distributed data processing.",
+  "source": "@site/docs-pyspark/pyspark-dataframe-basics.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/dataframe-basics",
+  "permalink": "/pyspark/pyspark/dataframe-basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "DataFrames",
+      "permalink": "/pyspark/tags/data-frames"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "ETL",
+      "permalink": "/pyspark/tags/etl"
+    },
+    {
+      "inline": true,
+      "label": "Beginner",
+      "permalink": "/pyspark/tags/beginner"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-dataframe-basics",
+    "title": "PySpark DataFrame Basics (Part 1) — Complete Beginner Guide",
+    "sidebar_label": "DataFrame Basics - Part 1",
+    "slug": "/pyspark/dataframe-basics",
+    "description": "Learn the fundamentals of PySpark DataFrames including creation, schema inspection, show(), describe(), and column operations. Perfect for beginners starting with distributed data processing.",
+    "keywords": [
+      "pyspark dataframe",
+      "pyspark dataframe basics",
+      "spark dataframe tutorial",
+      "pyspark schema",
+      "spark show printschema",
+      "pyspark beginner guide",
+      "spark create dataframe"
+    ],
+    "og:title": "PySpark DataFrame Basics — Beginner Friendly Guide (Part 1)",
+    "og:description": "A complete introduction to PySpark DataFrames covering SparkSession, creating DataFrames, using show(), schema, describe(), and key operations for beginners.",
+    "tags": [
+      "PySpark",
+      "DataFrames",
+      "Big Data",
+      "ETL",
+      "Beginner"
+    ]
+  }
+}

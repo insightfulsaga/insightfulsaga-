@@ -1,0 +1,35 @@
+{
+  "id": "lakehouse-medallion-model",
+  "title": "Bronze / Silver / Gold Layers — Lakehouse Medallion Model",
+  "description": "A simple, story-driven explanation of the Databricks Lakehouse Medallion Architecture — Bronze, Silver, and Gold layers — and how they create clean, trustworthy, production-grade data pipelines.",
+  "source": "@site/docs-databricks/lakehouse-medallion-model.md",
+  "sourceDirName": ".",
+  "slug": "/lakehouse-medallion-model",
+  "permalink": "/databricks/lakehouse-medallion-model",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lakehouse-medallion-model",
+    "title": "Bronze / Silver / Gold Layers — Lakehouse Medallion Model",
+    "sidebar_label": "Medallion Model (Bronze / Silver / Gold)",
+    "description": "A simple, story-driven explanation of the Databricks Lakehouse Medallion Architecture — Bronze, Silver, and Gold layers — and how they create clean, trustworthy, production-grade data pipelines.",
+    "keywords": [
+      "medallion architecture",
+      "bronze silver gold",
+      "Databricks Lakehouse",
+      "Delta Lake layers",
+      "ETL pipelines"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Delta Lake Overview",
+    "permalink": "/databricks/delta-lake-overview"
+  },
+  "next": {
+    "title": "Delta Live Tables (DLT)",
+    "permalink": "/databricks/delta-live-tables-dlt-pipelines"
+  }
+}

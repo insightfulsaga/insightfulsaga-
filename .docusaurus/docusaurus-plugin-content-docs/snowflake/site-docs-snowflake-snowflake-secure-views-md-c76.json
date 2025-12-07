@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-secure-views",
+  "title": "Secure Views & Secure Data Sharing Between Teams",
+  "description": "Learn how Snowflake Secure Views and Secure Data Sharing allow teams to share data safely, maintain privacy, and control access in a story-driven, professional format.",
+  "source": "@site/docs-snowflake/snowflake-secure-views.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-secure-views",
+  "permalink": "/snowflake/snowflake-secure-views",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-secure-views",
+    "title": "Secure Views & Secure Data Sharing Between Teams",
+    "sidebar_label": "Secure Views & Data Sharing",
+    "description": "Learn how Snowflake Secure Views and Secure Data Sharing allow teams to share data safely, maintain privacy, and control access in a story-driven, professional format.",
+    "keywords": [
+      "Snowflake secure views",
+      "Snowflake data sharing",
+      "Snowflake access control",
+      "Snowflake RBAC",
+      "Snowflake collaboration"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Materialized Views",
+    "permalink": "/snowflake/snowflake-materialized-views"
+  },
+  "next": {
+    "title": "Warehouse Sizing",
+    "permalink": "/snowflake/snowflake-warehouse-sizing"
+  }
+}

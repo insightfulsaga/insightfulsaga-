@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/purpose",
+  "source": "@site/src/pages/purpose.md",
+  "title": "💡 The Purpose of Insightful Saga",
+  "description": "Insightful Saga exists to simplify the modern data stack using:",
+  "frontMatter": {},
+  "unlisted": false
+}

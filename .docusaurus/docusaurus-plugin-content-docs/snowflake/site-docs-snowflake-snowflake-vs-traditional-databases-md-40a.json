@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-vs-traditional-databases",
+  "title": "Difference Between Snowflake & Traditional Databases — Explained Simply",
+  "description": "A simple, story-driven guide explaining the differences between Snowflake and traditional databases like Oracle, SQL Server, PostgreSQL, and Teradata. Includes architecture, performance, scaling, storage, cost, and real-world examples.",
+  "source": "@site/docs-snowflake/snowflake-vs-traditional-databases.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-vs-traditional-databases",
+  "permalink": "/snowflake/snowflake-vs-traditional-databases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-vs-traditional-databases",
+    "title": "Difference Between Snowflake & Traditional Databases — Explained Simply",
+    "sidebar_label": "Snowflake vs Traditional DBs",
+    "description": "A simple, story-driven guide explaining the differences between Snowflake and traditional databases like Oracle, SQL Server, PostgreSQL, and Teradata. Includes architecture, performance, scaling, storage, cost, and real-world examples.",
+    "keywords": [
+      "snowflake vs traditional databases",
+      "snowflake vs oracle",
+      "snowflake vs sql server",
+      "cloud data warehouse comparison",
+      "difference between snowflake and traditional databases"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Compute & Storage Costs",
+    "permalink": "/snowflake/snowflake-costs-best-practices"
+  },
+  "next": {
+    "title": "RBAC & Permissions",
+    "permalink": "/snowflake/snowflake-rbac-user-roles"
+  }
+}

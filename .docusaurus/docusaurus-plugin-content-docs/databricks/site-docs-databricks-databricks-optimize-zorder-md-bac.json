@@ -1,0 +1,35 @@
+{
+  "id": "databricks-optimize-zorder",
+  "title": "OPTIMIZE Command & Z-ORDER — The Secret to Fast Delta Lake Queries",
+  "description": "Learn how OPTIMIZE and Z-ORDER dramatically improve Delta Lake performance in Databricks through file compaction and data skipping. Story-driven, beginner-friendly and SEO optimized.",
+  "source": "@site/docs-databricks/databricks-optimize-zorder.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-optimize-zorder",
+  "permalink": "/databricks/databricks-optimize-zorder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-optimize-zorder",
+    "title": "OPTIMIZE Command & Z-ORDER — The Secret to Fast Delta Lake Queries",
+    "sidebar_label": "OPTIMIZE & Z-ORDER",
+    "description": "Learn how OPTIMIZE and Z-ORDER dramatically improve Delta Lake performance in Databricks through file compaction and data skipping. Story-driven, beginner-friendly and SEO optimized.",
+    "keywords": [
+      "Databricks OPTIMIZE",
+      "Z-ORDER Databricks",
+      "Delta Lake performance",
+      "Databricks tuning",
+      "data skipping Databricks"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Permissions (RBAC)",
+    "permalink": "/databricks/databricks-catalog-schema-table-permissions-rbac"
+  },
+  "next": {
+    "title": "File Compaction",
+    "permalink": "/databricks/databricks-file-compaction"
+  }
+}

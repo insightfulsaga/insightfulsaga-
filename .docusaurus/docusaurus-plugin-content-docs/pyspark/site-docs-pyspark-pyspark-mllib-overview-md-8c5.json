@@ -1,0 +1,513 @@
+{
+  "id": "pyspark-mllib-overview",
+  "title": "MLlib Overview",
+  "description": "Imagine you’re a data scientist in a high-tech lab, not just a data engineer. Data isn’t sitting quietly in files—it’s streaming, growing, and changing constantly. You want to predict outcomes, classify users, or group behaviors, all at scale.",
+  "source": "@site/docs-pyspark/pyspark-mllib-overview.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark-mllib-overview",
+  "permalink": "/pyspark/pyspark-mllib-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "Apache Spark",
+      "permalink": "/pyspark/tags/apache-spark"
+    },
+    {
+      "inline": true,
+      "label": "Big Data",
+      "permalink": "/pyspark/tags/big-data"
+    },
+    {
+      "inline": true,
+      "label": "Spark Basics",
+      "permalink": "/pyspark/tags/spark-basics"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Computing",
+      "permalink": "/pyspark/tags/cluster-computing"
+    },
+    {
+      "inline": true,
+      "label": "Spark Architecture",
+      "permalink": "/pyspark/tags/spark-architecture"
+    },
+    {
+      "inline": true,
+      "label": "Driver Program",
+      "permalink": "/pyspark/tags/driver-program"
+    },
+    {
+      "inline": true,
+      "label": "Executors",
+      "permalink": "/pyspark/tags/executors"
+    },
+    {
+      "inline": true,
+      "label": "Cluster Manager",
+      "permalink": "/pyspark/tags/cluster-manager"
+    },
+    {
+      "inline": true,
+      "label": "SparkSession",
+      "permalink": "/pyspark/tags/spark-session"
+    },
+    {
+      "inline": true,
+      "label": "SparkContext",
+      "permalink": "/pyspark/tags/spark-context"
+    },
+    {
+      "inline": true,
+      "label": "RDD",
+      "permalink": "/pyspark/tags/rdd"
+    },
+    {
+      "inline": true,
+      "label": "RDD Transformations",
+      "permalink": "/pyspark/tags/rdd-transformations"
+    },
+    {
+      "inline": true,
+      "label": "RDD Actions",
+      "permalink": "/pyspark/tags/rdd-actions"
+    },
+    {
+      "inline": true,
+      "label": "Key-Value RDD",
+      "permalink": "/pyspark/tags/key-value-rdd"
+    },
+    {
+      "inline": true,
+      "label": "RDD Caching",
+      "permalink": "/pyspark/tags/rdd-caching"
+    },
+    {
+      "inline": true,
+      "label": "DataFrame",
+      "permalink": "/pyspark/tags/data-frame"
+    },
+    {
+      "inline": true,
+      "label": "DataFrame API",
+      "permalink": "/pyspark/tags/data-frame-api"
+    },
+    {
+      "inline": true,
+      "label": "Column Operations",
+      "permalink": "/pyspark/tags/column-operations"
+    },
+    {
+      "inline": true,
+      "label": "DataFrame Joins",
+      "permalink": "/pyspark/tags/data-frame-joins"
+    },
+    {
+      "inline": true,
+      "label": "Aggregations",
+      "permalink": "/pyspark/tags/aggregations"
+    },
+    {
+      "inline": true,
+      "label": "GroupBy",
+      "permalink": "/pyspark/tags/group-by"
+    },
+    {
+      "inline": true,
+      "label": "Window Functions",
+      "permalink": "/pyspark/tags/window-functions"
+    },
+    {
+      "inline": true,
+      "label": "Missing Data Handling",
+      "permalink": "/pyspark/tags/missing-data-handling"
+    },
+    {
+      "inline": true,
+      "label": "Spark SQL",
+      "permalink": "/pyspark/tags/spark-sql"
+    },
+    {
+      "inline": true,
+      "label": "Temp Views",
+      "permalink": "/pyspark/tags/temp-views"
+    },
+    {
+      "inline": true,
+      "label": "Spark SQL Functions",
+      "permalink": "/pyspark/tags/spark-sql-functions"
+    },
+    {
+      "inline": true,
+      "label": "UDF",
+      "permalink": "/pyspark/tags/udf"
+    },
+    {
+      "inline": true,
+      "label": "UDAF",
+      "permalink": "/pyspark/tags/udaf"
+    },
+    {
+      "inline": true,
+      "label": "Explode",
+      "permalink": "/pyspark/tags/explode"
+    },
+    {
+      "inline": true,
+      "label": "Arrays",
+      "permalink": "/pyspark/tags/arrays"
+    },
+    {
+      "inline": true,
+      "label": "StructType",
+      "permalink": "/pyspark/tags/struct-type"
+    },
+    {
+      "inline": true,
+      "label": "Complex Data Types",
+      "permalink": "/pyspark/tags/complex-data-types"
+    },
+    {
+      "inline": true,
+      "label": "Pivot",
+      "permalink": "/pyspark/tags/pivot"
+    },
+    {
+      "inline": true,
+      "label": "Unpivot",
+      "permalink": "/pyspark/tags/unpivot"
+    },
+    {
+      "inline": true,
+      "label": "Join Optimization",
+      "permalink": "/pyspark/tags/join-optimization"
+    },
+    {
+      "inline": true,
+      "label": "Sorting",
+      "permalink": "/pyspark/tags/sorting"
+    },
+    {
+      "inline": true,
+      "label": "Sampling",
+      "permalink": "/pyspark/tags/sampling"
+    },
+    {
+      "inline": true,
+      "label": "Partitioning",
+      "permalink": "/pyspark/tags/partitioning"
+    },
+    {
+      "inline": true,
+      "label": "Bucketing",
+      "permalink": "/pyspark/tags/bucketing"
+    },
+    {
+      "inline": true,
+      "label": "CSV",
+      "permalink": "/pyspark/tags/csv"
+    },
+    {
+      "inline": true,
+      "label": "JSON",
+      "permalink": "/pyspark/tags/json"
+    },
+    {
+      "inline": true,
+      "label": "Parquet",
+      "permalink": "/pyspark/tags/parquet"
+    },
+    {
+      "inline": true,
+      "label": "Avro",
+      "permalink": "/pyspark/tags/avro"
+    },
+    {
+      "inline": true,
+      "label": "Delta Lake",
+      "permalink": "/pyspark/tags/delta-lake"
+    },
+    {
+      "inline": true,
+      "label": "Performance Tuning",
+      "permalink": "/pyspark/tags/performance-tuning"
+    },
+    {
+      "inline": true,
+      "label": "Shuffle",
+      "permalink": "/pyspark/tags/shuffle"
+    },
+    {
+      "inline": true,
+      "label": "Narrow vs Wide Transformations",
+      "permalink": "/pyspark/tags/narrow-vs-wide-transformations"
+    },
+    {
+      "inline": true,
+      "label": "Spark UI",
+      "permalink": "/pyspark/tags/spark-ui"
+    },
+    {
+      "inline": true,
+      "label": "Catalyst Optimizer",
+      "permalink": "/pyspark/tags/catalyst-optimizer"
+    },
+    {
+      "inline": true,
+      "label": "Tungsten",
+      "permalink": "/pyspark/tags/tungsten"
+    },
+    {
+      "inline": true,
+      "label": "Repartition",
+      "permalink": "/pyspark/tags/repartition"
+    },
+    {
+      "inline": true,
+      "label": "Coalesce",
+      "permalink": "/pyspark/tags/coalesce"
+    },
+    {
+      "inline": true,
+      "label": "Broadcast Join",
+      "permalink": "/pyspark/tags/broadcast-join"
+    },
+    {
+      "inline": true,
+      "label": "Memory Management",
+      "permalink": "/pyspark/tags/memory-management"
+    },
+    {
+      "inline": true,
+      "label": "Structured Streaming",
+      "permalink": "/pyspark/tags/structured-streaming"
+    },
+    {
+      "inline": true,
+      "label": "Real-Time Data",
+      "permalink": "/pyspark/tags/real-time-data"
+    },
+    {
+      "inline": true,
+      "label": "Kafka",
+      "permalink": "/pyspark/tags/kafka"
+    },
+    {
+      "inline": true,
+      "label": "Streaming Sinks",
+      "permalink": "/pyspark/tags/streaming-sinks"
+    },
+    {
+      "inline": true,
+      "label": "Watermarking",
+      "permalink": "/pyspark/tags/watermarking"
+    },
+    {
+      "inline": true,
+      "label": "Checkpoints",
+      "permalink": "/pyspark/tags/checkpoints"
+    },
+    {
+      "inline": true,
+      "label": "MLlib",
+      "permalink": "/pyspark/tags/m-llib"
+    },
+    {
+      "inline": true,
+      "label": "Machine Learning",
+      "permalink": "/pyspark/tags/machine-learning"
+    },
+    {
+      "inline": true,
+      "label": "Regression",
+      "permalink": "/pyspark/tags/regression"
+    },
+    {
+      "inline": true,
+      "label": "Classification",
+      "permalink": "/pyspark/tags/classification"
+    },
+    {
+      "inline": true,
+      "label": "Clustering",
+      "permalink": "/pyspark/tags/clustering"
+    },
+    {
+      "inline": true,
+      "label": "Recommendation Systems",
+      "permalink": "/pyspark/tags/recommendation-systems"
+    },
+    {
+      "inline": true,
+      "label": "Feature Engineering",
+      "permalink": "/pyspark/tags/feature-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Snowflake",
+      "permalink": "/pyspark/tags/snowflake"
+    },
+    {
+      "inline": true,
+      "label": "Hive",
+      "permalink": "/pyspark/tags/hive"
+    },
+    {
+      "inline": true,
+      "label": "Databricks",
+      "permalink": "/pyspark/tags/databricks"
+    },
+    {
+      "inline": true,
+      "label": "AWS EMR",
+      "permalink": "/pyspark/tags/aws-emr"
+    },
+    {
+      "inline": true,
+      "label": "GCP Dataproc",
+      "permalink": "/pyspark/tags/gcp-dataproc"
+    },
+    {
+      "inline": true,
+      "label": "Azure Synapse",
+      "permalink": "/pyspark/tags/azure-synapse"
+    },
+    {
+      "inline": true,
+      "label": "ETL",
+      "permalink": "/pyspark/tags/etl"
+    },
+    {
+      "inline": true,
+      "label": "Data Pipelines",
+      "permalink": "/pyspark/tags/data-pipelines"
+    },
+    {
+      "inline": true,
+      "label": "Data Processing",
+      "permalink": "/pyspark/tags/data-processing"
+    },
+    {
+      "inline": true,
+      "label": "Workflow Automation",
+      "permalink": "/pyspark/tags/workflow-automation"
+    },
+    {
+      "inline": true,
+      "label": "Data Quality",
+      "permalink": "/pyspark/tags/data-quality"
+    },
+    {
+      "inline": true,
+      "label": "Semi-Structured Data",
+      "permalink": "/pyspark/tags/semi-structured-data"
+    },
+    {
+      "inline": true,
+      "label": "Production Pipelines",
+      "permalink": "/pyspark/tags/production-pipelines"
+    },
+    {
+      "inline": true,
+      "label": "Use Cases",
+      "permalink": "/pyspark/tags/use-cases"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-mllib-overview",
+    "title": "MLlib Overview",
+    "sidebar_label": "MLlib",
+    "tags": [
+      "PySpark",
+      "Apache Spark",
+      "Big Data",
+      "Spark Basics",
+      "Cluster Computing",
+      "Spark Architecture",
+      "Driver Program",
+      "Executors",
+      "Cluster Manager",
+      "SparkSession",
+      "SparkContext",
+      "RDD",
+      "RDD Transformations",
+      "RDD Actions",
+      "Key-Value RDD",
+      "RDD Caching",
+      "DataFrame",
+      "DataFrame API",
+      "Column Operations",
+      "DataFrame Joins",
+      "Aggregations",
+      "GroupBy",
+      "Window Functions",
+      "Missing Data Handling",
+      "Spark SQL",
+      "Temp Views",
+      "Spark SQL Functions",
+      "UDF",
+      "UDAF",
+      "Explode",
+      "Arrays",
+      "StructType",
+      "Complex Data Types",
+      "Pivot",
+      "Unpivot",
+      "Join Optimization",
+      "Sorting",
+      "Sampling",
+      "Partitioning",
+      "Bucketing",
+      "CSV",
+      "JSON",
+      "Parquet",
+      "Avro",
+      "Delta Lake",
+      "Performance Tuning",
+      "Shuffle",
+      "Narrow vs Wide Transformations",
+      "Spark UI",
+      "Catalyst Optimizer",
+      "Tungsten",
+      "Repartition",
+      "Coalesce",
+      "Broadcast Join",
+      "Memory Management",
+      "Structured Streaming",
+      "Real-Time Data",
+      "Kafka",
+      "Streaming Sinks",
+      "Watermarking",
+      "Checkpoints",
+      "MLlib",
+      "Machine Learning",
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Recommendation Systems",
+      "Feature Engineering",
+      "Snowflake",
+      "Hive",
+      "Databricks",
+      "AWS EMR",
+      "GCP Dataproc",
+      "Azure Synapse",
+      "ETL",
+      "Data Pipelines",
+      "Data Processing",
+      "Workflow Automation",
+      "Data Quality",
+      "Semi-Structured Data",
+      "Production Pipelines",
+      "Use Cases"
+    ]
+  }
+}

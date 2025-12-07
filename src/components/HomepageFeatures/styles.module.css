@@ -1,0 +1,50 @@
+/* styles.module.css - add these styles (module-scoped) */
+
+.features {
+  padding: 48px 0;
+  background: #fff;
+}
+
+.featureCard {
+  background: #fff;
+  border-radius: 18px;
+  padding: 28px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 10px 30px rgba(15,15,30,0.06);
+  transition: transform .28s cubic-bezier(.2,.9,.3,1), box-shadow .28s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.featureCard:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 24px 48px rgba(15,15,30,0.12);
+}
+
+.featureImg {
+  width: 76px;
+  height: 76px;
+  object-fit: contain;
+  margin-bottom: 18px;
+}
+
+.featureCard h3 {
+  color: #5b3dd3; /* purple headline color */
+  font-size: 20px;
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+.featureCard p {
+  color: #6b6b9b;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* responsive fallback: full width on small screens */
+@media (max-width: 980px) {
+  .featureImg { width: 64px; height: 64px; }
+}

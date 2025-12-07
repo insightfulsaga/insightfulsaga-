@@ -1,0 +1,38 @@
+{
+  "id": "databricks-workflows-production-orchestration",
+  "title": "Databricks Workflows (New) — Production Orchestration",
+  "description": "A story-driven, enterprise-focused guide on the new Databricks Workflows platform—covering orchestration, tasks, triggers, dashboards, deployments, automation, and real production pipeline architectures.",
+  "source": "@site/docs-databricks/databricks-workflows-production-orchestration.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-workflows-production-orchestration",
+  "permalink": "/databricks/databricks-workflows-production-orchestration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-workflows-production-orchestration",
+    "title": "Databricks Workflows (New) — Production Orchestration",
+    "sidebar_label": "Databricks Workflows (New)",
+    "description": "A story-driven, enterprise-focused guide on the new Databricks Workflows platform—covering orchestration, tasks, triggers, dashboards, deployments, automation, and real production pipeline architectures.",
+    "keywords": [
+      "databricks workflows",
+      "databricks orchestration",
+      "databricks production pipelines",
+      "databricks automation",
+      "workflow orchestration lakehouse",
+      "databricks tasks",
+      "databricks job orchestration",
+      "data engineering workflows"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Multi-Task Workflows",
+    "permalink": "/databricks/databricks-multi-task-job-workflows"
+  },
+  "next": {
+    "title": "Alerts (Email & Slack)",
+    "permalink": "/databricks/databricks-alerts-email-slack"
+  }
+}

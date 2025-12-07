@@ -1,0 +1,36 @@
+{
+  "id": "snowflake-caching",
+  "title": "Result Caching, Metadata Caching & Warehouse Caching",
+  "description": "A story-driven guide to understanding Snowflake caching layers: result cache, metadata cache, and warehouse cache, with practical examples and performance tips.",
+  "source": "@site/docs-snowflake/snowflake-caching.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-caching",
+  "permalink": "/snowflake/snowflake-caching",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-caching",
+    "title": "Result Caching, Metadata Caching & Warehouse Caching",
+    "sidebar_label": "Snowflake Caching",
+    "description": "A story-driven guide to understanding Snowflake caching layers: result cache, metadata cache, and warehouse cache, with practical examples and performance tips.",
+    "keywords": [
+      "Snowflake caching",
+      "Snowflake result cache",
+      "metadata cache Snowflake",
+      "warehouse cache Snowflake",
+      "Snowflake performance optimization",
+      "Snowflake query acceleration"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Query Profile Explained",
+    "permalink": "/snowflake/snowflake-query-profile"
+  },
+  "next": {
+    "title": "Performance Tuning",
+    "permalink": "/snowflake/snowflake-performance-tuning"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "databricks-interview-part3",
+  "title": "Must-Know Databricks Interview Question & Answer(Explained Through Real-World Stories) - Part 3",
+  "description": "26. How do you monitor cluster performance?",
+  "source": "@site/docs-databricks/databricks-interview-part3.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-interview-part3",
+  "permalink": "/databricks/databricks-interview-part3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-interview-part3",
+    "title": "Must-Know Databricks Interview Question & Answer(Explained Through Real-World Stories) - Part 3",
+    "sidebar_label": "Databricks Interview Q&A(Real Scenarios)  - 3"
+  }
+}

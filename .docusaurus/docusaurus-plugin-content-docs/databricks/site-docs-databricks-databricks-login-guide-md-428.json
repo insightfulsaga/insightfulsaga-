@@ -1,0 +1,27 @@
+{
+  "id": "databricks-login-guide",
+  "title": "How to Get Databricks Login – Step-by-Step Guide",
+  "description": "This guide explains how to get access to a Databricks workspace, whether you're signing up for a free trial or joining an existing organization. It includes everything from workspace URLs to SSO login and common troubleshooting.",
+  "source": "@site/docs-databricks/databricks-login-guide.md",
+  "sourceDirName": ".",
+  "slug": "/databricks-login-guide",
+  "permalink": "/databricks/databricks-login-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "databricks-login-guide",
+    "title": "How to Get Databricks Login – Step-by-Step Guide",
+    "sidebar_label": "Databricks Login"
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "Introduction to Databricks",
+    "permalink": "/databricks/databricks-intro"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/databricks/databricks-architecture"
+  }
+}

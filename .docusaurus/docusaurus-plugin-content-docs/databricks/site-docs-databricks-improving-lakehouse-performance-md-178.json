@@ -1,0 +1,35 @@
+{
+  "id": "improving-lakehouse-performance",
+  "title": "Improving Lakehouse Performance — Dos & Don’ts",
+  "description": "Learn the essential performance optimization techniques for the Databricks Lakehouse. A story-driven, SEO-friendly guide covering file management, Z-ORDER, caching, Photon, SQL tuning, and architecture best practices.",
+  "source": "@site/docs-databricks/improving-lakehouse-performance.md",
+  "sourceDirName": ".",
+  "slug": "/improving-lakehouse-performance",
+  "permalink": "/databricks/improving-lakehouse-performance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "improving-lakehouse-performance",
+    "title": "Improving Lakehouse Performance — Dos & Don’ts",
+    "sidebar_label": "Lakehouse Performance",
+    "description": "Learn the essential performance optimization techniques for the Databricks Lakehouse. A story-driven, SEO-friendly guide covering file management, Z-ORDER, caching, Photon, SQL tuning, and architecture best practices.",
+    "keywords": [
+      "Databricks performance tuning",
+      "Lakehouse performance best practices",
+      "Delta Lake optimization",
+      "Databricks tuning guide",
+      "data engineering performance"
+    ]
+  },
+  "sidebar": "tutorialSidebar2",
+  "previous": {
+    "title": "SQL Endpoint Tuning",
+    "permalink": "/databricks/databricks-sql-endpoint-tuning"
+  },
+  "next": {
+    "title": "Unity Catalog",
+    "permalink": "/databricks/unity-catalog-central-governance"
+  }
+}

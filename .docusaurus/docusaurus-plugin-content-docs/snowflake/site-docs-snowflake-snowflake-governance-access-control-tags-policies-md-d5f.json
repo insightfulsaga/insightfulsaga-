@@ -1,0 +1,37 @@
+{
+  "id": "snowflake-governance-access-control-tags-policies",
+  "title": "Snowflake Governance — Access Control, Tags & Policies",
+  "description": "A story-driven, practical guide to Snowflake’s governance framework, including access control, object tagging, dynamic data masking, and policy-based security for enterprise-grade data management.",
+  "source": "@site/docs-snowflake/snowflake-governance-access-control-tags-policies.md",
+  "sourceDirName": ".",
+  "slug": "/snowflake-governance-access-control-tags-policies",
+  "permalink": "/snowflake/snowflake-governance-access-control-tags-policies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "snowflake-governance-access-control-tags-policies",
+    "title": "Snowflake Governance — Access Control, Tags & Policies",
+    "sidebar_label": "Governance & Policies",
+    "description": "A story-driven, practical guide to Snowflake’s governance framework, including access control, object tagging, dynamic data masking, and policy-based security for enterprise-grade data management.",
+    "keywords": [
+      "Snowflake governance",
+      "Snowflake access control",
+      "Snowflake security policies",
+      "Snowflake tags",
+      "Snowflake masking policies",
+      "Snowflake role-based access control",
+      "Snowflake data governance best practices"
+    ]
+  },
+  "sidebar": "tutorialSidebar1",
+  "previous": {
+    "title": "Data Sharing & Marketplace",
+    "permalink": "/snowflake/snowflake-sharing-marketplace-exchange-secure-shares"
+  },
+  "next": {
+    "title": "Dynamic Data Masking",
+    "permalink": "/snowflake/snowflake-dynamic-data-masking-use-cases"
+  }
+}

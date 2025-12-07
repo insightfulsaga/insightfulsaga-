@@ -1,0 +1,76 @@
+{
+  "id": "pyspark-functions-udfs",
+  "title": "PySpark Functions & UDFs — Complete Beginner Guide",
+  "description": "Learn how to use PySpark built-in functions, User Defined Functions (UDFs), and Pandas UDFs for efficient data transformations. Step-by-step examples and best practices for beginners.",
+  "source": "@site/docs-pyspark/pyspark-functions-udfs.md",
+  "sourceDirName": ".",
+  "slug": "/pyspark/functions-udfs",
+  "permalink": "/pyspark/pyspark/functions-udfs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "PySpark",
+      "permalink": "/pyspark/tags/py-spark"
+    },
+    {
+      "inline": true,
+      "label": "DataFrames",
+      "permalink": "/pyspark/tags/data-frames"
+    },
+    {
+      "inline": true,
+      "label": "Functions",
+      "permalink": "/pyspark/tags/functions"
+    },
+    {
+      "inline": true,
+      "label": "UDFs",
+      "permalink": "/pyspark/tags/ud-fs"
+    },
+    {
+      "inline": true,
+      "label": "Pandas UDFs",
+      "permalink": "/pyspark/tags/pandas-ud-fs"
+    },
+    {
+      "inline": true,
+      "label": "ETL",
+      "permalink": "/pyspark/tags/etl"
+    },
+    {
+      "inline": true,
+      "label": "Beginner",
+      "permalink": "/pyspark/tags/beginner"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "pyspark-functions-udfs",
+    "title": "PySpark Functions & UDFs — Complete Beginner Guide",
+    "sidebar_label": "Functions & UDFs",
+    "slug": "/pyspark/functions-udfs",
+    "description": "Learn how to use PySpark built-in functions, User Defined Functions (UDFs), and Pandas UDFs for efficient data transformations. Step-by-step examples and best practices for beginners.",
+    "keywords": [
+      "pyspark functions",
+      "pyspark udfs",
+      "pyspark pandas udf",
+      "spark dataframe functions",
+      "pyspark custom transformations",
+      "spark udf example",
+      "pyspark beginner guide"
+    ],
+    "og:title": "PySpark Functions & UDFs — Beginner-Friendly Guide",
+    "og:description": "Master PySpark Functions, UDFs, and Pandas UDFs. Learn how to apply built-in functions, write custom logic, and optimize transformations on large datasets.",
+    "tags": [
+      "PySpark",
+      "DataFrames",
+      "Functions",
+      "UDFs",
+      "Pandas UDFs",
+      "ETL",
+      "Beginner"
+    ]
+  }
+}

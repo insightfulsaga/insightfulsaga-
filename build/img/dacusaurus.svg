@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="400" height="400">
+  <!-- Diamond frame -->
+  <polygon points="512,64 960,512 512,960 64,512" stroke="#ccc" stroke-width="20" fill="none"/>
+
+  <!-- Internal lines forming triangles -->
+  <line x1="512" y1="64" x2="512" y2="960" stroke="#ccc" stroke-width="10"/>
+  <line x1="64" y1="512" x2="960" y2="512" stroke="#ccc" stroke-width="10"/>
+  <line x1="512" y1="64" x2="960" y2="512" stroke="#ccc" stroke-width="10"/>
+  <line x1="512" y1="64" x2="64" y2="512" stroke="#ccc" stroke-width="10"/>
+  <line x1="512" y1="960" x2="960" y2="512" stroke="#ccc" stroke-width="10"/>
+  <line x1="512" y1="960" x2="64" y2="512" stroke="#ccc" stroke-width="10"/>
+
+  <!-- Circular nodes -->
+  <circle cx="512" cy="512" r="24" fill="#ccc"/>
+  <circle cx="320" cy="320" r="20" fill="#ccc"/>
+  <circle cx="704" cy="704" r="20" fill="#ccc"/>
+</svg>
